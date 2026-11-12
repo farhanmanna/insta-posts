@@ -1,0 +1,92 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Pick up, Set up, Ago vs Before and more",
+ "pages": [
+  {
+   "title": "Pick up",
+   "meaning": "to collect someone, or learn something casually",
+   "synonym": "collect; learn",
+   "examples": [
+    "I'll pick you up at eight.",
+    "She picked up Hindi quickly."
+   ],
+   "tip": [
+    "pick me up -> 'me' in the middle"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Ago vs Before",
+   "intro": "Both talk about the past.",
+   "left": {
+    "label": "Ago",
+    "examples": [
+     "two days ago",
+     "an hour ago"
+    ],
+    "note": "Back from now"
+   },
+   "right": {
+    "label": "Before",
+    "examples": [
+     "I'd met her before.",
+     "before lunch"
+    ],
+    "note": "Earlier than"
+   },
+   "tip": [
+    "ago -> from now",
+    "before -> earlier than"
+   ]
+  },
+  {
+   "title": "Sit on the fence",
+   "meaning": "to avoid choosing a side",
+   "synonym": "stay neutral",
+   "examples": [
+    "Stop sitting on the fence and decide.",
+    "He always sits on the fence."
+   ],
+   "tip": [
+    "Idiom: no clear opinion"
+   ]
+  },
+  {
+   "title": "Set up",
+   "meaning": "to start or arrange something",
+   "synonym": "start, arrange",
+   "examples": [
+    "She set up her own business.",
+    "Let's set up a meeting."
+   ],
+   "tip": [
+    "setup (noun) -> arrangement"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "In time vs On time",
+   "intro": "One small word changes the meaning.",
+   "left": {
+    "label": "In time",
+    "examples": [
+     "just in time",
+     "in time for dinner"
+    ],
+    "note": "Early enough"
+   },
+   "right": {
+    "label": "On time",
+    "examples": [
+     "The bus was on time.",
+     "Be on time!"
+    ],
+    "note": "As planned"
+   },
+   "tip": [
+    "in time -> not too late",
+    "on time -> at the set time"
+   ]
+  }
+ ]
+}

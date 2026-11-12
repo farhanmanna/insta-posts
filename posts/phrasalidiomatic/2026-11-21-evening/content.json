@@ -1,0 +1,79 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Weekend mode: Hit the books, Take a rain check...",
+ "pages": [
+  {
+   "title": "Hit the books",
+   "meaning": "to study hard",
+   "synonym": "study",
+   "examples": [
+    "Exams are close, time to hit the books.",
+    "I need to hit the books tonight."
+   ],
+   "tip": [
+    "Idiom: informal, for students"
+   ]
+  },
+  {
+   "title": "Get rid of",
+   "meaning": "to throw away or remove something unwanted",
+   "synonym": "throw away, remove",
+   "examples": [
+    "Get rid of those old shoes.",
+    "I can't get rid of this cold."
+   ],
+   "tip": [
+    "get rid of + unwanted thing"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Beside vs Besides",
+   "intro": "One letter changes the meaning.",
+   "left": {
+    "label": "Beside",
+    "examples": [
+     "Sit beside me.",
+     "beside the door"
+    ],
+    "note": "Next to"
+   },
+   "right": {
+    "label": "Besides",
+    "examples": [
+     "Besides, it's late.",
+     "Who else besides you?"
+    ],
+    "note": "Also, in addition"
+   },
+   "tip": [
+    "beside -> next to",
+    "besides -> also"
+   ]
+  },
+  {
+   "title": "Take a rain check",
+   "meaning": "to politely say no now, but maybe later",
+   "synonym": "postpone",
+   "examples": [
+    "Can I take a rain check on dinner?",
+    "I'll take a rain check, thanks."
+   ],
+   "tip": [
+    "Idiom: a polite 'not today'"
+   ]
+  },
+  {
+   "title": "Look into",
+   "meaning": "to examine or investigate something",
+   "synonym": "investigate, check",
+   "examples": [
+    "We'll look into the problem.",
+    "Police are looking into it."
+   ],
+   "tip": [
+    "look into + problem / matter"
+   ]
+  }
+ ]
+}

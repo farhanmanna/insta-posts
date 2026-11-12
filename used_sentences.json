@@ -648,6 +648,32 @@
     "Raise vs Rise",
     "Throw in the towel"
    ]
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-21",
+   "slot": "noon",
+   "theme": "Pick up, Set up, Ago vs Before and more",
+   "english": [
+    "Pick up",
+    "Ago vs Before",
+    "Sit on the fence",
+    "Set up",
+    "In time vs On time"
+   ]
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-21",
+   "slot": "evening",
+   "theme": "Weekend mode: Hit the books, Take a rain check...",
+   "english": [
+    "Hit the books",
+    "Get rid of",
+    "Beside vs Besides",
+    "Take a rain check",
+    "Look into"
+   ]
   }
  ]
 }
