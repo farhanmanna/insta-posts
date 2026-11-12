@@ -1,0 +1,20 @@
+{"handle": "phrasalidiomatics", "theme": "Mixed: phrasal verbs, idioms and confusing words",
+ "pages": [
+  {"title": "Break the ice", "meaning": "to say or do something to make people feel relaxed", "synonym": "start a conversation",
+   "examples": ["He told a joke to break the ice.", "Games help break the ice at parties."],
+   "tip": ["Idiom: used when meeting new people"]},
+  {"type": "compare", "title": "Say vs Tell", "intro": "Both are about speaking.",
+   "left": {"label": "Say", "examples": ["She said goodbye.", "He said it was late."], "note": "No person after it"},
+   "right": {"label": "Tell", "examples": ["She told me the news.", "He told us a story."], "note": "Person after it"},
+   "tip": ["say something -> no object", "tell someone -> person"]},
+  {"title": "Run out of", "meaning": "to have no more of something left", "synonym": "use up, be out of",
+   "examples": ["We've run out of milk.", "I'm running out of time!"],
+   "tip": ["Run out of + noun", "run out of money / patience"]},
+  {"type": "compare", "title": "Since vs For", "intro": "Both talk about time.",
+   "left": {"label": "Since", "examples": ["I've lived here since 2020.", "since Monday"], "note": "Starting point"},
+   "right": {"label": "For", "examples": ["I've lived here for six years.", "for two hours"], "note": "Length of time"},
+   "tip": ["Since -> when it started", "For -> how long"]},
+  {"title": "Once in a blue moon", "meaning": "very rarely", "synonym": "hardly ever",
+   "examples": ["I eat fast food once in a blue moon.", "He calls me once in a blue moon."],
+   "tip": ["Idiom: blue moon -> very rare event"]}
+ ]}

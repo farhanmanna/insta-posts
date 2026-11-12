@@ -127,6 +127,15 @@ def page(p, idx, total, handle, out, seed):
 
     ln = 3
     bf = K4(48)
+    lf = K7(46)
+    if p.get("type") == "compare":
+        ln = compare_body(d, p, ln, bf, rnd)
+    else:
+        ln = word_body(d, p, ln, bf, lf, rnd)
+    tip_and_footer(img, d, p, ln, idx, total, handle, rnd)
+    img.save(out, quality=92)
+
+def word_body(d, p, ln, bf, lf, rnd):
     # circled "Meaning"
     lab = "Meaning"
     lf = K7(46)
@@ -163,6 +172,51 @@ def page(p, idx, total, handle, out, seed):
         for row in rows:
             d.text((LEFT + 60, on_line(ln)), row, font=bf, fill=(20, 20, 30)); ln += 1
 
+    return ln
+
+def compare_body(d, p, ln, bf, rnd):
+    if p.get("intro"):
+        for row in wrap(d, p["intro"], bf, RIGHT - LEFT - 10):
+            d.text((LEFT, on_line(ln)), row, font=bf, fill=BLUE); ln += 1
+        ln += 1
+    mid = (LEFT + RIGHT) // 2
+    colw = (RIGHT - LEFT) // 2 - 40
+    lf = K7(50)
+    start = ln
+    ends = []
+    for side, x0 in (("left", LEFT), ("right", mid + 30)):
+        c = p[side]
+        r = start
+        lw = d.textlength(c["label"], font=lf)
+        cx = x0 + (colw - lw) / 2
+        d.text((cx, on_line(r) - 2), c["label"], font=lf, fill=RED)
+        hand_ellipse(d, (cx - 22, TOP + (r - 1) * LH + 2, cx + lw + 22, TOP + r * LH + 6), RED, 3, rnd)
+        r += 2
+        sf = K4(44)
+        for ex in c["examples"]:
+            rows = wrap(d, ex, sf, colw - (40 if side == "left" else 0))
+            if side == "left":
+                arrow(d, x0 - 40, TOP + r * LH - 28, x0 + 6, BLUE, rnd, width=3)
+            for row in rows:
+                d.text((x0 + (24 if side == "left" else 0), on_line(r)), row, font=sf, fill=(20, 20, 30)); r += 1
+        if c.get("note"):
+            r += 0
+            star(d, x0 + 14, TOP + r * LH - 26, 15, GREEN)
+            for row in wrap(d, c["note"], sf, colw - 40):
+                d.text((x0 + 38, on_line(r)), row, font=sf, fill=GREEN)
+                wobble_line(d, (x0 + 38, TOP + r * LH - 6), (x0 + 38 + d.textlength(row, font=sf), TOP + r * LH - 6), GREEN, 3, rnd)
+                r += 1
+        ends.append(r)
+    end = max(ends)
+    # hand-drawn purple divider between the columns
+    pts = []
+    for i in range(21):
+        t = i / 20
+        pts.append((mid + 8 + 10 * math.sin(t * math.pi) + rnd.uniform(-1, 1), TOP + (start - 1) * LH + 10 + t * ((end - start + 1) * LH - 20)))
+    d.line(pts, fill=PURPLE, width=4, joint="curve")
+    return end
+
+def tip_and_footer(img, d, p, ln, idx, total, handle, rnd):
     # tip cloud at the bottom
     tips = p.get("tip") or []
     if tips:
@@ -195,7 +249,6 @@ def page(p, idx, total, handle, out, seed):
     d.text((RIGHT - d.textlength(h, font=hf), H - 66), h, font=hf, fill=GREY)
     if total > 1:
         d.text((LEFT, H - 66), f"{idx}/{total}", font=hf, fill=GREY)
-    img.save(out, quality=92)
 
 if __name__ == "__main__":
     data = json.load(open(sys.argv[1])); out = sys.argv[2]
