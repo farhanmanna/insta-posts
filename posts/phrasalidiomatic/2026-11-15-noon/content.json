@@ -1,0 +1,81 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Happy days: On cloud nine, Turn down, Calm down...",
+ "pages": [
+  {
+   "title": "On cloud nine",
+   "meaning": "extremely happy",
+   "synonym": "thrilled, overjoyed",
+   "examples": [
+    "She's been on cloud nine all week.",
+    "He was on cloud nine after the win."
+   ],
+   "tip": [
+    "Idiom: very, very happy"
+   ]
+  },
+  {
+   "title": "The ball is in your court",
+   "meaning": "it's your turn to decide or act",
+   "synonym": "your move",
+   "examples": [
+    "I've apologised; the ball is in your court.",
+    "The ball is in your court now."
+   ],
+   "tip": [
+    "Idiom: from tennis -> your turn"
+   ]
+  },
+  {
+   "title": "Turn down",
+   "meaning": "to refuse an offer, or lower the volume",
+   "synonym": "reject; lower",
+   "examples": [
+    "She turned down the job offer.",
+    "Please turn down the music."
+   ],
+   "tip": [
+    "turn down an offer",
+    "turn down the TV"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Remember vs Remind",
+   "intro": "Both are about memory.",
+   "left": {
+    "label": "Remember",
+    "examples": [
+     "I remember him.",
+     "Remember this!"
+    ],
+    "note": "In your mind"
+   },
+   "right": {
+    "label": "Remind",
+    "examples": [
+     "Remind me at five.",
+     "You remind me of Mom."
+    ],
+    "note": "Someone helps you"
+   },
+   "tip": [
+    "remind + person",
+    "remember + thing"
+   ]
+  },
+  {
+   "title": "Calm down",
+   "meaning": "to relax after being angry or upset",
+   "synonym": "relax, cool down",
+   "examples": [
+    "Calm down, it's not a big deal.",
+    "It took him an hour to calm down."
+   ],
+   "tip": [
+    "calm down -> relax",
+    "calm someone down"
+   ]
+  }
+ ]
+}

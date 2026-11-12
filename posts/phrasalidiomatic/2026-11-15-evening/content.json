@@ -1,0 +1,93 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Tricky spellings: Its vs It's, Then vs Than...",
+ "pages": [
+  {
+   "type": "compare",
+   "title": "Its vs It's",
+   "intro": "They sound the same.",
+   "left": {
+    "label": "Its",
+    "examples": [
+     "The dog wagged its tail.",
+     "its colour"
+    ],
+    "note": "Belongs to it"
+   },
+   "right": {
+    "label": "It's",
+    "examples": [
+     "It's raining.",
+     "It's my phone."
+    ],
+    "note": "= it is / it has"
+   },
+   "tip": [
+    "it's -> it is",
+    "its -> owner, no ( ' )"
+   ]
+  },
+  {
+   "title": "Look forward to",
+   "meaning": "to feel happy about something coming",
+   "synonym": "can't wait for",
+   "examples": [
+    "I look forward to the weekend.",
+    "We look forward to meeting you."
+   ],
+   "tip": [
+    "look forward to + verb-ing",
+    "NOT 'to meet' -> 'to meeting'"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Then vs Than",
+   "intro": "One letter makes a big difference.",
+   "left": {
+    "label": "Then",
+    "examples": [
+     "Eat, then sleep.",
+     "Back then, I was shy."
+    ],
+    "note": "Time or order"
+   },
+   "right": {
+    "label": "Than",
+    "examples": [
+     "taller than me",
+     "better than before"
+    ],
+    "note": "Comparisons"
+   },
+   "tip": [
+    "then -> time",
+    "than -> compare"
+   ]
+  },
+  {
+   "title": "Let the cat out of the bag",
+   "meaning": "to reveal a secret by mistake",
+   "synonym": "give away a secret",
+   "examples": [
+    "Who let the cat out of the bag?",
+    "She let the cat out of the bag."
+   ],
+   "tip": [
+    "Idiom: usually by accident"
+   ]
+  },
+  {
+   "title": "Come across",
+   "meaning": "to find or meet by chance",
+   "synonym": "stumble upon, find",
+   "examples": [
+    "I came across an old photo.",
+    "Have you come across this word?"
+   ],
+   "tip": [
+    "come across -> find by chance"
+   ]
+  }
+ ]
+}

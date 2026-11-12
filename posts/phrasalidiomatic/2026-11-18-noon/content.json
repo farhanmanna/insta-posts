@@ -1,0 +1,79 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Friends and forms: Back up, Fill in, Drop by...",
+ "pages": [
+  {
+   "title": "Back up",
+   "meaning": "to support someone, or to copy data",
+   "synonym": "support; save a copy",
+   "examples": [
+    "My friends always back me up.",
+    "Back up your phone photos."
+   ],
+   "tip": [
+    "backup (noun) -> saved copy"
+   ]
+  },
+  {
+   "title": "Fill in",
+   "meaning": "to complete a form with information",
+   "synonym": "complete",
+   "examples": [
+    "Please fill in this form.",
+    "Fill in your name here."
+   ],
+   "tip": [
+    "fill in for -> replace someone"
+   ]
+  },
+  {
+   "title": "Pull someone's leg",
+   "meaning": "to joke by saying something untrue",
+   "synonym": "tease, kid",
+   "examples": [
+    "Relax, I'm just pulling your leg.",
+    "Are you pulling my leg?"
+   ],
+   "tip": [
+    "Idiom: a friendly joke"
+   ]
+  },
+  {
+   "title": "Drop by",
+   "meaning": "to visit briefly without a plan",
+   "synonym": "pop in, stop by",
+   "examples": [
+    "Drop by anytime!",
+    "She dropped by after work."
+   ],
+   "tip": [
+    "drop by + place / someone's house"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Few vs A few",
+   "intro": "One little word changes the feeling.",
+   "left": {
+    "label": "Few",
+    "examples": [
+     "Few people came.",
+     "I have few friends."
+    ],
+    "note": "Almost none"
+   },
+   "right": {
+    "label": "A few",
+    "examples": [
+     "A few people came.",
+     "I have a few friends."
+    ],
+    "note": "Some"
+   },
+   "tip": [
+    "few -> not enough",
+    "a few -> some"
+   ]
+  }
+ ]
+}

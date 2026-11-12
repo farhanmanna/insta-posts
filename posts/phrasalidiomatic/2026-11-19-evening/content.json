@@ -1,0 +1,92 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Feelings and fixes: Get over, Bored vs Boring, Sort out...",
+ "pages": [
+  {
+   "type": "compare",
+   "title": "Among vs Between",
+   "intro": "Both show position.",
+   "left": {
+    "label": "Among",
+    "examples": [
+     "among friends",
+     "among the trees"
+    ],
+    "note": "Three or more"
+   },
+   "right": {
+    "label": "Between",
+    "examples": [
+     "between two shops",
+     "between you and me"
+    ],
+    "note": "Two things"
+   },
+   "tip": [
+    "among -> a group",
+    "between -> two"
+   ]
+  },
+  {
+   "title": "Get over",
+   "meaning": "to recover from something sad or an illness",
+   "synonym": "recover from",
+   "examples": [
+    "She got over the flu quickly.",
+    "He still hasn't got over her."
+   ],
+   "tip": [
+    "get over + illness / breakup"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Bored vs Boring",
+   "intro": "Both come from 'bore'.",
+   "left": {
+    "label": "Bored",
+    "examples": [
+     "I'm bored.",
+     "He looks bored."
+    ],
+    "note": "How you feel"
+   },
+   "right": {
+    "label": "Boring",
+    "examples": [
+     "The film is boring.",
+     "a boring class"
+    ],
+    "note": "What causes it"
+   },
+   "tip": [
+    "-ed -> feeling",
+    "-ing -> cause"
+   ]
+  },
+  {
+   "title": "Sort out",
+   "meaning": "to solve a problem or organise things",
+   "synonym": "fix, organise",
+   "examples": [
+    "I'll sort out the problem.",
+    "Sort out your cupboard."
+   ],
+   "tip": [
+    "sort it out -> 'it' in the middle"
+   ]
+  },
+  {
+   "title": "Face the music",
+   "meaning": "to accept the results of your actions",
+   "synonym": "take responsibility",
+   "examples": [
+    "You broke it, now face the music.",
+    "He had to face the music."
+   ],
+   "tip": [
+    "Idiom: accept the punishment"
+   ]
+  }
+ ]
+}

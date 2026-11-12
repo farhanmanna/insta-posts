@@ -1,0 +1,92 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Trouble and trust: In hot water, Count on, Already vs Yet...",
+ "pages": [
+  {
+   "title": "In hot water",
+   "meaning": "in trouble because of something you did",
+   "synonym": "in a fix",
+   "examples": [
+    "He's in hot water with his boss.",
+    "I'll be in hot water if I'm late."
+   ],
+   "tip": [
+    "Idiom: get into hot water"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Much vs Many",
+   "intro": "Both mean a large amount.",
+   "left": {
+    "label": "Much",
+    "examples": [
+     "How much sugar?",
+     "not much time"
+    ],
+    "note": "Uncountable"
+   },
+   "right": {
+    "label": "Many",
+    "examples": [
+     "How many eggs?",
+     "many people"
+    ],
+    "note": "Countable"
+   },
+   "tip": [
+    "much -> amount",
+    "many -> number"
+   ]
+  },
+  {
+   "title": "Keep an eye on",
+   "meaning": "to watch something carefully",
+   "synonym": "watch, look after",
+   "examples": [
+    "Keep an eye on my bag, please.",
+    "Keep an eye on the milk."
+   ],
+   "tip": [
+    "Idiom: keep an eye ON + thing"
+   ]
+  },
+  {
+   "title": "Count on",
+   "meaning": "to trust someone to help you",
+   "synonym": "rely on, depend on",
+   "examples": [
+    "You can count on me.",
+    "I'm counting on you tomorrow."
+   ],
+   "tip": [
+    "count on + person / thing"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Already vs Yet",
+   "intro": "Both talk about time up to now.",
+   "left": {
+    "label": "Already",
+    "examples": [
+     "I've already eaten.",
+     "She's already here."
+    ],
+    "note": "Sooner than expected"
+   },
+   "right": {
+    "label": "Yet",
+    "examples": [
+     "Not done yet.",
+     "Has he come yet?"
+    ],
+    "note": "Questions and 'not'"
+   },
+   "tip": [
+    "already -> positive",
+    "yet -> questions, 'not'"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Eyes and ears: Look vs See, Hear vs Listen...",
+ "pages": [
+  {
+   "type": "compare",
+   "title": "Look vs See",
+   "intro": "Both are about using your eyes.",
+   "left": {
+    "label": "Look",
+    "examples": [
+     "Look at this!",
+     "Look at the board."
+    ],
+    "note": "On purpose"
+   },
+   "right": {
+    "label": "See",
+    "examples": [
+     "I can see the sea.",
+     "Did you see that?"
+    ],
+    "note": "It just happens"
+   },
+   "tip": [
+    "look AT something",
+    "see -> no 'at'"
+   ]
+  },
+  {
+   "title": "Miss the boat",
+   "meaning": "to lose a chance by being too slow",
+   "synonym": "miss out",
+   "examples": [
+    "Apply now or you'll miss the boat.",
+    "He missed the boat on that deal."
+   ],
+   "tip": [
+    "Idiom: the chance is gone"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Hear vs Listen",
+   "intro": "Both are about sounds.",
+   "left": {
+    "label": "Hear",
+    "examples": [
+     "I hear a noise.",
+     "Can you hear me?"
+    ],
+    "note": "Happens naturally"
+   },
+   "right": {
+    "label": "Listen",
+    "examples": [
+     "Listen to me!",
+     "I listen to music."
+    ],
+    "note": "On purpose"
+   },
+   "tip": [
+    "listen TO something",
+    "hear -> no 'to'"
+   ]
+  },
+  {
+   "title": "Take after",
+   "meaning": "to look or behave like an older relative",
+   "synonym": "resemble",
+   "examples": [
+    "She takes after her mother.",
+    "He takes after his dad."
+   ],
+   "tip": [
+    "only for family members"
+   ]
+  },
+  {
+   "title": "A blessing in disguise",
+   "meaning": "something bad that turns out to be good",
+   "synonym": "a hidden benefit",
+   "examples": [
+    "Losing that job was a blessing in disguise.",
+    "The delay was a blessing in disguise."
+   ],
+   "tip": [
+    "Idiom: bad at first -> good later"
+   ]
+  }
+ ]
+}

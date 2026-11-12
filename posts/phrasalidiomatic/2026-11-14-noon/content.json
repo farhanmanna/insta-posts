@@ -1,0 +1,93 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Secrets, prices and grammar: Lie vs Lay, Make vs Do...",
+ "pages": [
+  {
+   "title": "Spill the beans",
+   "meaning": "to tell a secret too early",
+   "synonym": "reveal, let slip",
+   "examples": [
+    "Who spilled the beans?",
+    "Don't spill the beans about the party."
+   ],
+   "tip": [
+    "Idiom: beans -> a secret"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Lie vs Lay",
+   "intro": "Both are about putting down.",
+   "left": {
+    "label": "Lie",
+    "examples": [
+     "Lie on the bed.",
+     "I lie down daily."
+    ],
+    "note": "No object"
+   },
+   "right": {
+    "label": "Lay",
+    "examples": [
+     "Lay the book down.",
+     "She lays the table."
+    ],
+    "note": "Needs an object"
+   },
+   "tip": [
+    "lie -> yourself",
+    "lay -> something"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Make vs Do",
+   "intro": "Both mean to act or create.",
+   "left": {
+    "label": "Make",
+    "examples": [
+     "Make a cake.",
+     "Make a mistake."
+    ],
+    "note": "Create something"
+   },
+   "right": {
+    "label": "Do",
+    "examples": [
+     "Do your homework.",
+     "Do the dishes."
+    ],
+    "note": "Tasks and jobs"
+   },
+   "tip": [
+    "make -> create",
+    "do -> tasks, work"
+   ]
+  },
+  {
+   "title": "Carry on",
+   "meaning": "to continue doing something",
+   "synonym": "continue, keep going",
+   "examples": [
+    "Carry on with your work.",
+    "She carried on talking."
+   ],
+   "tip": [
+    "carry on + verb-ing",
+    "carry on with + noun"
+   ]
+  },
+  {
+   "title": "Cost an arm and a leg",
+   "meaning": "to be very expensive",
+   "synonym": "very costly, pricey",
+   "examples": [
+    "This phone cost an arm and a leg.",
+    "Flights cost an arm and a leg now."
+   ],
+   "tip": [
+    "Idiom: used for high prices"
+   ]
+  }
+ ]
+}

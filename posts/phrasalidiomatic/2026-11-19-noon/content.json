@@ -1,0 +1,79 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Good news days: Over the moon, Make up, Break a leg...",
+ "pages": [
+  {
+   "title": "Make up",
+   "meaning": "to become friends again after a fight",
+   "synonym": "reconcile",
+   "examples": [
+    "They argued but made up later.",
+    "Kiss and make up!"
+   ],
+   "tip": [
+    "make up a story -> invent it"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Each vs Every",
+   "intro": "Both mean all, one by one.",
+   "left": {
+    "label": "Each",
+    "examples": [
+     "each of us",
+     "Each child smiled."
+    ],
+    "note": "One by one"
+   },
+   "right": {
+    "label": "Every",
+    "examples": [
+     "every day",
+     "every house here"
+    ],
+    "note": "All as a group"
+   },
+   "tip": [
+    "each of + group",
+    "every + one noun"
+   ]
+  },
+  {
+   "title": "Over the moon",
+   "meaning": "very happy and delighted",
+   "synonym": "thrilled, delighted",
+   "examples": [
+    "She was over the moon with her gift.",
+    "We're over the moon about the news."
+   ],
+   "tip": [
+    "Idiom: like 'on cloud nine'"
+   ]
+  },
+  {
+   "title": "Look up",
+   "meaning": "to search for information",
+   "synonym": "search, check",
+   "examples": [
+    "Look up the word in a dictionary.",
+    "I looked up the train times."
+   ],
+   "tip": [
+    "look it up -> 'it' in the middle"
+   ]
+  },
+  {
+   "title": "Break a leg",
+   "meaning": "good luck (said before a performance)",
+   "synonym": "good luck",
+   "examples": [
+    "Break a leg in your show!",
+    "Break a leg tonight!"
+   ],
+   "tip": [
+    "Idiom: for actors and speakers"
+   ]
+  }
+ ]
+}

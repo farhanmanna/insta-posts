@@ -1,0 +1,92 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Easy wins: Affect vs Effect, Borrow vs Lend and more",
+ "pages": [
+  {
+   "type": "compare",
+   "title": "Affect vs Effect",
+   "intro": "Both are about change.",
+   "left": {
+    "label": "Affect",
+    "examples": [
+     "Rain affects traffic.",
+     "Stress affects sleep."
+    ],
+    "note": "Verb: to change"
+   },
+   "right": {
+    "label": "Effect",
+    "examples": [
+     "It had an effect.",
+     "side effects"
+    ],
+    "note": "Noun: the result"
+   },
+   "tip": [
+    "affect -> action (verb)",
+    "effect -> end result"
+   ]
+  },
+  {
+   "title": "Piece of cake",
+   "meaning": "something very easy to do",
+   "synonym": "very easy, a breeze",
+   "examples": [
+    "The test was a piece of cake.",
+    "Cooking rice is a piece of cake."
+   ],
+   "tip": [
+    "Idiom: used for easy tasks"
+   ]
+  },
+  {
+   "title": "Look after",
+   "meaning": "to take care of someone or something",
+   "synonym": "take care of",
+   "examples": [
+    "Can you look after my dog?",
+    "She looks after her grandma."
+   ],
+   "tip": [
+    "look after + person / thing"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Borrow vs Lend",
+   "intro": "Both mean using something for a while.",
+   "left": {
+    "label": "Borrow",
+    "examples": [
+     "Can I borrow your pen?",
+     "I borrowed his car."
+    ],
+    "note": "You take it"
+   },
+   "right": {
+    "label": "Lend",
+    "examples": [
+     "Lend me your pen.",
+     "She lent me a book."
+    ],
+    "note": "You give it"
+   },
+   "tip": [
+    "borrow FROM someone",
+    "lend TO someone"
+   ]
+  },
+  {
+   "title": "Under the weather",
+   "meaning": "feeling slightly ill",
+   "synonym": "unwell, a bit sick",
+   "examples": [
+    "I'm feeling under the weather.",
+    "He looks a bit under the weather."
+   ],
+   "tip": [
+    "Idiom: mild illness, not serious"
+   ]
+  }
+ ]
+}

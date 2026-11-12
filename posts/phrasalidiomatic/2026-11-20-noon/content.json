@@ -1,0 +1,79 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Agree and keep up: See eye to eye, Accept vs Except...",
+ "pages": [
+  {
+   "title": "See eye to eye",
+   "meaning": "to agree with someone",
+   "synonym": "agree",
+   "examples": [
+    "We don't see eye to eye on this.",
+    "They rarely see eye to eye."
+   ],
+   "tip": [
+    "Idiom: often used with 'not'"
+   ]
+  },
+  {
+   "title": "Keep up with",
+   "meaning": "to move or learn at the same speed",
+   "synonym": "stay level with",
+   "examples": [
+    "I can't keep up with you!",
+    "Keep up with the news."
+   ],
+   "tip": [
+    "keep up with + person / news"
+   ]
+  },
+  {
+   "title": "Hit the nail on the head",
+   "meaning": "to describe something exactly right",
+   "synonym": "be spot on",
+   "examples": [
+    "You hit the nail on the head!",
+    "Her answer hit the nail on the head."
+   ],
+   "tip": [
+    "Idiom: exactly correct"
+   ]
+  },
+  {
+   "title": "Break down",
+   "meaning": "to stop working, or to start crying",
+   "synonym": "fail; burst into tears",
+   "examples": [
+    "My car broke down on the highway.",
+    "She broke down in tears."
+   ],
+   "tip": [
+    "breakdown (noun) -> failure"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Accept vs Except",
+   "intro": "They sound almost the same.",
+   "left": {
+    "label": "Accept",
+    "examples": [
+     "Accept my apology.",
+     "I accept the offer."
+    ],
+    "note": "Verb: to say yes"
+   },
+   "right": {
+    "label": "Except",
+    "examples": [
+     "everyone except me",
+     "every day except Sunday"
+    ],
+    "note": "Leaving out"
+   },
+   "tip": [
+    "accept -> say yes",
+    "except -> but not"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Finish strong: Go the extra mile, Raise vs Rise...",
+ "pages": [
+  {
+   "title": "Catch up",
+   "meaning": "to reach someone, or talk after a long time",
+   "synonym": "reach; reconnect",
+   "examples": [
+    "Let's catch up over coffee.",
+    "Go ahead, I'll catch up."
+   ],
+   "tip": [
+    "catch up with + person"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Your vs You're",
+   "intro": "Same sound, different meaning.",
+   "left": {
+    "label": "Your",
+    "examples": [
+     "your bag",
+     "Is this your phone?"
+    ],
+    "note": "Belongs to you"
+   },
+   "right": {
+    "label": "You're",
+    "examples": [
+     "You're late.",
+     "You're my friend."
+    ],
+    "note": "= you are"
+   },
+   "tip": [
+    "you're -> you are",
+    "your -> owner"
+   ]
+  },
+  {
+   "title": "Go the extra mile",
+   "meaning": "to do more than what is expected",
+   "synonym": "go above and beyond",
+   "examples": [
+    "She always goes the extra mile.",
+    "Go the extra mile for customers."
+   ],
+   "tip": [
+    "Idiom: extra effort"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Raise vs Rise",
+   "intro": "Both mean going up.",
+   "left": {
+    "label": "Raise",
+    "examples": [
+     "Raise your hand.",
+     "They raised prices."
+    ],
+    "note": "Needs an object"
+   },
+   "right": {
+    "label": "Rise",
+    "examples": [
+     "The sun rises.",
+     "Prices rose again."
+    ],
+    "note": "No object"
+   },
+   "tip": [
+    "raise -> lift something",
+    "rise -> go up by itself"
+   ]
+  },
+  {
+   "title": "Throw in the towel",
+   "meaning": "to stop trying and accept defeat",
+   "synonym": "quit, give up",
+   "examples": [
+    "Don't throw in the towel yet!",
+    "He threw in the towel after a year."
+   ],
+   "tip": [
+    "Idiom: from boxing -> quit"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Plans and bedtime: Put off, Figure out, Hit the sack...",
+ "pages": [
+  {
+   "title": "Put off",
+   "meaning": "to delay something to a later time",
+   "synonym": "postpone, delay",
+   "examples": [
+    "Don't put off your homework.",
+    "They put off the meeting."
+   ],
+   "tip": [
+    "put off + verb-ing",
+    "put off calling / going"
+   ]
+  },
+  {
+   "title": "Figure out",
+   "meaning": "to understand or solve something",
+   "synonym": "work out, solve",
+   "examples": [
+    "I can't figure out this sum.",
+    "She figured out the answer."
+   ],
+   "tip": [
+    "figure it out -> 'it' in the middle"
+   ]
+  },
+  {
+   "title": "Hit the sack",
+   "meaning": "to go to bed",
+   "synonym": "go to sleep",
+   "examples": [
+    "I'm tired, I'll hit the sack.",
+    "He hit the sack at ten."
+   ],
+   "tip": [
+    "Idiom: informal, sack -> bed"
+   ]
+  },
+  {
+   "title": "Show up",
+   "meaning": "to arrive, often late or unexpectedly",
+   "synonym": "turn up, arrive",
+   "examples": [
+    "He showed up an hour late.",
+    "Only five people showed up."
+   ],
+   "tip": [
+    "show up -> arrive (informal)"
+   ]
+  },
+  {
+   "title": "Call it a day",
+   "meaning": "to stop working for the day",
+   "synonym": "stop, finish up",
+   "examples": [
+    "Let's call it a day.",
+    "We called it a day at six."
+   ],
+   "tip": [
+    "Idiom: said at the end of work"
+   ]
+  }
+ ]
+}

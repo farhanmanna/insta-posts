@@ -1,0 +1,93 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "People and things: Get along with, Fewer vs Less...",
+ "pages": [
+  {
+   "title": "Get along with",
+   "meaning": "to have a friendly relationship with someone",
+   "synonym": "get on with",
+   "examples": [
+    "I get along with my boss.",
+    "Do you get along with your sister?"
+   ],
+   "tip": [
+    "get along WITH + person"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Fewer vs Less",
+   "intro": "Both mean a smaller amount.",
+   "left": {
+    "label": "Fewer",
+    "examples": [
+     "fewer cars",
+     "fewer people"
+    ],
+    "note": "Countable things"
+   },
+   "right": {
+    "label": "Less",
+    "examples": [
+     "less water",
+     "less time"
+    ],
+    "note": "Uncountable things"
+   },
+   "tip": [
+    "fewer -> count",
+    "less -> amount"
+   ]
+  },
+  {
+   "title": "Bite the bullet",
+   "meaning": "to do something hard you've been avoiding",
+   "synonym": "face it, go ahead",
+   "examples": [
+    "I bit the bullet and called him.",
+    "Just bite the bullet and apply."
+   ],
+   "tip": [
+    "Idiom: accept a painful choice"
+   ]
+  },
+  {
+   "title": "Bring up",
+   "meaning": "to mention a topic, or to raise a child",
+   "synonym": "mention; raise",
+   "examples": [
+    "Don't bring up money now.",
+    "She was brought up in Delhi."
+   ],
+   "tip": [
+    "bring up a topic",
+    "bring up a child"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Bring vs Take",
+   "intro": "Both are about carrying things.",
+   "left": {
+    "label": "Bring",
+    "examples": [
+     "Bring it here.",
+     "Bring your friend."
+    ],
+    "note": "Towards the speaker"
+   },
+   "right": {
+    "label": "Take",
+    "examples": [
+     "Take it there.",
+     "Take an umbrella."
+    ],
+    "note": "Away from the speaker"
+   },
+   "tip": [
+    "bring -> here",
+    "take -> there"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Cutting back: Cut down on, Put up with, Rob vs Steal...",
+ "pages": [
+  {
+   "title": "Cut down on",
+   "meaning": "to do or use less of something",
+   "synonym": "reduce",
+   "examples": [
+    "I'm cutting down on sugar.",
+    "Cut down on screen time."
+   ],
+   "tip": [
+    "cut down on + noun"
+   ]
+  },
+  {
+   "title": "Get cold feet",
+   "meaning": "to become nervous and back out",
+   "synonym": "lose your nerve",
+   "examples": [
+    "He got cold feet before the wedding.",
+    "Don't get cold feet now!"
+   ],
+   "tip": [
+    "Idiom: fear before a big step"
+   ]
+  },
+  {
+   "title": "Put up with",
+   "meaning": "to accept something annoying without complaining",
+   "synonym": "tolerate, bear",
+   "examples": [
+    "I can't put up with this noise.",
+    "She puts up with a lot."
+   ],
+   "tip": [
+    "put up with + annoying thing"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Rob vs Steal",
+   "intro": "Both are about taking things.",
+   "left": {
+    "label": "Rob",
+    "examples": [
+     "They robbed a bank.",
+     "He was robbed."
+    ],
+    "note": "A person or place"
+   },
+   "right": {
+    "label": "Steal",
+    "examples": [
+     "She stole my pen.",
+     "My bike was stolen."
+    ],
+    "note": "The thing taken"
+   },
+   "tip": [
+    "rob -> person, place",
+    "steal -> object"
+   ]
+  },
+  {
+   "title": "Cut corners",
+   "meaning": "to do something cheaply or carelessly",
+   "synonym": "skimp, rush the job",
+   "examples": [
+    "Don't cut corners on safety.",
+    "They cut corners to save money."
+   ],
+   "tip": [
+    "Idiom: less effort -> poor quality"
+   ]
+  }
+ ]
+}

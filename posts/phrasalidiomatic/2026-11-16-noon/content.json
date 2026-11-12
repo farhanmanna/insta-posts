@@ -1,0 +1,79 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Find out, Hang out, Work out and more",
+ "pages": [
+  {
+   "title": "Find out",
+   "meaning": "to discover a fact or information",
+   "synonym": "discover, learn",
+   "examples": [
+    "I found out the truth.",
+    "Find out when the train leaves."
+   ],
+   "tip": [
+    "find out + information"
+   ]
+  },
+  {
+   "title": "Hang out",
+   "meaning": "to spend relaxed time with friends",
+   "synonym": "chill, spend time",
+   "examples": [
+    "We hang out every Sunday.",
+    "Want to hang out later?"
+   ],
+   "tip": [
+    "hang out with + friends"
+   ]
+  },
+  {
+   "title": "Work out",
+   "meaning": "to exercise, or to find a solution",
+   "synonym": "exercise; solve",
+   "examples": [
+    "I work out at the gym.",
+    "We'll work out a plan."
+   ],
+   "tip": [
+    "workout (noun) -> exercise"
+   ]
+  },
+  {
+   "title": "Beat around the bush",
+   "meaning": "to avoid saying something directly",
+   "synonym": "avoid the point",
+   "examples": [
+    "Stop beating around the bush!",
+    "Don't beat around the bush, just say it."
+   ],
+   "tip": [
+    "Idiom: opposite -> get to the point"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Advice vs Advise",
+   "intro": "Same idea, different jobs.",
+   "left": {
+    "label": "Advice",
+    "examples": [
+     "good advice",
+     "Give me some advice."
+    ],
+    "note": "Noun, ends in /s/"
+   },
+   "right": {
+    "label": "Advise",
+    "examples": [
+     "I advise you to rest.",
+     "Doctors advise sleep."
+    ],
+    "note": "Verb, ends in /z/"
+   },
+   "tip": [
+    "advice -> noun",
+    "advise -> verb"
+   ]
+  }
+ ]
+}

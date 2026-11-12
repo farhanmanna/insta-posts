@@ -440,6 +440,214 @@
     "Everything will be fine one day.",
     "Believe in yourself."
    ]
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-13",
+   "slot": "noon",
+   "theme": "Easy wins: Affect vs Effect, Borrow vs Lend and more",
+   "english": [
+    "Affect vs Effect",
+    "Piece of cake",
+    "Look after",
+    "Borrow vs Lend",
+    "Under the weather"
+   ]
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-13",
+   "slot": "evening",
+   "theme": "Plans and bedtime: Put off, Figure out, Hit the sack...",
+   "english": [
+    "Put off",
+    "Figure out",
+    "Hit the sack",
+    "Show up",
+    "Call it a day"
+   ]
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-14",
+   "slot": "noon",
+   "theme": "Secrets, prices and grammar: Lie vs Lay, Make vs Do...",
+   "english": [
+    "Spill the beans",
+    "Lie vs Lay",
+    "Make vs Do",
+    "Carry on",
+    "Cost an arm and a leg"
+   ]
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-14",
+   "slot": "evening",
+   "theme": "People and things: Get along with, Fewer vs Less...",
+   "english": [
+    "Get along with",
+    "Fewer vs Less",
+    "Bite the bullet",
+    "Bring up",
+    "Bring vs Take"
+   ]
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-15",
+   "slot": "noon",
+   "theme": "Happy days: On cloud nine, Turn down, Calm down...",
+   "english": [
+    "On cloud nine",
+    "The ball is in your court",
+    "Turn down",
+    "Remember vs Remind",
+    "Calm down"
+   ]
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-15",
+   "slot": "evening",
+   "theme": "Tricky spellings: Its vs It's, Then vs Than...",
+   "english": [
+    "Its vs It's",
+    "Look forward to",
+    "Then vs Than",
+    "Let the cat out of the bag",
+    "Come across"
+   ]
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-16",
+   "slot": "noon",
+   "theme": "Find out, Hang out, Work out and more",
+   "english": [
+    "Find out",
+    "Hang out",
+    "Work out",
+    "Beat around the bush",
+    "Advice vs Advise"
+   ]
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-16",
+   "slot": "evening",
+   "theme": "Eyes and ears: Look vs See, Hear vs Listen...",
+   "english": [
+    "Look vs See",
+    "Miss the boat",
+    "Hear vs Listen",
+    "Take after",
+    "A blessing in disguise"
+   ]
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-17",
+   "slot": "noon",
+   "theme": "Cutting back: Cut down on, Put up with, Rob vs Steal...",
+   "english": [
+    "Cut down on",
+    "Get cold feet",
+    "Put up with",
+    "Rob vs Steal",
+    "Cut corners"
+   ]
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-17",
+   "slot": "evening",
+   "theme": "Late nights and lost keys: Speak vs Talk, Lose vs Loose...",
+   "english": [
+    "Burn the midnight oil",
+    "Speak vs Talk",
+    "Call off",
+    "Lose vs Loose",
+    "Go through"
+   ]
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-18",
+   "slot": "noon",
+   "theme": "Friends and forms: Back up, Fill in, Drop by...",
+   "english": [
+    "Back up",
+    "Fill in",
+    "Pull someone's leg",
+    "Drop by",
+    "Few vs A few"
+   ]
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-18",
+   "slot": "evening",
+   "theme": "Trouble and trust: In hot water, Count on, Already vs Yet...",
+   "english": [
+    "In hot water",
+    "Much vs Many",
+    "Keep an eye on",
+    "Count on",
+    "Already vs Yet"
+   ]
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-19",
+   "slot": "noon",
+   "theme": "Good news days: Over the moon, Make up, Break a leg...",
+   "english": [
+    "Make up",
+    "Each vs Every",
+    "Over the moon",
+    "Look up",
+    "Break a leg"
+   ]
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-19",
+   "slot": "evening",
+   "theme": "Feelings and fixes: Get over, Bored vs Boring, Sort out...",
+   "english": [
+    "Among vs Between",
+    "Get over",
+    "Bored vs Boring",
+    "Sort out",
+    "Face the music"
+   ]
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-20",
+   "slot": "noon",
+   "theme": "Agree and keep up: See eye to eye, Accept vs Except...",
+   "english": [
+    "See eye to eye",
+    "Keep up with",
+    "Hit the nail on the head",
+    "Break down",
+    "Accept vs Except"
+   ]
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-20",
+   "slot": "evening",
+   "theme": "Finish strong: Go the extra mile, Raise vs Rise...",
+   "english": [
+    "Catch up",
+    "Your vs You're",
+    "Go the extra mile",
+    "Raise vs Rise",
+    "Throw in the towel"
+   ]
   }
  ]
 }

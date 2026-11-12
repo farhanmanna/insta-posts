@@ -1,0 +1,92 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Late nights and lost keys: Speak vs Talk, Lose vs Loose...",
+ "pages": [
+  {
+   "title": "Burn the midnight oil",
+   "meaning": "to work or study late at night",
+   "synonym": "stay up working",
+   "examples": [
+    "I burned the midnight oil before exams.",
+    "She's burning the midnight oil again."
+   ],
+   "tip": [
+    "Idiom: late-night hard work"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Speak vs Talk",
+   "intro": "Both mean using words.",
+   "left": {
+    "label": "Speak",
+    "examples": [
+     "Speak English.",
+     "May I speak to Ravi?"
+    ],
+    "note": "Formal, languages"
+   },
+   "right": {
+    "label": "Talk",
+    "examples": [
+     "Let's talk later.",
+     "We talked for hours."
+    ],
+    "note": "Casual chats"
+   },
+   "tip": [
+    "speak + a language",
+    "talk TO / WITH someone"
+   ]
+  },
+  {
+   "title": "Call off",
+   "meaning": "to cancel a planned event",
+   "synonym": "cancel",
+   "examples": [
+    "They called off the match.",
+    "The trip was called off."
+   ],
+   "tip": [
+    "call off a meeting / plan"
+   ]
+  },
+  {
+   "type": "compare",
+   "title": "Lose vs Loose",
+   "intro": "One extra 'o' changes everything.",
+   "left": {
+    "label": "Lose",
+    "examples": [
+     "Don't lose your keys.",
+     "We lost the game."
+    ],
+    "note": "Verb"
+   },
+   "right": {
+    "label": "Loose",
+    "examples": [
+     "loose jeans",
+     "The screw is loose."
+    ],
+    "note": "Not tight"
+   },
+   "tip": [
+    "lose -> sounds like 'looz'",
+    "loose -> not tight"
+   ]
+  },
+  {
+   "title": "Go through",
+   "meaning": "to experience something difficult",
+   "synonym": "experience, face",
+   "examples": [
+    "She's going through a tough time.",
+    "We went through a lot together."
+   ],
+   "tip": [
+    "go through notes -> read them"
+   ]
+  }
+ ]
+}
