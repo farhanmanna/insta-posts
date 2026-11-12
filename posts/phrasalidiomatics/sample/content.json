@@ -1,18 +1,68 @@
-{"handle": "phrasalidiomatics", "theme": "Phrasal verbs with GIVE",
+{
+ "handle": "phrasalidiomatics",
+ "theme": "Phrasal verbs with GIVE",
  "pages": [
-  {"title": "Give up", "meaning": "to stop trying to do something", "hindi": "haar maan lena / chhod dena",
-   "examples": ["Never give up on your dreams.", "He gave up smoking last year."],
-   "tip": ["Give up -> quit", "Don't give up -> keep going"]},
-  {"title": "Give in", "meaning": "to finally agree after refusing for a long time", "hindi": "jhuk jaana / maan jaana",
-   "examples": ["The kids cried until Mom gave in.", "Don't give in to pressure."],
-   "tip": ["Give in -> surrender", "Give up = stop trying"]},
-  {"title": "Give away", "meaning": "to give something free, or reveal a secret", "hindi": "muft mein de dena / raaz khol dena",
-   "examples": ["She gave away her old clothes.", "Don't give away the ending!"],
-   "tip": ["Giveaway (noun) -> free gift"]},
-  {"title": "Give back", "meaning": "to return something to its owner", "hindi": "wapas karna / lauta dena",
-   "examples": ["Please give back my pen.", "I'll give it back tomorrow."],
-   "tip": ["Give back -> return"]},
-  {"title": "Give out", "meaning": "to hand things to many people, or to stop working", "hindi": "baantna / kharab ho jaana",
-   "examples": ["The teacher gave out the test papers.", "My old phone finally gave out."],
-   "tip": ["Give out -> distribute", "Give out (machine) -> stop working"]}
- ]}
+  {
+   "title": "Give up",
+   "meaning": "to stop trying to do something",
+   "examples": [
+    "Never give up on your dreams.",
+    "He gave up smoking last year."
+   ],
+   "tip": [
+    "Give up + verb-ing",
+    "give up smoking / give up eating junk"
+   ],
+   "synonym": "quit, stop trying"
+  },
+  {
+   "title": "Give in",
+   "meaning": "to finally agree after refusing for a long time",
+   "examples": [
+    "The kids cried until Mom gave in.",
+    "Don't give in to pressure."
+   ],
+   "tip": [
+    "Give in -> agree unwillingly",
+    "Give up -> stop trying"
+   ],
+   "synonym": "surrender, yield"
+  },
+  {
+   "title": "Give away",
+   "meaning": "to give something free, or reveal a secret",
+   "examples": [
+    "She gave away her old clothes.",
+    "Don't give away the ending!"
+   ],
+   "tip": [
+    "Giveaway (noun) -> free gift"
+   ],
+   "synonym": "donate; reveal"
+  },
+  {
+   "title": "Give back",
+   "meaning": "to return something to its owner",
+   "examples": [
+    "Please give back my pen.",
+    "I'll give it back tomorrow."
+   ],
+   "tip": [
+    "Give back to society -> help others"
+   ],
+   "synonym": "return"
+  },
+  {
+   "title": "Give out",
+   "meaning": "to hand things to many people, or to stop working",
+   "examples": [
+    "The teacher gave out the test papers.",
+    "My old phone finally gave out."
+   ],
+   "tip": [
+    "Give out leaflets -> hand them out"
+   ],
+   "synonym": "distribute; break down"
+  }
+ ]
+}

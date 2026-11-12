@@ -5,7 +5,7 @@ content.json:
 {"handle": "phrasalidiomatics", "theme": "...",
  "pages": [{"title": "Give up",
             "meaning": "to stop trying to do something",
-            "hindi": "haar maan lena / chhod dena",
+            "synonym": "quit, stop",
             "examples": ["Never give up on your dreams.", "He gave up smoking last year."],
             "tip": ["Give up -> quit", "Don't give up -> keep going"]}]}
 In "tip" lines, "->" is drawn as a hand-drawn arrow.
@@ -136,15 +136,20 @@ def page(p, idx, total, handle, out, seed):
     ln += 1
     for row in wrap(d, p["meaning"], bf, RIGHT - LEFT - 10):
         d.text((LEFT, on_line(ln)), row, font=bf, fill=BLUE); ln += 1
-    # Hindi meaning with green star
-    star(d, LEFT + 16, TOP + ln * LH - 26, 17, GREEN)
-    hrows = wrap(d, "Hindi: " + p["hindi"], bf, RIGHT - LEFT - 60)
-    for i, row in enumerate(hrows):
-        d.text((LEFT + 44, on_line(ln)), row, font=bf, fill=GREEN)
-        if i == 0:
-            hw = d.textlength("Hindi:", font=bf)
-            wobble_line(d, (LEFT + 44, TOP + ln * LH - 6), (LEFT + 44 + hw, TOP + ln * LH - 6), GREEN, 3, rnd)
-        ln += 1
+    # optional green-star line: English synonym (or Hindi meaning if a channel uses it)
+    extra = None
+    if p.get("synonym"): extra = ("Synonym:", p["synonym"])
+    elif p.get("hindi"): extra = ("Hindi:", p["hindi"])
+    if extra:
+        lab2, val = extra
+        star(d, LEFT + 16, TOP + ln * LH - 26, 17, GREEN)
+        hrows = wrap(d, lab2 + " " + val, bf, RIGHT - LEFT - 60)
+        for i, row in enumerate(hrows):
+            d.text((LEFT + 44, on_line(ln)), row, font=bf, fill=GREEN)
+            if i == 0:
+                hw = d.textlength(lab2, font=bf)
+                wobble_line(d, (LEFT + 44, TOP + ln * LH - 6), (LEFT + 44 + hw, TOP + ln * LH - 6), GREEN, 3, rnd)
+            ln += 1
     ln += 1
     # circled "Examples"
     lab = "Examples"
