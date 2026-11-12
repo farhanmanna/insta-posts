@@ -1,0 +1,25 @@
+{"handle": "phrasalidiomatic", "theme": "Confusing words and prepositions",
+ "pages": [
+  {"type": "three", "title": "In / On / At (place)", "intro": "Used to talk about places.",
+   "columns": [
+    {"label": "In", "examples": ["*in* the box", "*in* Delhi"], "note": "Inside"},
+    {"label": "On", "examples": ["*on* the table", "*on* the wall"], "note": "On a surface"},
+    {"label": "At", "examples": ["*at* the door", "*at* the bus stop"], "note": "Exact point"}],
+   "tip": ["In -> inside [star]", "On -> surface [star]", "At -> point [star]"]},
+  {"type": "compare", "layout": "circles", "title": "Borrow vs Lend",
+   "left": {"label": "Borrow", "examples": ["Can I *borrow* your pen?", "I *borrowed* his book."], "note": "You take"},
+   "right": {"label": "Lend", "examples": ["Can you *lend* me a pen?", "She *lent* me her book."], "note": "You give"},
+   "tip_title": "Remember:", "tip": ["Borrow -> take [check]", "Lend -> give [check]"]},
+  {"type": "compare", "layout": "steps", "title": "Can I vs May I", "intro": "Both are used to ask permission.",
+   "left": {"label": "Can I", "examples": ["*Can I* sit here?", "*Can I* use your phone?"], "note": "Casual"},
+   "right": {"label": "May I", "examples": ["*May I* come in?", "*May I* ask a question?"], "note": "Polite and formal"},
+   "tip_title": "Remember:", "tip": ["Can I -> friends [star]", "May I -> formal [star]"]},
+  {"type": "compare", "layout": "curve", "title": "Lose vs Loose", "intro": "They look alike but mean different things.",
+   "left": {"label": "Lose", "examples": ["Don't *lose* your keys.", "We may *lose* the match."], "note": "Verb"},
+   "right": {"label": "Loose", "examples": ["This shirt is *loose*.", "The screw is *loose*."], "note": "Not tight"},
+   "tip": ["Lose -> miss / fail [check]", "Loose -> not tight [check]"]},
+  {"type": "compare", "layout": "divider", "title": "Lie vs Lay", "intro": "Both are about putting something down.",
+   "left": {"label": "Lie", "examples": ["I *lie* down after lunch.", "Don't *lie* on the floor."], "note": "No object"},
+   "right": {"label": "Lay", "examples": ["*Lay* the book down.", "She *laid* the baby down."], "note": "Needs an object"},
+   "tip_title": "Remember:", "tip": ["Lie -> yourself [check]", "Lay -> something [check]"]}
+ ]}
