@@ -1,0 +1,28 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "At the Salon",
+ "slides": [
+  {
+   "hindi": "Mujhe baal katwane hain",
+   "english": "I need a haircut."
+  },
+  {
+   "hindi": "Thode chhote kar dijiye",
+   "english": "Make it a little shorter, please."
+  },
+  {
+   "hindi": "Side se zyada mat kaatna",
+   "english": "Don't cut too much from the sides."
+  },
+  {
+   "hindi": "Dadhi bhi set kar do",
+   "english": "Please trim my beard too."
+  },
+  {
+   "hindi": "Kitna time lagega?",
+   "english": "How long will it take?"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "At a Hotel",
+ "slides": [
+  {
+   "hindi": "Maine ek room book kiya tha",
+   "english": "I had booked a room."
+  },
+  {
+   "hindi": "Checkout kitne baje hai?",
+   "english": "What time is checkout?"
+  },
+  {
+   "hindi": "Room ka AC kaam nahi kar raha",
+   "english": "The AC in my room isn't working."
+  },
+  {
+   "hindi": "Kya nashta shaamil hai?",
+   "english": "Is breakfast included?"
+  },
+  {
+   "hindi": "Mujhe ek extra takiya chahiye",
+   "english": "I need an extra pillow."
+  }
+ ]
+}

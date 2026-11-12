@@ -219,6 +219,201 @@
     "Could we have the bill, please?",
     "Please pack the leftovers."
    ]
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-13",
+   "slot": "noon",
+   "theme": "At the Gym",
+   "english": [
+    "I go to the gym every morning.",
+    "My whole body is aching today.",
+    "How many more sets are left?",
+    "I want to lose weight.",
+    "Take a short break, then start again."
+   ]
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-14",
+   "slot": "noon",
+   "theme": "Cooking",
+   "english": [
+    "Turn the flame down a little.",
+    "The milk has boiled over.",
+    "Chop the vegetables and keep them ready.",
+    "The rice got burnt.",
+    "Fry the onions until golden brown."
+   ]
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-14",
+   "slot": "evening",
+   "theme": "Online Shopping",
+   "english": [
+    "I ordered a jacket online.",
+    "My parcel hasn't arrived yet.",
+    "I want to return this product.",
+    "Is cash on delivery available?",
+    "Everything is cheap in the sale."
+   ]
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-15",
+   "slot": "noon",
+   "theme": "Talking to Kids",
+   "english": [
+    "Finish your homework, then go and play.",
+    "Don't make so much noise.",
+    "Sleep early, you have school tomorrow.",
+    "Put your toys away.",
+    "Eat your vegetables too, not just chips."
+   ]
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-15",
+   "slot": "evening",
+   "theme": "Movies",
+   "english": [
+    "Let's go to the movies today.",
+    "Have you seen the new film?",
+    "The movie was really boring.",
+    "I've booked two tickets.",
+    "The ending was amazing."
+   ]
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-16",
+   "slot": "noon",
+   "theme": "Cricket",
+   "english": [
+    "India has a match today.",
+    "What's the score?",
+    "He hit a six!",
+    "The match was stopped due to rain.",
+    "We won in the last over."
+   ]
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-16",
+   "slot": "evening",
+   "theme": "At the Salon",
+   "english": [
+    "I need a haircut.",
+    "Make it a little shorter, please.",
+    "Don't cut too much from the sides.",
+    "Please trim my beard too.",
+    "How long will it take?"
+   ]
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-17",
+   "slot": "noon",
+   "theme": "School",
+   "english": [
+    "We have an exam tomorrow.",
+    "I've finished my homework.",
+    "The teacher scolded me.",
+    "It's a school holiday today.",
+    "May I go for a drink of water?"
+   ]
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-17",
+   "slot": "evening",
+   "theme": "At a Hotel",
+   "english": [
+    "I had booked a room.",
+    "What time is checkout?",
+    "The AC in my room isn't working.",
+    "Is breakfast included?",
+    "I need an extra pillow."
+   ]
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-18",
+   "slot": "noon",
+   "theme": "Asking for Directions",
+   "english": [
+    "Go straight from here.",
+    "Take a left at the next signal.",
+    "Could you tell me the way?",
+    "I've lost my way.",
+    "That place is just nearby."
+   ]
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-18",
+   "slot": "evening",
+   "theme": "Neighbours",
+   "english": [
+    "The new neighbours moved in yesterday.",
+    "Their dog barks all night.",
+    "Could you lend me some sugar?",
+    "Our neighbours are very helpful.",
+    "They're having a party at their place."
+   ]
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-19",
+   "slot": "noon",
+   "theme": "Job Interview",
+   "english": [
+    "I have an interview tomorrow.",
+    "Tell me something about yourself.",
+    "I have three years of experience.",
+    "What are your salary expectations?",
+    "We'll let you know soon."
+   ]
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-19",
+   "slot": "evening",
+   "theme": "Social Media",
+   "english": [
+    "I've posted a new photo.",
+    "Did you see my story?",
+    "She blocked me.",
+    "This video went viral.",
+    "Follow me, please."
+   ]
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-20",
+   "slot": "noon",
+   "theme": "Anger",
+   "english": [
+    "I'm really angry.",
+    "Don't get on my nerves.",
+    "Be quiet and leave me alone.",
+    "Why didn't you listen to me?",
+    "Calm down, don't get angry."
+   ]
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-20",
+   "slot": "evening",
+   "theme": "Wedding",
+   "english": [
+    "My sister is getting married next month.",
+    "Did you get the wedding invitation?",
+    "The bride looks beautiful.",
+    "When will the baraat arrive?",
+    "We danced all night."
+   ]
   }
  ]
 }

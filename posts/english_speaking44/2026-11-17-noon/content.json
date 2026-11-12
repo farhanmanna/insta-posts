@@ -1,0 +1,28 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "School",
+ "slides": [
+  {
+   "hindi": "Kal hamara exam hai",
+   "english": "We have an exam tomorrow."
+  },
+  {
+   "hindi": "Maine homework kar liya hai",
+   "english": "I've finished my homework."
+  },
+  {
+   "hindi": "Teacher ne mujhe daanta",
+   "english": "The teacher scolded me."
+  },
+  {
+   "hindi": "Aaj school ki chhutti hai",
+   "english": "It's a school holiday today."
+  },
+  {
+   "hindi": "Kya main paani peene ja sakta hoon?",
+   "english": "May I go for a drink of water?"
+  }
+ ]
+}

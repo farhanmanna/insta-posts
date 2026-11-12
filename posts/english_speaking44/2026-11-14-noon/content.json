@@ -1,0 +1,28 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Cooking",
+ "slides": [
+  {
+   "hindi": "Gas thoda dheema kar do",
+   "english": "Turn the flame down a little."
+  },
+  {
+   "hindi": "Doodh ubal gaya",
+   "english": "The milk has boiled over."
+  },
+  {
+   "hindi": "Sabzi kaat ke rakh do",
+   "english": "Chop the vegetables and keep them ready."
+  },
+  {
+   "hindi": "Chawal jal gaye",
+   "english": "The rice got burnt."
+  },
+  {
+   "hindi": "Pyaaz sunehra hone tak bhuno",
+   "english": "Fry the onions until golden brown."
+  }
+ ]
+}

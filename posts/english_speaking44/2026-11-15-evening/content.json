@@ -1,0 +1,28 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Movies",
+ "slides": [
+  {
+   "hindi": "Chalo aaj movie dekhne chalte hain",
+   "english": "Let's go to the movies today."
+  },
+  {
+   "hindi": "Kya tumne nayi film dekhi?",
+   "english": "Have you seen the new film?"
+  },
+  {
+   "hindi": "Movie bahut boring thi",
+   "english": "The movie was really boring."
+  },
+  {
+   "hindi": "Maine do ticket book kar liye",
+   "english": "I've booked two tickets."
+  },
+  {
+   "hindi": "Film ka end kamaal tha",
+   "english": "The ending was amazing."
+  }
+ ]
+}

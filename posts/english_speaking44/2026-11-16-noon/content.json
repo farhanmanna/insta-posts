@@ -1,0 +1,28 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Cricket",
+ "slides": [
+  {
+   "hindi": "Aaj India ka match hai",
+   "english": "India has a match today."
+  },
+  {
+   "hindi": "Score kitna hua?",
+   "english": "What's the score?"
+  },
+  {
+   "hindi": "Usne chhakka maar diya!",
+   "english": "He hit a six!"
+  },
+  {
+   "hindi": "Barish ki wajah se match ruk gaya",
+   "english": "The match was stopped due to rain."
+  },
+  {
+   "hindi": "Hum aakhri over mein jeet gaye",
+   "english": "We won in the last over."
+  }
+ ]
+}

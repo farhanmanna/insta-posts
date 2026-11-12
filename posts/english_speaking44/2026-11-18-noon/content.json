@@ -1,0 +1,28 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Asking for Directions",
+ "slides": [
+  {
+   "hindi": "Yahan se seedha jaiye",
+   "english": "Go straight from here."
+  },
+  {
+   "hindi": "Agle signal se left lijiye",
+   "english": "Take a left at the next signal."
+  },
+  {
+   "hindi": "Kya aap rasta bata sakte hain?",
+   "english": "Could you tell me the way?"
+  },
+  {
+   "hindi": "Main raasta bhatak gaya hoon",
+   "english": "I've lost my way."
+  },
+  {
+   "hindi": "Woh jagah bas paas mein hai",
+   "english": "That place is just nearby."
+  }
+ ]
+}

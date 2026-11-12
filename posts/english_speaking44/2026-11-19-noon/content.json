@@ -1,0 +1,28 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Job Interview",
+ "slides": [
+  {
+   "hindi": "Mera kal interview hai",
+   "english": "I have an interview tomorrow."
+  },
+  {
+   "hindi": "Apne baare mein kuch bataiye",
+   "english": "Tell me something about yourself."
+  },
+  {
+   "hindi": "Mujhe teen saal ka experience hai",
+   "english": "I have three years of experience."
+  },
+  {
+   "hindi": "Aapki salary expectation kya hai?",
+   "english": "What are your salary expectations?"
+  },
+  {
+   "hindi": "Hum aapko jald hi batayenge",
+   "english": "We'll let you know soon."
+  }
+ ]
+}
