@@ -1,0 +1,25 @@
+{
+ "theme": "At the Bank",
+ "slides": [
+  {
+   "hindi": "Mujhe naya khaata khulwana hai",
+   "english": "I'd like to open a new account."
+  },
+  {
+   "hindi": "Paise jama karne ka form kahan hai?",
+   "english": "Where is the deposit form?"
+  },
+  {
+   "hindi": "ATM mein paise nahi hain",
+   "english": "The ATM is out of cash."
+  },
+  {
+   "hindi": "Mera card block ho gaya hai",
+   "english": "My card has been blocked."
+  },
+  {
+   "hindi": "Aaj line bahut lambi hai",
+   "english": "The queue is very long today."
+  }
+ ]
+}

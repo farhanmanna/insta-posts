@@ -194,6 +194,18 @@
     "What's the next station?",
     "I have the upper berth."
    ]
+  },
+  {
+   "date": "2026-11-21",
+   "slot": "afternoon",
+   "theme": "At the Bank",
+   "english": [
+    "I'd like to open a new account.",
+    "Where is the deposit form?",
+    "The ATM is out of cash.",
+    "My card has been blocked.",
+    "The queue is very long today."
+   ]
   }
  ]
 }
