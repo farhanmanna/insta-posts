@@ -1,0 +1,25 @@
+{
+ "theme": "Weather",
+ "slides": [
+  {
+   "hindi": "Aaj bahut garmi hai",
+   "english": "It's really hot today."
+  },
+  {
+   "hindi": "Lagta hai baarish hone wali hai",
+   "english": "It looks like it's going to rain."
+  },
+  {
+   "hindi": "Bahar bahut thand hai",
+   "english": "It's very cold outside."
+  },
+  {
+   "hindi": "Chhatri le jaana mat bhoolna",
+   "english": "Don't forget to take an umbrella."
+  },
+  {
+   "hindi": "Aaj mausam bahut suhana hai",
+   "english": "The weather is lovely today."
+  }
+ ]
+}

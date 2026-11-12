@@ -87,6 +87,17 @@
     "I couldn't sleep all night.",
     "I have a sore throat."
    ]
+  },
+  {
+   "date": "2026-11-21",
+   "theme": "Weather",
+   "english": [
+    "It's really hot today.",
+    "It looks like it's going to rain.",
+    "It's very cold outside.",
+    "Don't forget to take an umbrella.",
+    "The weather is lovely today."
+   ]
   }
  ]
 }
