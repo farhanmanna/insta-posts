@@ -1,0 +1,25 @@
+{
+ "theme": "Travel",
+ "slides": [
+  {
+   "hindi": "Hamari flight kitne baje hai?",
+   "english": "What time is our flight?"
+  },
+  {
+   "hindi": "Maine ticket pehle hi book kar li",
+   "english": "I've already booked the ticket."
+  },
+  {
+   "hindi": "Station yahan se kitni door hai?",
+   "english": "How far is the station from here?"
+  },
+  {
+   "hindi": "Mera saamaan kho gaya hai",
+   "english": "I've lost my luggage."
+  },
+  {
+   "hindi": "Hum ghoomne Goa ja rahe hain",
+   "english": "We're going to Goa for a holiday."
+  }
+ ]
+}

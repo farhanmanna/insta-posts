@@ -1,0 +1,25 @@
+{
+ "theme": "Money",
+ "slides": [
+  {
+   "hindi": "Mere paas khule paise nahi hain",
+   "english": "I don't have any change."
+  },
+  {
+   "hindi": "Is mahine kharcha bahut ho gaya",
+   "english": "I've spent too much this month."
+  },
+  {
+   "hindi": "Mujhe kuch paise udhaar chahiye",
+   "english": "I need to borrow some money."
+  },
+  {
+   "hindi": "Main tumhe kal paise lauta dunga",
+   "english": "I'll pay you back tomorrow."
+  },
+  {
+   "hindi": "Salary abhi tak nahi aayi",
+   "english": "I haven't got my salary yet."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "theme": "In the Train",
+ "slides": [
+  {
+   "hindi": "Yeh train kis platform par aayegi?",
+   "english": "Which platform will this train arrive at?"
+  },
+  {
+   "hindi": "Train aadha ghanta late hai",
+   "english": "The train is running half an hour late."
+  },
+  {
+   "hindi": "Kya yeh seat khaali hai?",
+   "english": "Is this seat free?"
+  },
+  {
+   "hindi": "Agla station kaunsa hai?",
+   "english": "What's the next station?"
+  },
+  {
+   "hindi": "Meri berth upar wali hai",
+   "english": "I have the upper berth."
+  }
+ ]
+}

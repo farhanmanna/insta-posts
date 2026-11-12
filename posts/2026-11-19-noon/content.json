@@ -1,0 +1,25 @@
+{
+ "theme": "Guests at Home",
+ "slides": [
+  {
+   "hindi": "Aaiye, andar aaiye",
+   "english": "Please come in."
+  },
+  {
+   "hindi": "Baithiye, main chai banati hoon",
+   "english": "Have a seat, I'll make some tea."
+  },
+  {
+   "hindi": "Ghar dhoondhne mein dikkat toh nahi hui?",
+   "english": "Did you have trouble finding the house?"
+  },
+  {
+   "hindi": "Khana khakar hi jaana",
+   "english": "Please stay for dinner."
+  },
+  {
+   "hindi": "Phir zaroor aana",
+   "english": "Do come again."
+  }
+ ]
+}

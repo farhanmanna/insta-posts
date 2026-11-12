@@ -1,0 +1,25 @@
+{
+ "theme": "Family",
+ "slides": [
+  {
+   "hindi": "Mummy khana bana rahi hain",
+   "english": "Mom is cooking."
+  },
+  {
+   "hindi": "Hum sab saath mein khana khate hain",
+   "english": "We eat together as a family."
+  },
+  {
+   "hindi": "Papa abhi tak ghar nahi aaye",
+   "english": "Dad hasn't come home yet."
+  },
+  {
+   "hindi": "Mera bhai mujhse do saal bada hai",
+   "english": "My brother is two years older than me."
+  },
+  {
+   "hindi": "Dadi ki tabiyat theek nahi hai",
+   "english": "Grandma isn't feeling well."
+  }
+ ]
+}
