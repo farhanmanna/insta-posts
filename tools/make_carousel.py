@@ -37,7 +37,7 @@ def centered(d, lines, f, size, cy, fill):
         d.text((W // 2 - d.textlength(ln, font=f) // 2, y), ln, font=f, fill=fill)
         y += lh
 
-def slide(hindi, english, idx, total, out, seed):
+def slide(hindi, english, idx, total, out, seed, handle="learnenglishsentences", website="www.englishsentences.in", header="Daily use English Sentences"):
     img = Image.new("RGB", (W, H), CREAM)
     d = ImageDraw.Draw(img)
     # torn-paper edge
@@ -52,14 +52,14 @@ def slide(hindi, english, idx, total, out, seed):
     img.paste((150, 145, 130), mask=shadow.filter(ImageFilter.GaussianBlur(8)))
     d.polygon(pts, fill=TEAL)
 
-    d.text((24, 14), "website: www.englishsentences.in", font=font(700, 34), fill=WHITE)
-    s = "Daily use English Sentences"
+    d.text((24, 14), "website: " + website if website else "", font=font(700, 34), fill=WHITE)
+    s = header
     d.text((W // 2 - d.textlength(s, font=font(700, 44)) // 2, 92), s, font=font(700, 44), fill=WHITE)
     f, ls, sz = fit(d, hindi, 800, 88, W - 120, 3)
     centered(d, ls, f, sz, 345, WHITE)
     f, ls, sz = fit(d, english, 800, 84, W - 140, 3)
     centered(d, ls, f, sz, 800, TEAL)
-    h = "@learnenglishsentences"
+    h = "@" + handle
     d.text((W // 2 - d.textlength(h, font=font(700, 50)) // 2, H - 92), h, font=font(700, 50), fill=TEAL)
     if total > 1:
         t = f"{idx}/{total}"
@@ -71,4 +71,6 @@ if __name__ == "__main__":
     os.makedirs(out, exist_ok=True)
     n = len(data["slides"])
     for i, s in enumerate(data["slides"], 1):
-        slide(s["hindi"], s["english"], i, n, os.path.join(out, f"slide{i}.jpg"), seed=i * 7 + len(s["english"]))
+        slide(s["hindi"], s["english"], i, n, os.path.join(out, f"slide{i}.jpg"), seed=i * 7 + len(s["english"]),
+              handle=data.get("handle", "learnenglishsentences"), website=data.get("website", "www.englishsentences.in"),
+              header=data.get("header", "Daily use English Sentences"))
