@@ -48,5 +48,45 @@
    "renderer": "tools/make_studynote.py",
    "content": "ENGLISH ONLY - no Hindi anywhere. IELTS preparation content in a 'study notes on a desk' style, 5 pages per post. Every post is a RANDOM MIX of page types and topics; use at least 3 different page types per post. Topics: IELTS vocabulary upgrades (band 7-9 words), confusing words (affect/effect, economic/economical), linking words for Writing Task 2, formal vs informal words for writing, collocations (make/do/take), Writing Task 1 trend language (rise sharply, fall gradually), speaking-part phrases (giving opinions, buying time, agreeing/disagreeing), common grammar mistakes, prepositions, idiomatic phrases suitable for Speaking. Page types and JSON (see tools/make_studynote.py docstring and posts/tip4ielts/sample/content.json): 'sections' (2 headings, each with 2 short bullets and 1-2 examples), 'pens' (3 headings, each with 2 short bullets and 1 example), 'boxes' (title + 3 words, each with a short meaning and 1 example), 'list' (title + tag + 10-12 rows of [left, right]), 'glossary' (left/right headers + 10-12 rows). Bullets under ~8 words, examples under ~10 words, list/glossary cells 1-3 words. Wrap key words in *asterisks* to underline them. Everything must be accurate, natural English suitable for IELTS learners. Never reuse a page heading/title or list already logged for this channel in used_sentences.json. ALREADY USED as samples (do not post before 2027): Affect/Effect, However/Although/Despite, Economic/Economical/Economics, Instead of 'very', Informal vs Formal (get/obtain list)."
   }
- ]
+ ],
+ "reel_audio": {
+  "note": "Instagram library tracks (via Metricool audioConfiguration). Rotate: pick a different track from the one used by the same channel's previous Reel, and avoid giving two channels the same track on the same day. audioVolume 100, videoVolume 0 (the videos are silent).",
+  "tracks": [
+   {
+    "audioId": "1540826030450846",
+    "title": "Curious Mind",
+    "artist": "LAVLO"
+   },
+   {
+    "audioId": "912937830269606",
+    "title": "Lofi Return",
+    "artist": "half.cool"
+   },
+   {
+    "audioId": "1060525546662743",
+    "title": "Focus",
+    "artist": "LAVLO"
+   },
+   {
+    "audioId": "975879893476442",
+    "title": "Excited Day",
+    "artist": "bbox"
+   },
+   {
+    "audioId": "932486288340954",
+    "title": "Moment",
+    "artist": "Global Genius"
+   },
+   {
+    "audioId": "894998458735932",
+    "title": "Habitual",
+    "artist": "Adam Griffith"
+   },
+   {
+    "audioId": "1051611083919423",
+    "title": "Amazing",
+    "artist": "Giulio Cercato"
+   }
+  ]
+ }
 }
