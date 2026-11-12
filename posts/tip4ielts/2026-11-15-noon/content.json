@@ -1,0 +1,191 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Writing Task 2 linking and accuracy",
+ "pages": [
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "WHEREAS",
+     "bullets": [
+      "Joins two contrasting facts.",
+      "Used inside one sentence."
+     ],
+     "example": "Cities are busy, *whereas* villages are calm."
+    },
+    {
+     "heading": "IN CONTRAST",
+     "bullets": [
+      "Starts a new sentence.",
+      "Compares two different things."
+     ],
+     "example": "*In contrast*, villages are quiet."
+    },
+    {
+     "heading": "NEVERTHELESS",
+     "bullets": [
+      "Means 'but still' or 'even so'.",
+      "Formal; starts a sentence."
+     ],
+     "example": "*Nevertheless*, many people stay in cities."
+    }
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "FOR EXAMPLE",
+     "bullets": [
+      "Followed by a full sentence.",
+      "Put a comma after it."
+     ],
+     "examples": [
+      "*For example*, Japan has fast trains."
+     ]
+    },
+    {
+     "heading": "SUCH AS",
+     "bullets": [
+      "Followed by nouns only.",
+      "No comma straight after it."
+     ],
+     "examples": [
+      "Countries *such as* Japan have fast trains."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "QUESTION",
+   "right": "PARAPHRASE",
+   "rows": [
+    [
+     "children",
+     "young people"
+    ],
+    [
+     "old people",
+     "the elderly"
+    ],
+    [
+     "job",
+     "occupation"
+    ],
+    [
+     "advantage",
+     "benefit"
+    ],
+    [
+     "disadvantage",
+     "drawback"
+    ],
+    [
+     "problem",
+     "issue"
+    ],
+    [
+     "important",
+     "significant"
+    ],
+    [
+     "think",
+     "believe"
+    ],
+    [
+     "help",
+     "support"
+    ],
+    [
+     "increase",
+     "rise"
+    ],
+    [
+     "countries",
+     "nations"
+    ],
+    [
+     "government",
+     "authorities"
+    ]
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "BAND 8 VERBS",
+   "items": [
+    {
+     "word": "Exacerbate",
+     "meaning": "to make a problem worse",
+     "example": "Traffic *exacerbates* air pollution."
+    },
+    {
+     "word": "Alleviate",
+     "meaning": "to make a problem less severe",
+     "example": "Parks can *alleviate* stress."
+    },
+    {
+     "word": "Foster",
+     "meaning": "to encourage something to develop",
+     "example": "Team sports *foster* cooperation."
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "Common errors",
+   "tag": "FIX",
+   "rows": [
+    [
+     "informations",
+     "information"
+    ],
+    [
+     "advices",
+     "advice"
+    ],
+    [
+     "knowledges",
+     "knowledge"
+    ],
+    [
+     "equipments",
+     "equipment"
+    ],
+    [
+     "discuss about",
+     "discuss"
+    ],
+    [
+     "explain me",
+     "explain to me"
+    ],
+    [
+     "more better",
+     "better"
+    ],
+    [
+     "return back",
+     "return"
+    ],
+    [
+     "despite of",
+     "despite"
+    ],
+    [
+     "in nowadays",
+     "nowadays"
+    ],
+    [
+     "suggest to go",
+     "suggest going"
+    ],
+    [
+     "each students",
+     "each student"
+    ]
+   ]
+  }
+ ]
+}

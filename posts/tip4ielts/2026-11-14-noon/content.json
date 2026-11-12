@@ -1,0 +1,191 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Task 1 trend language",
+ "pages": [
+  {
+   "type": "boxes",
+   "title": "DESCRIBE THE CHANGE",
+   "items": [
+    {
+     "word": "Dramatic",
+     "meaning": "very large and sudden",
+     "example": "There was a *dramatic* fall in sales."
+    },
+    {
+     "word": "Marginal",
+     "meaning": "very small, hardly noticeable",
+     "example": "Prices saw a *marginal* increase."
+    },
+    {
+     "word": "Steady",
+     "meaning": "regular, with no sudden changes",
+     "example": "Exports showed *steady* growth."
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "Trend words",
+   "tag": "ADVERB",
+   "rows": [
+    [
+     "sharp",
+     "sharply"
+    ],
+    [
+     "steady",
+     "steadily"
+    ],
+    [
+     "gradual",
+     "gradually"
+    ],
+    [
+     "slight",
+     "slightly"
+    ],
+    [
+     "dramatic",
+     "dramatically"
+    ],
+    [
+     "significant",
+     "significantly"
+    ],
+    [
+     "rapid",
+     "rapidly"
+    ],
+    [
+     "moderate",
+     "moderately"
+    ],
+    [
+     "considerable",
+     "considerably"
+    ],
+    [
+     "marginal",
+     "marginally"
+    ],
+    [
+     "substantial",
+     "substantially"
+    ],
+    [
+     "steep",
+     "steeply"
+    ]
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "UP",
+   "right": "DOWN",
+   "rows": [
+    [
+     "rise",
+     "fall"
+    ],
+    [
+     "increase",
+     "decrease"
+    ],
+    [
+     "grow",
+     "decline"
+    ],
+    [
+     "climb",
+     "drop"
+    ],
+    [
+     "soar",
+     "plummet"
+    ],
+    [
+     "surge",
+     "plunge"
+    ],
+    [
+     "rocket",
+     "slump"
+    ],
+    [
+     "expand",
+     "shrink"
+    ],
+    [
+     "improve",
+     "deteriorate"
+    ],
+    [
+     "double",
+     "halve"
+    ],
+    [
+     "peak",
+     "hit a low"
+    ],
+    [
+     "recover",
+     "dip"
+    ]
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "TO",
+     "bullets": [
+      "Shows the final figure.",
+      "Use after rise or fall."
+     ],
+     "example": "Sales *rose to* 50% in 2020."
+    },
+    {
+     "heading": "BY",
+     "bullets": [
+      "Shows the size of the change.",
+      "Think: how big was the gap?"
+     ],
+     "example": "Sales *rose by* 10% in 2020."
+    },
+    {
+     "heading": "AT",
+     "bullets": [
+      "Use with peak or stand.",
+      "Shows the level at one point."
+     ],
+     "example": "Sales *peaked at* 80% in 2015."
+    }
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "OVERVIEW",
+     "bullets": [
+      "Sum up the main trends.",
+      "No specific numbers here."
+     ],
+     "examples": [
+      "*Overall*, car use rose steadily."
+     ]
+    },
+    {
+     "heading": "DETAILS",
+     "bullets": [
+      "Support trends with key figures.",
+      "Compare the highest and lowest."
+     ],
+     "examples": [
+      "Car use *reached* 60% by 2020."
+     ]
+    }
+   ]
+  }
+ ]
+}

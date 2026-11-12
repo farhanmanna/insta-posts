@@ -1,0 +1,157 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Government and crime",
+ "pages": [
+  {
+   "type": "boxes",
+   "title": "GOVERNMENT WORDS",
+   "items": [
+    {
+     "word": "Legislation",
+     "meaning": "laws made by a government",
+     "example": "New *legislation* bans plastic bags."
+    },
+    {
+     "word": "Subsidise",
+     "meaning": "to pay part of the cost",
+     "example": "The state *subsidises* public transport."
+    },
+    {
+     "word": "Taxpayer",
+     "meaning": "a person who pays tax",
+     "example": "*Taxpayers* fund public hospitals."
+    }
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "UNLESS",
+     "bullets": [
+      "Means 'if not'.",
+      "Don't add 'not' after it."
+     ],
+     "example": "Crime will rise *unless* police act."
+    },
+    {
+     "heading": "IN CASE",
+     "bullets": [
+      "A precaution, not a condition.",
+      "Because something might happen."
+     ],
+     "example": "Take an umbrella *in case* it rains."
+    },
+    {
+     "heading": "AS LONG AS",
+     "bullets": [
+      "Means 'only if'.",
+      "Sets a condition."
+     ],
+     "example": "Fines work *as long as* they are enforced."
+    }
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "CRIME WORDS",
+   "items": [
+    {
+     "word": "Deterrent",
+     "meaning": "something that stops people acting",
+     "example": "Prison is a *deterrent* to crime."
+    },
+    {
+     "word": "Rehabilitation",
+     "meaning": "helping offenders return to normal life",
+     "example": "*Rehabilitation* reduces reoffending."
+    },
+    {
+     "word": "Offender",
+     "meaning": "a person who commits a crime",
+     "example": "Young *offenders* need support."
+    }
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "LEAD",
+     "bullets": [
+      "The present tense of the verb.",
+      "Rhymes with 'need'."
+     ],
+     "examples": [
+      "Poverty can *lead* to crime."
+     ]
+    },
+    {
+     "heading": "LED",
+     "bullets": [
+      "The past tense of 'lead'.",
+      "Never write 'lead' for the past."
+     ],
+     "examples": [
+      "The policy *led* to lower crime."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "CRIME",
+   "right": "CRIMINAL",
+   "rows": [
+    [
+     "theft",
+     "thief"
+    ],
+    [
+     "burglary",
+     "burglar"
+    ],
+    [
+     "robbery",
+     "robber"
+    ],
+    [
+     "fraud",
+     "fraudster"
+    ],
+    [
+     "murder",
+     "murderer"
+    ],
+    [
+     "vandalism",
+     "vandal"
+    ],
+    [
+     "shoplifting",
+     "shoplifter"
+    ],
+    [
+     "smuggling",
+     "smuggler"
+    ],
+    [
+     "kidnapping",
+     "kidnapper"
+    ],
+    [
+     "hacking",
+     "hacker"
+    ],
+    [
+     "piracy",
+     "pirate"
+    ],
+    [
+     "arson",
+     "arsonist"
+    ]
+   ]
+  }
+ ]
+}

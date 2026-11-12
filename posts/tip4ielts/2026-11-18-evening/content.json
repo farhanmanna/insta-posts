@@ -1,0 +1,191 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Technology topic",
+ "pages": [
+  {
+   "type": "glossary",
+   "left": "AMERICAN",
+   "right": "BRITISH",
+   "rows": [
+    [
+     "color",
+     "colour"
+    ],
+    [
+     "center",
+     "centre"
+    ],
+    [
+     "analyze",
+     "analyse"
+    ],
+    [
+     "traveling",
+     "travelling"
+    ],
+    [
+     "defense",
+     "defence"
+    ],
+    [
+     "favorite",
+     "favourite"
+    ],
+    [
+     "theater",
+     "theatre"
+    ],
+    [
+     "gray",
+     "grey"
+    ],
+    [
+     "fulfill",
+     "fulfil"
+    ],
+    [
+     "enroll",
+     "enrol"
+    ],
+    [
+     "catalog",
+     "catalogue"
+    ],
+    [
+     "neighbor",
+     "neighbour"
+    ]
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "OVERALL",
+     "bullets": [
+      "Best for the Task 1 overview.",
+      "Sums up the main trends."
+     ],
+     "example": "*Overall*, sales rose over the period."
+    },
+    {
+     "heading": "IN CONCLUSION",
+     "bullets": [
+      "Starts a Task 2 conclusion.",
+      "Restate your opinion briefly."
+     ],
+     "example": "*In conclusion*, the benefits are greater."
+    },
+    {
+     "heading": "TO SUM UP",
+     "bullets": [
+      "A slightly less formal option.",
+      "Never add new ideas after it."
+     ],
+     "example": "*To sum up*, both views have merit."
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "Noun + prep",
+   "tag": "+",
+   "rows": [
+    [
+     "reason",
+     "for"
+    ],
+    [
+     "increase",
+     "in"
+    ],
+    [
+     "demand",
+     "for"
+    ],
+    [
+     "effect",
+     "on"
+    ],
+    [
+     "solution",
+     "to"
+    ],
+    [
+     "access",
+     "to"
+    ],
+    [
+     "cause",
+     "of"
+    ],
+    [
+     "advantage",
+     "of"
+    ],
+    [
+     "lack",
+     "of"
+    ],
+    [
+     "attitude",
+     "towards"
+    ],
+    [
+     "impact",
+     "on"
+    ],
+    [
+     "need",
+     "for"
+    ]
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "TECHNOLOGY WORDS",
+   "items": [
+    {
+     "word": "Innovation",
+     "meaning": "a new idea, method or invention",
+     "example": "Smartphones were a major *innovation*."
+    },
+    {
+     "word": "Automation",
+     "meaning": "using machines instead of people",
+     "example": "*Automation* has replaced many factory jobs."
+    },
+    {
+     "word": "Obsolete",
+     "meaning": "no longer used; out of date",
+     "example": "Fax machines are almost *obsolete*."
+    }
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "ALTERNATE",
+     "bullets": [
+      "Means every second one.",
+      "e.g. alternate days."
+     ],
+     "examples": [
+      "I go to the gym on *alternate* days."
+     ]
+    },
+    {
+     "heading": "ALTERNATIVE",
+     "bullets": [
+      "Another possible option.",
+      "A noun or an adjective."
+     ],
+     "examples": [
+      "Cycling is an *alternative* to driving."
+     ]
+    }
+   ]
+  }
+ ]
+}

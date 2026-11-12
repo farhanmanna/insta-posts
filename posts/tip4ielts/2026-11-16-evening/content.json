@@ -1,0 +1,191 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Education topic",
+ "pages": [
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "PRACTICE",
+     "bullets": [
+      "A noun in British English.",
+      "e.g. a lot of practice."
+     ],
+     "examples": [
+      "*Practice* makes perfect."
+     ]
+    },
+    {
+     "heading": "PRACTISE",
+     "bullets": [
+      "A verb in British English.",
+      "US English uses -ce for both."
+     ],
+     "examples": [
+      "I *practise* speaking every day."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "Verb to noun",
+   "tag": "NOUN",
+   "rows": [
+    [
+     "develop",
+     "development"
+    ],
+    [
+     "pollute",
+     "pollution"
+    ],
+    [
+     "improve",
+     "improvement"
+    ],
+    [
+     "reduce",
+     "reduction"
+    ],
+    [
+     "decide",
+     "decision"
+    ],
+    [
+     "grow",
+     "growth"
+    ],
+    [
+     "fail",
+     "failure"
+    ],
+    [
+     "succeed",
+     "success"
+    ],
+    [
+     "solve",
+     "solution"
+    ],
+    [
+     "analyse",
+     "analysis"
+    ],
+    [
+     "prefer",
+     "preference"
+    ],
+    [
+     "assist",
+     "assistance"
+    ]
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "EDUCATION WORDS",
+   "items": [
+    {
+     "word": "Curriculum",
+     "meaning": "the subjects taught in a school",
+     "example": "Coding is now on the *curriculum*."
+    },
+    {
+     "word": "Tuition",
+     "meaning": "teaching, or the fee paid for it",
+     "example": "University *tuition* is expensive."
+    },
+    {
+     "word": "Literacy",
+     "meaning": "the ability to read and write",
+     "example": "Adult *literacy* has improved."
+    }
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "ZERO",
+     "bullets": [
+      "Facts that are always true.",
+      "If + present, present."
+     ],
+     "example": "If you heat ice, it *melts*."
+    },
+    {
+     "heading": "FIRST",
+     "bullets": [
+      "A real future possibility.",
+      "If + present, will + verb."
+     ],
+     "example": "If it rains, we *will* stay home."
+    },
+    {
+     "heading": "SECOND",
+     "bullets": [
+      "Unreal or unlikely situations.",
+      "If + past, would + verb."
+     ],
+     "example": "If I *were* rich, I'd travel."
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "PERSON",
+   "right": "SUBJECT",
+   "rows": [
+    [
+     "economist",
+     "economics"
+    ],
+    [
+     "scientist",
+     "science"
+    ],
+    [
+     "politician",
+     "politics"
+    ],
+    [
+     "psychologist",
+     "psychology"
+    ],
+    [
+     "architect",
+     "architecture"
+    ],
+    [
+     "engineer",
+     "engineering"
+    ],
+    [
+     "journalist",
+     "journalism"
+    ],
+    [
+     "biologist",
+     "biology"
+    ],
+    [
+     "historian",
+     "history"
+    ],
+    [
+     "lawyer",
+     "law"
+    ],
+    [
+     "photographer",
+     "photography"
+    ],
+    [
+     "philosopher",
+     "philosophy"
+    ]
+   ]
+  }
+ ]
+}

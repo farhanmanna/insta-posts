@@ -1,0 +1,191 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Writing Task 2 essentials",
+ "pages": [
+  {
+   "type": "glossary",
+   "left": "PHRASAL",
+   "right": "ACADEMIC",
+   "rows": [
+    [
+     "put off",
+     "postpone"
+    ],
+    [
+     "look into",
+     "investigate"
+    ],
+    [
+     "cut down",
+     "reduce"
+    ],
+    [
+     "set up",
+     "establish"
+    ],
+    [
+     "carry out",
+     "conduct"
+    ],
+    [
+     "give up",
+     "abandon"
+    ],
+    [
+     "point out",
+     "indicate"
+    ],
+    [
+     "make up",
+     "constitute"
+    ],
+    [
+     "deal with",
+     "address"
+    ],
+    [
+     "bring about",
+     "cause"
+    ],
+    [
+     "take part",
+     "participate"
+    ],
+    [
+     "throw away",
+     "discard"
+    ]
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "OPINION",
+     "bullets": [
+      "'To what extent do you agree?'",
+      "Keep one clear position."
+     ],
+     "example": "I *firmly believe* this is beneficial."
+    },
+    {
+     "heading": "DISCUSS",
+     "bullets": [
+      "Explain both views fairly.",
+      "Then give your own opinion."
+     ],
+     "example": "*Some people argue* that zoos are cruel."
+    },
+    {
+     "heading": "SOLUTION",
+     "bullets": [
+      "Explain the problem first.",
+      "Then suggest practical fixes."
+     ],
+     "example": "*One solution* would be cheaper buses."
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "Instead of 'get'",
+   "tag": "USE",
+   "rows": [
+    [
+     "get better",
+     "improve"
+    ],
+    [
+     "get worse",
+     "deteriorate"
+    ],
+    [
+     "get bigger",
+     "expand"
+    ],
+    [
+     "get a job",
+     "secure a job"
+    ],
+    [
+     "get money",
+     "earn money"
+    ],
+    [
+     "get help",
+     "receive help"
+    ],
+    [
+     "get ready",
+     "prepare"
+    ],
+    [
+     "get rid of",
+     "eliminate"
+    ],
+    [
+     "get in touch",
+     "contact"
+    ],
+    [
+     "get to",
+     "reach"
+    ],
+    [
+     "get used to",
+     "adapt to"
+    ],
+    [
+     "get back",
+     "return"
+    ]
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "BAND 8 NOUNS",
+   "items": [
+    {
+     "word": "Drawback",
+     "meaning": "a disadvantage or problem",
+     "example": "The main *drawback* is the cost."
+    },
+    {
+     "word": "Dilemma",
+     "meaning": "a difficult choice between options",
+     "example": "Parents face a *dilemma* over screen time."
+    },
+    {
+     "word": "Phenomenon",
+     "meaning": "something that exists or happens",
+     "example": "Fast fashion is a recent *phenomenon*."
+    }
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "FORMER",
+     "bullets": [
+      "Refers to the first of two.",
+      "Use 'the former'."
+     ],
+     "examples": [
+      "Of tea and coffee, I prefer *the former*."
+     ]
+    },
+    {
+     "heading": "LATTER",
+     "bullets": [
+      "Refers to the second of two.",
+      "Don't use it for three or more."
+     ],
+     "examples": [
+      "*The latter* is too bitter for me."
+     ]
+    }
+   ]
+  }
+ ]
+}

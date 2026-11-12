@@ -1,0 +1,183 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Cities topic",
+ "pages": [
+  {
+   "type": "boxes",
+   "title": "CITY WORDS",
+   "items": [
+    {
+     "word": "Urbanisation",
+     "meaning": "people moving from villages to cities",
+     "example": "*Urbanisation* puts pressure on housing."
+    },
+    {
+     "word": "Congestion",
+     "meaning": "too much traffic, causing delays",
+     "example": "Road *congestion* wastes time."
+    },
+    {
+     "word": "Infrastructure",
+     "meaning": "basic systems like roads and power",
+     "example": "Cities need better *infrastructure*."
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "BASIC",
+   "right": "BAND 8",
+   "rows": [
+    [
+     "important",
+     "vital"
+    ],
+    [
+     "clear",
+     "evident"
+    ],
+    [
+     "main",
+     "primary"
+    ],
+    [
+     "enough",
+     "adequate"
+    ],
+    [
+     "normal",
+     "typical"
+    ],
+    [
+     "new",
+     "innovative"
+    ],
+    [
+     "old-fashioned",
+     "outdated"
+    ],
+    [
+     "helpful",
+     "beneficial"
+    ],
+    [
+     "harmful",
+     "detrimental"
+    ],
+    [
+     "possible",
+     "feasible"
+    ],
+    [
+     "common",
+     "prevalent"
+    ],
+    [
+     "cheap",
+     "affordable"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "title": "Instead of 'good'",
+   "tag": "SAY",
+   "rows": [
+    [
+     "good idea",
+     "sensible idea"
+    ],
+    [
+     "good result",
+     "positive outcome"
+    ],
+    [
+     "good effect",
+     "beneficial effect"
+    ],
+    [
+     "good chance",
+     "strong chance"
+    ],
+    [
+     "good reason",
+     "valid reason"
+    ],
+    [
+     "good at",
+     "skilled at"
+    ],
+    [
+     "good quality",
+     "high quality"
+    ],
+    [
+     "good salary",
+     "generous salary"
+    ],
+    [
+     "good friend",
+     "close friend"
+    ],
+    [
+     "good example",
+     "prime example"
+    ]
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "SITE",
+     "bullets": [
+      "A place where something is.",
+      "e.g. building site, website."
+     ],
+     "examples": [
+      "They chose a *site* for the hospital."
+     ]
+    },
+    {
+     "heading": "SIGHT",
+     "bullets": [
+      "The ability to see.",
+      "Or something worth seeing."
+     ],
+     "examples": [
+      "The Taj Mahal is an amazing *sight*."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "BECAUSE",
+     "bullets": [
+      "Followed by subject + verb.",
+      "Gives a reason."
+     ],
+     "example": "Rents rose *because* demand grew."
+    },
+    {
+     "heading": "BECAUSE OF",
+     "bullets": [
+      "Followed by a noun.",
+      "Similar to 'due to'."
+     ],
+     "example": "Rents rose *because of* high demand."
+    },
+    {
+     "heading": "THEREFORE",
+     "bullets": [
+      "Introduces a result.",
+      "Use a comma after it."
+     ],
+     "example": "Demand grew. *Therefore*, rents rose."
+    }
+   ]
+  }
+ ]
+}

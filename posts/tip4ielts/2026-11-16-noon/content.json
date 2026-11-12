@@ -1,0 +1,191 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Grammar for band 7",
+ "pages": [
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "A",
+     "bullets": [
+      "Before consonant sounds.",
+      "One of many, mentioned first."
+     ],
+     "example": "She bought *a* car."
+    },
+    {
+     "heading": "AN",
+     "bullets": [
+      "Before vowel sounds.",
+      "Think sound, not spelling."
+     ],
+     "example": "It took *an* hour."
+    },
+    {
+     "heading": "THE",
+     "bullets": [
+      "Something specific or known.",
+      "Unique things: the sun."
+     ],
+     "example": "*The* car was very expensive."
+    }
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "AMOUNT",
+     "bullets": [
+      "Use with uncountable nouns.",
+      "e.g. money, water, time."
+     ],
+     "examples": [
+      "A large *amount* of water."
+     ]
+    },
+    {
+     "heading": "NUMBER",
+     "bullets": [
+      "Use with countable nouns.",
+      "e.g. people, cars, books."
+     ],
+     "examples": [
+      "A large *number* of people."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "SINGULAR",
+   "right": "PLURAL",
+   "rows": [
+    [
+     "phenomenon",
+     "phenomena"
+    ],
+    [
+     "criterion",
+     "criteria"
+    ],
+    [
+     "analysis",
+     "analyses"
+    ],
+    [
+     "crisis",
+     "crises"
+    ],
+    [
+     "hypothesis",
+     "hypotheses"
+    ],
+    [
+     "datum",
+     "data"
+    ],
+    [
+     "medium",
+     "media"
+    ],
+    [
+     "thesis",
+     "theses"
+    ],
+    [
+     "basis",
+     "bases"
+    ],
+    [
+     "child",
+     "children"
+    ],
+    [
+     "person",
+     "people"
+    ],
+    [
+     "woman",
+     "women"
+    ]
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "WORD TRAPS",
+   "items": [
+    {
+     "word": "Ensure",
+     "meaning": "to make certain something happens",
+     "example": "*Ensure* you check your answers."
+    },
+    {
+     "word": "Insure",
+     "meaning": "to protect with an insurance policy",
+     "example": "We *insured* the house against fire."
+    },
+    {
+     "word": "Assure",
+     "meaning": "to tell someone firmly, removing doubt",
+     "example": "I *assure* you it's safe."
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "Adjective + prep",
+   "tag": "+",
+   "rows": [
+    [
+     "responsible",
+     "for"
+    ],
+    [
+     "interested",
+     "in"
+    ],
+    [
+     "aware",
+     "of"
+    ],
+    [
+     "capable",
+     "of"
+    ],
+    [
+     "dependent",
+     "on"
+    ],
+    [
+     "similar",
+     "to"
+    ],
+    [
+     "different",
+     "from"
+    ],
+    [
+     "famous",
+     "for"
+    ],
+    [
+     "concerned",
+     "about"
+    ],
+    [
+     "involved",
+     "in"
+    ],
+    [
+     "keen",
+     "on"
+    ],
+    [
+     "addicted",
+     "to"
+    ]
+   ]
+  }
+ ]
+}

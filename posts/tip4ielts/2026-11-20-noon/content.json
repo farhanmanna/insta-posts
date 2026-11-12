@@ -1,0 +1,157 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Media and opinions",
+ "pages": [
+  {
+   "type": "boxes",
+   "title": "SOUND-ALIKES",
+   "items": [
+    {
+     "word": "Complement",
+     "meaning": "to go well with something",
+     "example": "The sauce *complements* the fish."
+    },
+    {
+     "word": "Compliment",
+     "meaning": "to praise someone",
+     "example": "She *complimented* my essay."
+    },
+    {
+     "word": "Supplement",
+     "meaning": "something added to improve something",
+     "example": "Vitamin *supplements* are popular."
+    }
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "MEDIA WORDS",
+   "items": [
+    {
+     "word": "Bias",
+     "meaning": "unfair support for one side",
+     "example": "Some newspapers show political *bias*."
+    },
+    {
+     "word": "Coverage",
+     "meaning": "how much the news reports on something",
+     "example": "The election got huge media *coverage*."
+    },
+    {
+     "word": "Censorship",
+     "meaning": "banning parts of books, films or news",
+     "example": "*Censorship* limits free speech."
+    }
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "EVERYDAY",
+     "bullets": [
+      "One word: an adjective.",
+      "Means normal or ordinary."
+     ],
+     "examples": [
+      "Phones are part of *everyday* life."
+     ]
+    },
+    {
+     "heading": "EVERY DAY",
+     "bullets": [
+      "Two words: means daily.",
+      "Tells you how often."
+     ],
+     "examples": [
+      "I read the news *every day*."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "PERSONALLY",
+     "bullets": [
+      "Starts a personal opinion.",
+      "Great in Speaking Part 3."
+     ],
+     "example": "*Personally*, I prefer printed books."
+    },
+    {
+     "heading": "IN MY VIEW",
+     "bullets": [
+      "A formal way to give opinions.",
+      "Good for Task 2 essays."
+     ],
+     "example": "*In my view*, news should be free."
+    },
+    {
+     "heading": "I BELIEVE",
+     "bullets": [
+      "Shows a firm opinion.",
+      "Stronger than 'I think'."
+     ],
+     "example": "*I believe* schools should teach media skills."
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "Verb + prep",
+   "tag": "+",
+   "rows": [
+    [
+     "depend",
+     "on"
+    ],
+    [
+     "focus",
+     "on"
+    ],
+    [
+     "contribute",
+     "to"
+    ],
+    [
+     "benefit",
+     "from"
+    ],
+    [
+     "suffer",
+     "from"
+    ],
+    [
+     "result",
+     "in"
+    ],
+    [
+     "consist",
+     "of"
+    ],
+    [
+     "apply",
+     "for"
+    ],
+    [
+     "rely",
+     "on"
+    ],
+    [
+     "insist",
+     "on"
+    ],
+    [
+     "object",
+     "to"
+    ],
+    [
+     "participate",
+     "in"
+    ]
+   ]
+  }
+ ]
+}

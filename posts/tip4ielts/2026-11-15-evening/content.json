@@ -1,0 +1,191 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Environment topic",
+ "pages": [
+  {
+   "type": "list",
+   "title": "Strong collocations",
+   "tag": "+",
+   "rows": [
+    [
+     "heavy",
+     "rain"
+    ],
+    [
+     "strong",
+     "wind"
+    ],
+    [
+     "high",
+     "unemployment"
+    ],
+    [
+     "fierce",
+     "competition"
+    ],
+    [
+     "vast",
+     "majority"
+    ],
+    [
+     "key",
+     "role"
+    ],
+    [
+     "widespread",
+     "concern"
+    ],
+    [
+     "rapid",
+     "growth"
+    ],
+    [
+     "severe",
+     "consequences"
+    ],
+    [
+     "growing",
+     "demand"
+    ],
+    [
+     "deeply",
+     "concerned"
+    ],
+    [
+     "highly",
+     "unlikely"
+    ]
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "WORD",
+   "right": "OPPOSITE",
+   "rows": [
+    [
+     "legal",
+     "illegal"
+    ],
+    [
+     "responsible",
+     "irresponsible"
+    ],
+    [
+     "possible",
+     "impossible"
+    ],
+    [
+     "employed",
+     "unemployed"
+    ],
+    [
+     "literate",
+     "illiterate"
+    ],
+    [
+     "regular",
+     "irregular"
+    ],
+    [
+     "sufficient",
+     "insufficient"
+    ],
+    [
+     "ethical",
+     "unethical"
+    ],
+    [
+     "mature",
+     "immature"
+    ],
+    [
+     "appropriate",
+     "inappropriate"
+    ],
+    [
+     "affordable",
+     "unaffordable"
+    ],
+    [
+     "honest",
+     "dishonest"
+    ]
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "MAY",
+     "bullets": [
+      "Shows something is possible.",
+      "Avoids sounding too certain."
+     ],
+     "example": "This policy *may* reduce traffic."
+    },
+    {
+     "heading": "TEND TO",
+     "bullets": [
+      "Describes a general habit.",
+      "Softer than 'always'."
+     ],
+     "example": "Young people *tend to* use phones more."
+    },
+    {
+     "heading": "LIKELY",
+     "bullets": [
+      "Means probably true.",
+      "Use 'be likely to' + verb."
+     ],
+     "example": "Prices *are likely to* rise."
+    }
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "ENVIRONMENT WORDS",
+   "items": [
+    {
+     "word": "Deforestation",
+     "meaning": "cutting down large areas of forest",
+     "example": "*Deforestation* threatens many species."
+    },
+    {
+     "word": "Emissions",
+     "meaning": "gases released into the air",
+     "example": "Cars produce harmful *emissions*."
+    },
+    {
+     "word": "Sustainable",
+     "meaning": "able to continue without harming nature",
+     "example": "We need *sustainable* energy sources."
+    }
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "WEATHER",
+     "bullets": [
+      "Conditions on a particular day.",
+      "Can change hour by hour."
+     ],
+     "examples": [
+      "The *weather* is sunny today."
+     ]
+    },
+    {
+     "heading": "CLIMATE",
+     "bullets": [
+      "Typical conditions over many years.",
+      "Describes a whole region."
+     ],
+     "examples": [
+      "India has a tropical *climate*."
+     ]
+    }
+   ]
+  }
+ ]
+}

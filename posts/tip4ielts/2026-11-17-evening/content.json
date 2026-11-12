@@ -1,0 +1,183 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Health topic",
+ "pages": [
+  {
+   "type": "glossary",
+   "left": "NUMBER",
+   "right": "IN WORDS",
+   "rows": [
+    [
+     "25%",
+     "a quarter"
+    ],
+    [
+     "50%",
+     "half"
+    ],
+    [
+     "75%",
+     "three quarters"
+    ],
+    [
+     "33%",
+     "about a third"
+    ],
+    [
+     "10%",
+     "one in ten"
+    ],
+    [
+     "20%",
+     "a fifth"
+    ],
+    [
+     "66%",
+     "about two thirds"
+    ],
+    [
+     "5%",
+     "one in twenty"
+    ],
+    [
+     "49%",
+     "just under half"
+    ],
+    [
+     "52%",
+     "just over half"
+    ],
+    [
+     "90%",
+     "the vast majority"
+    ],
+    [
+     "2%",
+     "a tiny fraction"
+    ]
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "HEALTH WORDS",
+   "items": [
+    {
+     "word": "Sedentary",
+     "meaning": "involving lots of sitting, little exercise",
+     "example": "Office jobs are often *sedentary*."
+    },
+    {
+     "word": "Obesity",
+     "meaning": "being very overweight",
+     "example": "Childhood *obesity* is rising."
+    },
+    {
+     "word": "Well-being",
+     "meaning": "being healthy, happy and comfortable",
+     "example": "Exercise improves mental *well-being*."
+    }
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "AGREE",
+     "bullets": [
+      "Show strong support.",
+      "Then add a reason."
+     ],
+     "example": "I *couldn't agree more*."
+    },
+    {
+     "heading": "PARTLY",
+     "bullets": [
+      "Agree with one part only.",
+      "Then explain the limit."
+     ],
+     "example": "I *partly agree*, but it depends."
+    },
+    {
+     "heading": "DISAGREE",
+     "bullets": [
+      "Disagree politely.",
+      "Avoid just saying 'No'."
+     ],
+     "example": "I'm *not so sure* about that."
+    }
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "CONTINUAL",
+     "bullets": [
+      "Happens again and again.",
+      "Often annoying."
+     ],
+     "examples": [
+      "*Continual* interruptions stopped my work."
+     ]
+    },
+    {
+     "heading": "CONTINUOUS",
+     "bullets": [
+      "Goes on without any break.",
+      "Non-stop."
+     ],
+     "examples": [
+      "The machine makes a *continuous* noise."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "Instead of 'bad'",
+   "tag": "SAY",
+   "rows": [
+    [
+     "bad effect",
+     "harmful effect"
+    ],
+    [
+     "bad situation",
+     "dire situation"
+    ],
+    [
+     "bad weather",
+     "severe weather"
+    ],
+    [
+     "bad habit",
+     "unhealthy habit"
+    ],
+    [
+     "bad idea",
+     "unwise idea"
+    ],
+    [
+     "bad quality",
+     "poor quality"
+    ],
+    [
+     "bad mistake",
+     "serious mistake"
+    ],
+    [
+     "bad pain",
+     "severe pain"
+    ],
+    [
+     "bad behaviour",
+     "antisocial behaviour"
+    ],
+    [
+     "bad news",
+     "distressing news"
+    ]
+   ]
+  }
+ ]
+}

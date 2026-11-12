@@ -1,0 +1,183 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Work topic",
+ "pages": [
+  {
+   "type": "boxes",
+   "title": "WORK WORDS",
+   "items": [
+    {
+     "word": "Workforce",
+     "meaning": "all the people working in a place",
+     "example": "Women make up half the *workforce*."
+    },
+    {
+     "word": "Redundant",
+     "meaning": "losing your job as it's no longer needed",
+     "example": "Hundreds of staff were made *redundant*."
+    },
+    {
+     "word": "Incentive",
+     "meaning": "something that encourages people to act",
+     "example": "Bonuses are an *incentive* to work harder."
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "NOUN",
+   "right": "ADJECTIVE",
+   "rows": [
+    [
+     "environment",
+     "environmental"
+    ],
+    [
+     "society",
+     "social"
+    ],
+    [
+     "culture",
+     "cultural"
+    ],
+    [
+     "politics",
+     "political"
+    ],
+    [
+     "finance",
+     "financial"
+    ],
+    [
+     "industry",
+     "industrial"
+    ],
+    [
+     "benefit",
+     "beneficial"
+    ],
+    [
+     "danger",
+     "dangerous"
+    ],
+    [
+     "success",
+     "successful"
+    ],
+    [
+     "tradition",
+     "traditional"
+    ],
+    [
+     "nation",
+     "national"
+    ],
+    [
+     "medicine",
+     "medical"
+    ]
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "PERSONAL",
+     "bullets": [
+      "An adjective: about one person.",
+      "Stress on the first syllable."
+     ],
+     "examples": [
+      "That's a *personal* question."
+     ]
+    },
+    {
+     "heading": "PERSONNEL",
+     "bullets": [
+      "A noun: the staff of a company.",
+      "Stress on the last syllable."
+     ],
+     "examples": [
+      "All *personnel* must wear badges."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "Instead of 'small'",
+   "tag": "SAY",
+   "rows": [
+    [
+     "small change",
+     "slight change"
+    ],
+    [
+     "small problem",
+     "minor problem"
+    ],
+    [
+     "small increase",
+     "marginal increase"
+    ],
+    [
+     "small mistake",
+     "minor error"
+    ],
+    [
+     "small number",
+     "handful"
+    ],
+    [
+     "small room",
+     "cramped room"
+    ],
+    [
+     "small house",
+     "compact house"
+    ],
+    [
+     "small difference",
+     "negligible difference"
+    ],
+    [
+     "small chance",
+     "slim chance"
+    ],
+    [
+     "small detail",
+     "trivial detail"
+    ]
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "MUST",
+     "bullets": [
+      "Strong obligation or rule.",
+      "Often the speaker's own view."
+     ],
+     "example": "Drivers *must* wear seat belts."
+    },
+    {
+     "heading": "HAVE TO",
+     "bullets": [
+      "Obligation from outside.",
+      "Past form: had to."
+     ],
+     "example": "I *have to* work on Saturdays."
+    },
+    {
+     "heading": "SHOULD",
+     "bullets": [
+      "Advice or a recommendation.",
+      "Weaker than must."
+     ],
+     "example": "Governments *should* invest in schools."
+    }
+   ]
+  }
+ ]
+}

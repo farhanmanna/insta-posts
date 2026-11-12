@@ -1,0 +1,183 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Speaking: sound natural",
+ "pages": [
+  {
+   "type": "boxes",
+   "title": "SPEAKING PHRASES",
+   "items": [
+    {
+     "word": "To be honest",
+     "meaning": "to share your true feeling",
+     "example": "*To be honest*, I rarely watch TV."
+    },
+    {
+     "word": "As far as I know",
+     "meaning": "based on what I know",
+     "example": "*As far as I know*, the museum is free."
+    },
+    {
+     "word": "Off the top of my head",
+     "meaning": "without checking or thinking long",
+     "example": "*Off the top of my head*, maybe three."
+    }
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "PAUSE",
+     "bullets": [
+      "Buy a few seconds to think.",
+      "Better than a long silence."
+     ],
+     "example": "That's an *interesting question*."
+    },
+    {
+     "heading": "CLARIFY",
+     "bullets": [
+      "Ask if you didn't catch it.",
+      "It's fine to ask once."
+     ],
+     "example": "Sorry, could you *repeat* that?"
+    },
+    {
+     "heading": "REPHRASE",
+     "bullets": [
+      "Say the question in your words.",
+      "Gives you time to plan."
+     ],
+     "example": "*So you mean*, why do people travel?"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "Instead of 'nice'",
+   "tag": "SAY",
+   "rows": [
+    [
+     "nice weather",
+     "pleasant weather"
+    ],
+    [
+     "nice food",
+     "delicious food"
+    ],
+    [
+     "nice view",
+     "stunning view"
+    ],
+    [
+     "nice person",
+     "kind person"
+    ],
+    [
+     "nice place",
+     "charming place"
+    ],
+    [
+     "nice time",
+     "wonderful time"
+    ],
+    [
+     "nice smell",
+     "lovely aroma"
+    ],
+    [
+     "nice music",
+     "soothing music"
+    ],
+    [
+     "nice gift",
+     "thoughtful gift"
+    ],
+    [
+     "nice idea",
+     "clever idea"
+    ]
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "CASUAL",
+   "right": "ACADEMIC",
+   "rows": [
+    [
+     "kids",
+     "children"
+    ],
+    [
+     "guys",
+     "people"
+    ],
+    [
+     "really",
+     "extremely"
+    ],
+    [
+     "totally",
+     "completely"
+    ],
+    [
+     "maybe",
+     "perhaps"
+    ],
+    [
+     "sort of",
+     "somewhat"
+    ],
+    [
+     "lots of",
+     "numerous"
+    ],
+    [
+     "OK",
+     "acceptable"
+    ],
+    [
+     "but",
+     "however"
+    ],
+    [
+     "also",
+     "furthermore"
+    ],
+    [
+     "so",
+     "therefore"
+    ],
+    [
+     "things",
+     "aspects"
+    ]
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "MAYBE",
+     "bullets": [
+      "One word: an adverb.",
+      "Means 'perhaps'."
+     ],
+     "examples": [
+      "*Maybe* I'll travel next year."
+     ]
+    },
+    {
+     "heading": "MAY BE",
+     "bullets": [
+      "Two words: modal + verb.",
+      "Means 'might be'."
+     ],
+     "examples": [
+      "It *may be* too late now."
+     ]
+    }
+   ]
+  }
+ ]
+}

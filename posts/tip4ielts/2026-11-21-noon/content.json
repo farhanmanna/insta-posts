@@ -1,0 +1,191 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Family and people",
+ "pages": [
+  {
+   "type": "list",
+   "title": "Family collocations",
+   "tag": "+",
+   "rows": [
+    [
+     "raise",
+     "children"
+    ],
+    [
+     "extended",
+     "family"
+    ],
+    [
+     "single",
+     "parent"
+    ],
+    [
+     "close",
+     "relationship"
+    ],
+    [
+     "sibling",
+     "rivalry"
+    ],
+    [
+     "family",
+     "values"
+    ],
+    [
+     "start",
+     "a family"
+    ],
+    [
+     "only",
+     "child"
+    ],
+    [
+     "take after",
+     "a parent"
+    ],
+    [
+     "look after",
+     "elderly parents"
+    ],
+    [
+     "household",
+     "chores"
+    ],
+    [
+     "family",
+     "gathering"
+    ]
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "ADVERSE",
+     "bullets": [
+      "Means harmful or negative.",
+      "e.g. adverse effects."
+     ],
+     "examples": [
+      "Smoking has *adverse* effects on health."
+     ]
+    },
+    {
+     "heading": "AVERSE",
+     "bullets": [
+      "Means strongly disliking.",
+      "Often 'not averse to'."
+     ],
+     "examples": [
+      "She is *averse* to taking risks."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "POSITIVE",
+   "right": "NEGATIVE",
+   "rows": [
+    [
+     "generous",
+     "mean"
+    ],
+    [
+     "patient",
+     "impatient"
+    ],
+    [
+     "confident",
+     "insecure"
+    ],
+    [
+     "hard-working",
+     "lazy"
+    ],
+    [
+     "polite",
+     "rude"
+    ],
+    [
+     "calm",
+     "short-tempered"
+    ],
+    [
+     "sociable",
+     "unsociable"
+    ],
+    [
+     "reliable",
+     "unreliable"
+    ],
+    [
+     "modest",
+     "arrogant"
+    ],
+    [
+     "optimistic",
+     "pessimistic"
+    ],
+    [
+     "cheerful",
+     "grumpy"
+    ],
+    [
+     "tolerant",
+     "intolerant"
+    ]
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "FAMILY WORDS",
+   "items": [
+    {
+     "word": "Upbringing",
+     "meaning": "the way a child is raised",
+     "example": "A strict *upbringing* shaped her values."
+    },
+    {
+     "word": "Nuclear family",
+     "meaning": "parents and their children only",
+     "example": "The *nuclear family* is now common."
+    },
+    {
+     "word": "Generation gap",
+     "meaning": "differences between young and old",
+     "example": "The *generation gap* can cause arguments."
+    }
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "PAST",
+     "bullets": [
+      "For dates already gone.",
+      "e.g. rose, fell, remained."
+     ],
+     "example": "Sales *rose* in 2010."
+    },
+    {
+     "heading": "PRESENT",
+     "bullets": [
+      "For processes and diagrams.",
+      "Often in the passive."
+     ],
+     "example": "The leaves *are dried* in the sun."
+    },
+    {
+     "heading": "FUTURE",
+     "bullets": [
+      "For projected data.",
+      "e.g. is expected to rise."
+     ],
+     "example": "Sales *are expected to* fall by 2030."
+    }
+   ]
+  }
+ ]
+}

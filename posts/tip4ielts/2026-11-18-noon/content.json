@@ -1,0 +1,183 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Task 1 comparisons and tenses",
+ "pages": [
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "TWICE",
+     "bullets": [
+      "Use 'twice as … as'.",
+      "Two times bigger."
+     ],
+     "example": "City A had *twice as many* cars."
+    },
+    {
+     "heading": "HALF",
+     "bullets": [
+      "Use 'half as … as'.",
+      "Half the size."
+     ],
+     "example": "Town B had *half as many* cars."
+    },
+    {
+     "heading": "DOUBLE",
+     "bullets": [
+      "Verb: become twice as big.",
+      "Opposite: halve."
+     ],
+     "example": "Car ownership *doubled* by 2010."
+    }
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "STATIONARY",
+     "bullets": [
+      "An adjective: not moving.",
+      "Think: a = stand still."
+     ],
+     "examples": [
+      "The traffic was *stationary* for hours."
+     ]
+    },
+    {
+     "heading": "STATIONERY",
+     "bullets": [
+      "A noun: paper, pens, envelopes.",
+      "Think: e = envelope."
+     ],
+     "examples": [
+      "I bought *stationery* for school."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "PAST",
+   "right": "PARTICIPLE",
+   "rows": [
+    [
+     "rose",
+     "risen"
+    ],
+    [
+     "fell",
+     "fallen"
+    ],
+    [
+     "grew",
+     "grown"
+    ],
+    [
+     "saw",
+     "seen"
+    ],
+    [
+     "began",
+     "begun"
+    ],
+    [
+     "chose",
+     "chosen"
+    ],
+    [
+     "drove",
+     "driven"
+    ],
+    [
+     "spoke",
+     "spoken"
+    ],
+    [
+     "wrote",
+     "written"
+    ],
+    [
+     "took",
+     "taken"
+    ],
+    [
+     "gave",
+     "given"
+    ],
+    [
+     "became",
+     "become"
+    ]
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "SIMILAR BUT DIFFERENT",
+   "items": [
+    {
+     "word": "Possibility",
+     "meaning": "something that might happen",
+     "example": "There's a *possibility* of rain."
+    },
+    {
+     "word": "Opportunity",
+     "meaning": "a good time to do something",
+     "example": "This job is a great *opportunity*."
+    },
+    {
+     "word": "Chance",
+     "meaning": "likelihood, or an opportunity",
+     "example": "There's a small *chance* of success."
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "Instead of 'big'",
+   "tag": "SAY",
+   "rows": [
+    [
+     "big problem",
+     "major problem"
+    ],
+    [
+     "big change",
+     "significant change"
+    ],
+    [
+     "big amount",
+     "substantial amount"
+    ],
+    [
+     "big increase",
+     "sharp increase"
+    ],
+    [
+     "big difference",
+     "considerable difference"
+    ],
+    [
+     "big impact",
+     "profound impact"
+    ],
+    [
+     "big mistake",
+     "serious error"
+    ],
+    [
+     "big decision",
+     "major decision"
+    ],
+    [
+     "big city",
+     "major city"
+    ],
+    [
+     "big part",
+     "large proportion"
+    ]
+   ]
+  }
+ ]
+}

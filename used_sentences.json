@@ -674,6 +674,214 @@
     "Take a rain check",
     "Look into"
    ]
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-14",
+   "slot": "noon",
+   "theme": "Task 1 trend language",
+   "english": [
+    "DESCRIBE THE CHANGE",
+    "Trend words",
+    "Up / Down",
+    "To / By / At",
+    "Overview / Details"
+   ]
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-14",
+   "slot": "evening",
+   "theme": "Speaking: sound natural",
+   "english": [
+    "SPEAKING PHRASES",
+    "Pause / Clarify / Rephrase",
+    "Instead of 'nice'",
+    "Casual / Academic",
+    "Maybe / May Be"
+   ]
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-15",
+   "slot": "noon",
+   "theme": "Writing Task 2 linking and accuracy",
+   "english": [
+    "Whereas / In Contrast / Nevertheless",
+    "For Example / Such As",
+    "Question / Paraphrase",
+    "BAND 8 VERBS",
+    "Common errors"
+   ]
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-15",
+   "slot": "evening",
+   "theme": "Environment topic",
+   "english": [
+    "Strong collocations",
+    "Word / Opposite",
+    "May / Tend To / Likely",
+    "ENVIRONMENT WORDS",
+    "Weather / Climate"
+   ]
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-16",
+   "slot": "noon",
+   "theme": "Grammar for band 7",
+   "english": [
+    "A / An / The",
+    "Amount / Number",
+    "Singular / Plural",
+    "WORD TRAPS",
+    "Adjective + prep"
+   ]
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-16",
+   "slot": "evening",
+   "theme": "Education topic",
+   "english": [
+    "Practice / Practise",
+    "Verb to noun",
+    "EDUCATION WORDS",
+    "Zero / First / Second",
+    "Person / Subject"
+   ]
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-17",
+   "slot": "noon",
+   "theme": "Writing Task 2 essentials",
+   "english": [
+    "Phrasal / Academic",
+    "Opinion / Discuss / Solution",
+    "Instead of 'get'",
+    "BAND 8 NOUNS",
+    "Former / Latter"
+   ]
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-17",
+   "slot": "evening",
+   "theme": "Health topic",
+   "english": [
+    "Number / In Words",
+    "HEALTH WORDS",
+    "Agree / Partly / Disagree",
+    "Continual / Continuous",
+    "Instead of 'bad'"
+   ]
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-18",
+   "slot": "noon",
+   "theme": "Task 1 comparisons and tenses",
+   "english": [
+    "Twice / Half / Double",
+    "Stationary / Stationery",
+    "Past / Participle",
+    "SIMILAR BUT DIFFERENT",
+    "Instead of 'big'"
+   ]
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-18",
+   "slot": "evening",
+   "theme": "Technology topic",
+   "english": [
+    "American / British",
+    "Overall / In Conclusion / To Sum Up",
+    "Noun + prep",
+    "TECHNOLOGY WORDS",
+    "Alternate / Alternative"
+   ]
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-19",
+   "slot": "noon",
+   "theme": "Work topic",
+   "english": [
+    "WORK WORDS",
+    "Noun / Adjective",
+    "Personal / Personnel",
+    "Instead of 'small'",
+    "Must / Have To / Should"
+   ]
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-19",
+   "slot": "evening",
+   "theme": "Cities topic",
+   "english": [
+    "CITY WORDS",
+    "Basic / Band 8",
+    "Instead of 'good'",
+    "Site / Sight",
+    "Because / Because Of / Therefore"
+   ]
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-20",
+   "slot": "noon",
+   "theme": "Media and opinions",
+   "english": [
+    "SOUND-ALIKES",
+    "MEDIA WORDS",
+    "Everyday / Every Day",
+    "Personally / In My View / I Believe",
+    "Verb + prep"
+   ]
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-20",
+   "slot": "evening",
+   "theme": "Travel and tourism",
+   "english": [
+    "Place / Adjective",
+    "Principal / Principle",
+    "Take / Pay / Keep",
+    "Travel collocations",
+    "TOURISM WORDS"
+   ]
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-21",
+   "slot": "noon",
+   "theme": "Family and people",
+   "english": [
+    "Family collocations",
+    "Adverse / Averse",
+    "Positive / Negative",
+    "FAMILY WORDS",
+    "Past / Present / Future"
+   ]
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-21",
+   "slot": "evening",
+   "theme": "Government and crime",
+   "english": [
+    "GOVERNMENT WORDS",
+    "Unless / In Case / As Long As",
+    "CRIME WORDS",
+    "Lead / Led",
+    "Crime / Criminal"
+   ]
   }
  ]
 }

@@ -1,0 +1,191 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Travel and tourism",
+ "pages": [
+  {
+   "type": "glossary",
+   "left": "PLACE",
+   "right": "ADJECTIVE",
+   "rows": [
+    [
+     "Netherlands",
+     "Dutch"
+    ],
+    [
+     "Switzerland",
+     "Swiss"
+    ],
+    [
+     "Thailand",
+     "Thai"
+    ],
+    [
+     "Philippines",
+     "Filipino"
+    ],
+    [
+     "Bangladesh",
+     "Bangladeshi"
+    ],
+    [
+     "Greece",
+     "Greek"
+    ],
+    [
+     "Peru",
+     "Peruvian"
+    ],
+    [
+     "Norway",
+     "Norwegian"
+    ],
+    [
+     "Wales",
+     "Welsh"
+    ],
+    [
+     "Iraq",
+     "Iraqi"
+    ],
+    [
+     "Denmark",
+     "Danish"
+    ],
+    [
+     "Portugal",
+     "Portuguese"
+    ]
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "PRINCIPAL",
+     "bullets": [
+      "Adjective: main, most important.",
+      "Noun: head of a school."
+     ],
+     "examples": [
+      "Tourism is the *principal* industry here."
+     ]
+    },
+    {
+     "heading": "PRINCIPLE",
+     "bullets": [
+      "Noun: a basic rule or belief.",
+      "Never an adjective."
+     ],
+     "examples": [
+      "She refused on *principle*."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "TAKE",
+     "bullets": [
+      "Take responsibility, take a risk.",
+      "Take part in something."
+     ],
+     "example": "Young people should *take part* in sports."
+    },
+    {
+     "heading": "PAY",
+     "bullets": [
+      "Pay attention to details.",
+      "Pay a visit to someone."
+     ],
+     "example": "Tourists should *pay attention* to local customs."
+    },
+    {
+     "heading": "KEEP",
+     "bullets": [
+      "Keep in touch with friends.",
+      "Keep a promise."
+     ],
+     "example": "Social media helps us *keep in touch*."
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "Travel collocations",
+   "tag": "+",
+   "rows": [
+    [
+     "book",
+     "a flight"
+    ],
+    [
+     "go",
+     "sightseeing"
+    ],
+    [
+     "catch",
+     "a train"
+    ],
+    [
+     "miss",
+     "a flight"
+    ],
+    [
+     "pack",
+     "your bags"
+    ],
+    [
+     "take",
+     "a trip"
+    ],
+    [
+     "hire",
+     "a car"
+    ],
+    [
+     "check in",
+     "at a hotel"
+    ],
+    [
+     "broaden",
+     "your horizons"
+    ],
+    [
+     "explore",
+     "the city"
+    ],
+    [
+     "experience",
+     "a new culture"
+    ],
+    [
+     "get",
+     "lost"
+    ]
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "TOURISM WORDS",
+   "items": [
+    {
+     "word": "Ecotourism",
+     "meaning": "travel that protects nature",
+     "example": "Costa Rica is famous for *ecotourism*."
+    },
+    {
+     "word": "Influx",
+     "meaning": "a large number arriving at once",
+     "example": "Summer brings an *influx* of tourists."
+    },
+    {
+     "word": "Landmark",
+     "meaning": "a famous, easily recognised place",
+     "example": "The Eiffel Tower is a famous *landmark*."
+    }
+   ]
+  }
+ ]
+}
