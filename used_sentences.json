@@ -414,6 +414,32 @@
     "When will the baraat arrive?",
     "We danced all night."
    ]
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-21",
+   "slot": "noon",
+   "theme": "At the Market",
+   "english": [
+    "How much are the tomatoes?",
+    "Give me a kilo of potatoes, please.",
+    "These vegetables don't look fresh.",
+    "Throw in some coriander for free.",
+    "I left my bag at home."
+   ]
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-21",
+   "slot": "evening",
+   "theme": "Motivation",
+   "english": [
+    "Don't give up.",
+    "Hard work always pays off.",
+    "You can do this.",
+    "Everything will be fine one day.",
+    "Believe in yourself."
+   ]
   }
  ]
 }
