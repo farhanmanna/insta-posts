@@ -255,5 +255,5 @@ if __name__ == "__main__":
     os.makedirs(out, exist_ok=True)
     pages = data["pages"]
     for i, p in enumerate(pages, 1):
-        page(p, i, len(pages), data.get("handle", "phrasalidiomatics"),
+        page(p, i, len(pages), data.get("handle", "phrasalidiomatic"),
              os.path.join(out, f"slide{i}.jpg"), seed=i * 13 + len(p["title"]))
