@@ -1,0 +1,23 @@
+{"handle": "tip4ielts", "theme": "IELTS vocabulary and grammar essentials",
+ "pages": [
+  {"type": "sections", "sections": [
+    {"heading": "AFFECT", "bullets": ["*Affect* is a verb.", "It means to change or influence something."],
+     "examples": ["Pollution *affects* our health.", "Stress can *affect* your sleep."]},
+    {"heading": "EFFECT", "bullets": ["*Effect* is a noun.", "It means the result of a change."],
+     "examples": ["Pollution has a bad *effect* on health.", "The new law had little *effect*."]}]},
+  {"type": "pens", "sections": [
+    {"heading": "HOWEVER", "bullets": ["Starts a new sentence.", "Followed by a comma."], "example": "Cars are useful. *However*, they pollute the air."},
+    {"heading": "ALTHOUGH", "bullets": ["Joins two ideas in one sentence.", "Followed by subject + verb."], "example": "*Although* cars are useful, they pollute the air."},
+    {"heading": "DESPITE", "bullets": ["Followed by a noun or verb-ing.", "Never followed by subject + verb."], "example": "*Despite* being useful, cars pollute the air."}]},
+  {"type": "boxes", "title": "CONFUSED WORDS", "items": [
+    {"word": "Economic", "meaning": "related to the economy", "example": "The country faces *economic* problems."},
+    {"word": "Economical", "meaning": "saving money, not wasteful", "example": "Small cars are more *economical*."},
+    {"word": "Economics", "meaning": "the study of money and trade", "example": "She studies *economics* at university."}]},
+  {"type": "list", "title": "Instead of 'very'", "tag": "SAY", "rows": [
+    ["very big", "enormous"], ["very small", "tiny"], ["very tired", "exhausted"], ["very happy", "delighted"],
+    ["very important", "crucial"], ["very difficult", "challenging"], ["very old", "ancient"], ["very clear", "obvious"],
+    ["very bad", "terrible"], ["very good", "excellent"], ["very fast", "rapid"], ["very sure", "certain"]]},
+  {"type": "glossary", "left": "INFORMAL", "right": "FORMAL", "rows": [
+    ["get", "obtain"], ["buy", "purchase"], ["help", "assist"], ["need", "require"], ["show", "demonstrate"], ["start", "commence"],
+    ["enough", "sufficient"], ["ask", "enquire"], ["fix", "repair"], ["think about", "consider"], ["find out", "discover"], ["go up", "increase"]]}
+ ]}

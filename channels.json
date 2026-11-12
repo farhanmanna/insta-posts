@@ -31,12 +31,6 @@
    "content": "Same format as learnenglishsentences, but different sentences and themes. Never reuse a sentence used on any channel."
   },
   {
-   "handle": "tip4ielts",
-   "brandId": "8064830",
-   "active": false,
-   "content": "Not set up yet - waiting for the user's format."
-  },
-  {
    "handle": "phrasalidiomatic",
    "brandId": "8065608",
    "active": true,
@@ -44,6 +38,15 @@
    "format": "notebook-mixed",
    "renderer": "tools/make_notebook.py",
    "content": "ENGLISH ONLY - no Hindi anywhere (slides or caption). Handwritten notebook-page style, 5 pages per post. Every post must be a RANDOM MIX of page types, never the same structure every time: phrasal verbs, idioms, and 'X vs Y' confusing-word/grammar comparisons (e.g. May vs Might, Say vs Tell, Since vs For). Do not repeat any title already used (see used_sentences.json entries for this channel). Word/idiom pages: {title, meaning, synonym, examples[2], tip[1-2]}. Comparison pages: {type:'compare', title:'A vs B', intro, left:{label, examples[2], note}, right:{label, examples[2], note}, tip[1-2]}. In tip lines '->' draws an arrow. Keep meanings short (under ~12 words), examples under ~8 words, comparison-column examples under ~5 words. Examples must be natural, correct English. See posts/phrasalidiomatic/sample-mix/content.json for the exact JSON. ALREADY POSTED on 2026-11-13 (never reuse these titles): Break the ice, Say vs Tell, Run out of, Since vs For, Once in a blue moon. LAYOUTS (use a random mix; vary them across pages and posts): word/idiom page (default type). Comparison pages {type:'compare', layout: one of 'divider' | 'circles' | 'steps' | 'curve', title:'A vs B', intro (optional, short), left:{label, examples[2], note}, right:{...}, tip[...]} - 'steps' suits a weaker->stronger or casual->formal pair (left = lower step), 'curve' and 'circles' suit any pair. Three-way pages {type:'three', title:'A / B / C', intro, columns:[{label, examples[2], note} x3], tip[...]} for sets like In/On/At or This/That/These - examples must be very short (2-4 words). Tip box: optional tip_style 'box' (default) or 'cloud'; optional tip_title 'Tip:' or 'Remember:'. In tip lines '->' draws an arrow, a trailing ' [check]' draws a green tick, ' [star]' draws a green star. Wrap the key word in examples with *asterisks* to underline it in red (e.g. 'Can I *borrow* your pen?'). See posts/phrasalidiomatic/sample-layouts/content.json and sample-mix/content.json for exact JSON. ALSO ALREADY USED as samples (do not post): Give up, Give in, Give away, Give back, Give out, In / On / At (place), Borrow vs Lend, Can I vs May I, Lose vs Loose, Lie vs Lay - except you MAY reuse these sample pages' titles only after 2026-12-31."
+  },
+  {
+   "handle": "tip4ielts",
+   "brandId": "8064830",
+   "active": true,
+   "folder_style": "posts/tip4ielts/DATE-noon and posts/tip4ielts/DATE-evening",
+   "format": "studynote-ielts",
+   "renderer": "tools/make_studynote.py",
+   "content": "ENGLISH ONLY - no Hindi anywhere. IELTS preparation content in a 'study notes on a desk' style, 5 pages per post. Every post is a RANDOM MIX of page types and topics; use at least 3 different page types per post. Topics: IELTS vocabulary upgrades (band 7-9 words), confusing words (affect/effect, economic/economical), linking words for Writing Task 2, formal vs informal words for writing, collocations (make/do/take), Writing Task 1 trend language (rise sharply, fall gradually), speaking-part phrases (giving opinions, buying time, agreeing/disagreeing), common grammar mistakes, prepositions, idiomatic phrases suitable for Speaking. Page types and JSON (see tools/make_studynote.py docstring and posts/tip4ielts/sample/content.json): 'sections' (2 headings, each with 2 short bullets and 1-2 examples), 'pens' (3 headings, each with 2 short bullets and 1 example), 'boxes' (title + 3 words, each with a short meaning and 1 example), 'list' (title + tag + 10-12 rows of [left, right]), 'glossary' (left/right headers + 10-12 rows). Bullets under ~8 words, examples under ~10 words, list/glossary cells 1-3 words. Wrap key words in *asterisks* to underline them. Everything must be accurate, natural English suitable for IELTS learners. Never reuse a page heading/title or list already logged for this channel in used_sentences.json. ALREADY USED as samples (do not post before 2027): Affect/Effect, However/Although/Despite, Economic/Economical/Economics, Instead of 'very', Informal vs Formal (get/obtain list)."
   }
  ]
 }
