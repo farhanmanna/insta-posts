@@ -125,7 +125,7 @@ def main():
         offset += frames[k - 1][1] - FADE
         chains.append(f"[{last}][v{k}]xfade=transition={trans[(k - 1) % len(trans)]}:duration={FADE}:offset={offset:.2f}[x{k}]")
         last = f"x{k}"
-    args += ["-filter_complex", ";".join(chains), "-map", f"[{last}]", "-r", str(fps), "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-pix_fmt", "yuv420p", "-movflags", "+faststart", out]
+    args += ["-filter_complex", ";".join(chains), "-map", f"[{last}]", "-r", str(fps), "-c:v", "libx264", "-preset", "veryfast", "-crf", "26", "-pix_fmt", "yuv420p", "-movflags", "+faststart", out]
     subprocess.run(args, check=True)
     print(out)
 
