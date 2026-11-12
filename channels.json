@@ -1,0 +1,17 @@
+{
+ "slots": [{"name": "noon", "time": "13:00"}, {"name": "evening", "time": "19:30"}],
+ "channels": [
+  {"handle": "learnenglishsentences", "brandId": "434579", "active": true,
+   "folder_style": "legacy (posts/DATE for evening, posts/DATE-noon for noon)",
+   "website": "www.englishsentences.in", "header": "Daily use English Sentences",
+   "format": "hinglish-sentences",
+   "content": "Daily use Hinglish to English sentences grouped by an everyday theme."},
+  {"handle": "english_speaking44", "brandId": "8064753", "active": true,
+   "folder_style": "posts/english_speaking44/DATE-noon and posts/english_speaking44/DATE-evening",
+   "website": "", "header": "Daily use English Sentences",
+   "format": "hinglish-sentences",
+   "content": "Same format as learnenglishsentences, but different sentences and themes. Never reuse a sentence used on any channel."},
+  {"handle": "tip4ielts", "brandId": "8064830", "active": false, "content": "Not set up yet - waiting for the user's format."},
+  {"handle": "phrasalidiomatics", "brandId": "8064838", "active": false, "content": "Not set up yet - Instagram not connected and format not decided."}
+ ]
+}

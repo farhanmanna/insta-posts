@@ -206,6 +206,19 @@
     "My card has been blocked.",
     "The queue is very long today."
    ]
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-13",
+   "slot": "evening",
+   "theme": "At a Restaurant",
+   "english": [
+    "We need a table for two.",
+    "Could we see the menu, please?",
+    "Please make it less spicy.",
+    "Could we have the bill, please?",
+    "Please pack the leftovers."
+   ]
   }
  ]
 }
