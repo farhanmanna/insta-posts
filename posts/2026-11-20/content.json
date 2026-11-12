@@ -1,0 +1,25 @@
+{
+ "theme": "At the doctor",
+ "slides": [
+  {
+   "hindi": "Mujhe do din se bukhaar hai",
+   "english": "I've had a fever for two days."
+  },
+  {
+   "hindi": "Mere sar mein dard ho raha hai",
+   "english": "I have a headache."
+  },
+  {
+   "hindi": "Yeh dawai din mein do baar lena",
+   "english": "Take this medicine twice a day."
+  },
+  {
+   "hindi": "Mujhe raat bhar neend nahi aayi",
+   "english": "I couldn't sleep all night."
+  },
+  {
+   "hindi": "Mera gala kharab hai",
+   "english": "I have a sore throat."
+  }
+ ]
+}

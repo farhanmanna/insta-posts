@@ -1,0 +1,25 @@
+{
+ "theme": "Food & eating",
+ "slides": [
+  {
+   "hindi": "Mujhe zor ki bhookh lagi hai",
+   "english": "I'm really hungry."
+  },
+  {
+   "hindi": "Khana bahut swadisht bana hai",
+   "english": "The food is delicious."
+  },
+  {
+   "hindi": "Mera pet bhar gaya",
+   "english": "I'm full."
+  },
+  {
+   "hindi": "Isme thoda namak kam hai",
+   "english": "This needs a little more salt."
+  },
+  {
+   "hindi": "Chalo bahar khana khane chalte hain",
+   "english": "Let's eat out."
+  }
+ ]
+}

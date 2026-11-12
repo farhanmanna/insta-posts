@@ -1,0 +1,25 @@
+{
+ "theme": "Phone calls",
+ "slides": [
+  {
+   "hindi": "Main tumhe thodi der mein call karta hoon",
+   "english": "I'll call you back in a bit."
+  },
+  {
+   "hindi": "Awaaz saaf nahi aa rahi",
+   "english": "I can't hear you clearly."
+  },
+  {
+   "hindi": "Mera phone switch off ho gaya tha",
+   "english": "My phone was switched off."
+  },
+  {
+   "hindi": "Usne mera call nahi uthaya",
+   "english": "He didn't pick up my call."
+  },
+  {
+   "hindi": "Network bahut kharab hai yahan",
+   "english": "The network is really bad here."
+  }
+ ]
+}

@@ -10,6 +10,83 @@
     "I'm proud of you.",
     "I'm worried about this."
    ]
+  },
+  {
+   "date": "2026-11-14",
+   "theme": "At the office",
+   "english": [
+    "I'll have to stay late today.",
+    "What time will the meeting start?",
+    "I'll be on leave tomorrow.",
+    "This work has to be finished today.",
+    "The boss is angry right now."
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "theme": "Shopping",
+   "english": [
+    "How much does this cost?",
+    "Please give me a little discount.",
+    "Do you have this in a bigger size?",
+    "I'll pay by card.",
+    "I'm just looking."
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "theme": "Food & eating",
+   "english": [
+    "I'm really hungry.",
+    "The food is delicious.",
+    "I'm full.",
+    "This needs a little more salt.",
+    "Let's eat out."
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "theme": "Phone calls",
+   "english": [
+    "I'll call you back in a bit.",
+    "I can't hear you clearly.",
+    "My phone was switched off.",
+    "He didn't pick up my call.",
+    "The network is really bad here."
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "theme": "Saying sorry",
+   "english": [
+    "Please forgive me.",
+    "I'm sorry for the trouble I caused.",
+    "I didn't mean it that way.",
+    "It won't happen again.",
+    "Sorry for being late."
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "theme": "Morning routine",
+   "english": [
+    "I wake up at six every day.",
+    "My shower took too long.",
+    "I left without having breakfast.",
+    "My alarm didn't go off.",
+    "Hurry up, we're getting late."
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "theme": "At the doctor",
+   "english": [
+    "I've had a fever for two days.",
+    "I have a headache.",
+    "Take this medicine twice a day.",
+    "I couldn't sleep all night.",
+    "I have a sore throat."
+   ]
   }
  ]
 }

@@ -1,0 +1,25 @@
+{
+ "theme": "Saying sorry",
+ "slides": [
+  {
+   "hindi": "Mujhe maaf kar do",
+   "english": "Please forgive me."
+  },
+  {
+   "hindi": "Meri wajah se tumhe takleef hui",
+   "english": "I'm sorry for the trouble I caused."
+  },
+  {
+   "hindi": "Mera woh matlab nahi tha",
+   "english": "I didn't mean it that way."
+  },
+  {
+   "hindi": "Aage se aisa nahi hoga",
+   "english": "It won't happen again."
+  },
+  {
+   "hindi": "Der se aane ke liye sorry",
+   "english": "Sorry for being late."
+  }
+ ]
+}

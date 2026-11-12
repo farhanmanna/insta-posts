@@ -1,0 +1,25 @@
+{
+ "theme": "Shopping",
+ "slides": [
+  {
+   "hindi": "Iska daam kitna hai?",
+   "english": "How much does this cost?"
+  },
+  {
+   "hindi": "Thoda kam kar dijiye na",
+   "english": "Please give me a little discount."
+  },
+  {
+   "hindi": "Kya iska bada size milega?",
+   "english": "Do you have this in a bigger size?"
+  },
+  {
+   "hindi": "Main card se payment karunga",
+   "english": "I'll pay by card."
+  },
+  {
+   "hindi": "Main bas dekh raha hoon",
+   "english": "I'm just looking."
+  }
+ ]
+}
