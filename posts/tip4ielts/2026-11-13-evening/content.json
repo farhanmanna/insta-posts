@@ -1,0 +1,24 @@
+{"handle": "tip4ielts", "theme": "Food and diet topic",
+ "pages": [
+  {"type": "sections", "sections": [
+    {"heading": "FEWER", "bullets": ["Used with *countable* nouns.", "Things you can count: meals, calories."],
+     "examples": ["People eat *fewer* home-cooked meals.", "Choose snacks with *fewer* calories."]},
+    {"heading": "LESS", "bullets": ["Used with *uncountable* nouns.", "Things you cannot count: sugar, time."],
+     "examples": ["We should eat *less* sugar.", "Families spend *less* time cooking."]}]},
+  {"type": "list", "title": "Food words", "tag": "IELTS", "rows": [
+    ["nutritious", "good for your body"], ["processed food", "factory-made food"], ["balanced diet", "the right mix of foods"],
+    ["malnutrition", "lack of proper food"], ["obesity", "being very overweight"], ["portion", "amount served"],
+    ["additive", "chemical added to food"], ["organic", "grown without chemicals"], ["staple food", "main daily food"], ["intake", "amount you consume"]]},
+  {"type": "boxes", "title": "CONFUSED WORDS", "items": [
+    {"word": "Desert", "meaning": "a very dry, sandy area of land", "example": "The Sahara is the largest hot *desert*."},
+    {"word": "Dessert", "meaning": "the sweet course after a meal", "example": "We had ice cream for *dessert*."},
+    {"word": "Deserted", "meaning": "empty, with no people", "example": "The streets were *deserted* at night."}]},
+  {"type": "pens", "sections": [
+    {"heading": "MOREOVER", "bullets": ["Adds an extra point.", "Formal: good for essays."], "example": "Fast food is cheap. *Moreover*, it is quick."},
+    {"heading": "IN ADDITION", "bullets": ["Adds a similar idea.", "Followed by a comma."], "example": "*In addition*, it saves time."},
+    {"heading": "AS WELL AS", "bullets": ["Joins two nouns or verb-ing.", "Do not start a paragraph with it."], "example": "It is tasty *as well as* healthy."}]},
+  {"type": "glossary", "left": "INFORMAL", "right": "FORMAL", "rows": [
+    ["a lot of", "numerous"], ["kids", "children"], ["cut down on", "reduce"], ["good for you", "beneficial"],
+    ["junk food", "unhealthy food"], ["eat", "consume"], ["put on weight", "gain weight"], ["stop", "cease"],
+    ["go on", "continue"], ["look at", "examine"]]}
+ ]}

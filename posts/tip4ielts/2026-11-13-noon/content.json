@@ -1,0 +1,23 @@
+{"handle": "tip4ielts", "theme": "Collocations, essay order and opinions",
+ "pages": [
+  {"type": "list", "title": "Make or do?", "tag": "USE", "rows": [
+    ["a decision", "make"], ["research", "do"], ["progress", "make"], ["your best", "do"], ["an effort", "make"],
+    ["damage", "do"], ["a mistake", "make"], ["business", "do"], ["a profit", "make"], ["harm", "do"]]},
+  {"type": "sections", "sections": [
+    {"heading": "BETWEEN", "bullets": ["Used for *two* people or things.", "Also for clearly separate items."],
+     "examples": ["The gap *between* rich and poor.", "Choose *between* tea and coffee."]},
+    {"heading": "AMONG", "bullets": ["Used for *three or more* in a group.", "No clear separate items."],
+     "examples": ["It is popular *among* teenagers.", "She was *among* the best students."]}]},
+  {"type": "boxes", "title": "CONFUSED WORDS", "items": [
+    {"word": "Advice", "meaning": "noun: a suggestion (uncountable)", "example": "She gave me some useful *advice*."},
+    {"word": "Advise", "meaning": "verb: to give a suggestion", "example": "Doctors *advise* people to exercise."},
+    {"word": "Advisable", "meaning": "adjective: sensible, wise", "example": "It is *advisable* to book early."}]},
+  {"type": "pens", "sections": [
+    {"heading": "FIRSTLY", "bullets": ["Introduces your first point.", "Use it at the start of a paragraph."], "example": "*Firstly*, cities offer more jobs."},
+    {"heading": "FURTHERMORE", "bullets": ["Adds a stronger point.", "Followed by a comma."], "example": "*Furthermore*, public transport is better."},
+    {"heading": "FINALLY", "bullets": ["Introduces your last point.", "Not the same as 'in conclusion'."], "example": "*Finally*, cities have more hospitals."}]},
+  {"type": "list", "title": "Instead of 'I think'", "tag": "SAY", "rows": [
+    ["I think", "I believe"], ["people think", "it is widely held"], ["experts think", "experts argue"],
+    ["I don't think", "I doubt"], ["I really think", "I strongly believe"], ["think about", "consider"],
+    ["think again", "reconsider"], ["think of an idea", "come up with"], ["I think so", "I would say so"], ["most think", "the majority feel"]]}
+ ]}

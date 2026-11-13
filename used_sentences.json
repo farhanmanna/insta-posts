@@ -882,6 +882,32 @@
     "Lead / Led",
     "Crime / Criminal"
    ]
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-13",
+   "slot": "noon",
+   "theme": "Collocations, essay order and opinions",
+   "english": [
+    "Make or do?",
+    "BETWEEN / AMONG",
+    "Advice / Advise / Advisable",
+    "FIRSTLY / FURTHERMORE / FINALLY",
+    "Instead of 'I think'"
+   ]
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-13",
+   "slot": "evening",
+   "theme": "Food and diet topic",
+   "english": [
+    "FEWER / LESS",
+    "Food words",
+    "Desert / Dessert / Deserted",
+    "MOREOVER / IN ADDITION / AS WELL AS",
+    "INFORMAL / FORMAL (a lot of)"
+   ]
   }
  ]
 }
