@@ -1,6 +1,7 @@
 """Render a carousel in the @learnenglishsentences style.
 Usage: python3 make_carousel.py posts.json outdir
-posts.json: {"slides": [{"hindi": "...", "english": "..."}, ...]}
+posts.json: {"slides": [{"hindi": "...", "english": "..."}, ...],
+             "question": {"hindi": "...", "prompt": "How do you say this in English?"}}   # optional last slide
 """
 import sys, json, os, random
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
@@ -37,7 +38,7 @@ def centered(d, lines, f, size, cy, fill):
         d.text((W // 2 - d.textlength(ln, font=f) // 2, y), ln, font=f, fill=fill)
         y += lh
 
-def slide(hindi, english, idx, total, out, seed, handle="learnenglishsentences", website="www.englishsentences.in", header="Daily use English Sentences"):
+def slide(hindi, english, idx, total, out, seed, handle="learnenglishsentences", website="www.englishsentences.in", header="Daily use English Sentences", question=False):
     img = Image.new("RGB", (W, H), CREAM)
     d = ImageDraw.Draw(img)
     # torn-paper edge
@@ -53,12 +54,21 @@ def slide(hindi, english, idx, total, out, seed, handle="learnenglishsentences",
     d.polygon(pts, fill=TEAL)
 
     d.text((24, 14), "website: " + website if website else "", font=font(700, 34), fill=WHITE)
-    s = header
+    s = "YOUR TURN!" if question else header
     d.text((W // 2 - d.textlength(s, font=font(700, 44)) // 2, 92), s, font=font(700, 44), fill=WHITE)
     f, ls, sz = fit(d, hindi, 800, 88, W - 120, 3)
     centered(d, ls, f, sz, 345, WHITE)
-    f, ls, sz = fit(d, english, 800, 84, W - 140, 3)
-    centered(d, ls, f, sz, 800, TEAL)
+    if question:
+        f, ls, sz = fit(d, english, 800, 72, W - 160, 2)
+        centered(d, ls, f, sz, 735, TEAL)
+        c = "Comment your answer below"
+        fc = font(700, 46)
+        tw = d.textlength(c, font=fc)
+        d.rounded_rectangle((W // 2 - tw // 2 - 34, 855, W // 2 + tw // 2 + 34, 935), 40, fill=TEAL)
+        d.text((W // 2 - tw // 2, 862), c, font=fc, fill=WHITE)
+    else:
+        f, ls, sz = fit(d, english, 800, 84, W - 140, 3)
+        centered(d, ls, f, sz, 800, TEAL)
     h = "@" + handle
     d.text((W // 2 - d.textlength(h, font=font(700, 50)) // 2, H - 92), h, font=font(700, 50), fill=TEAL)
     if total > 1:
@@ -69,8 +79,12 @@ def slide(hindi, english, idx, total, out, seed, handle="learnenglishsentences",
 if __name__ == "__main__":
     data = json.load(open(sys.argv[1])); out = sys.argv[2]
     os.makedirs(out, exist_ok=True)
-    n = len(data["slides"])
-    for i, s in enumerate(data["slides"], 1):
-        slide(s["hindi"], s["english"], i, n, os.path.join(out, f"slide{i}.jpg"), seed=i * 7 + len(s["english"]),
-              handle=data.get("handle", "learnenglishsentences"), website=data.get("website", "www.englishsentences.in"),
+    q = data.get("question")
+    n = len(data["slides"]) + (1 if q else 0)
+    kw = dict(handle=data.get("handle", "learnenglishsentences"), website=data.get("website", "www.englishsentences.in"),
               header=data.get("header", "Daily use English Sentences"))
+    for i, s in enumerate(data["slides"], 1):
+        slide(s["hindi"], s["english"], i, n, os.path.join(out, f"slide{i}.jpg"), seed=i * 7 + len(s["english"]), **kw)
+    if q:
+        slide(q["hindi"], q.get("prompt", "How do you say this in English?"), n, n, os.path.join(out, f"slide{n}.jpg"),
+              seed=n * 7 + len(q["hindi"]), question=True, **kw)

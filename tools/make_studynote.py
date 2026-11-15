@@ -8,6 +8,8 @@ Page types (key words in *asterisks* get a coloured underline):
   {"type": "boxes", "title": "CONFUSED WORDS", "items": [{"word": "...", "meaning": "...", "example": "..."}]}  # 2-3 items
   {"type": "list", "title": "INSTEAD OF 'VERY'", "tag": "SAY", "rows": [["very tired", "exhausted"], ...]}       # up to 12 rows
   {"type": "glossary", "left": "INFORMAL", "right": "FORMAL", "rows": [["get", "obtain"], ...]}                  # up to 12 rows
+  {"type": "question", "title": "YOUR TURN!", "question": "...", "options": ["a) ...", "b) ..."],
+   "cta": "Write your answer in the comments!"}                                                           # use as LAST page
 """
 import sys, json, os, math, random
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
@@ -315,6 +317,36 @@ def L_glossary(d, p, s, rnd):
     return y + step * len(rows)
 
 # ---------------- page ----------------
+def L_question(d, p, s, rnd):
+    y = 70 * s
+    ci = rnd.randrange(6)
+    y = heading_rays(d, PW / 2, y, p.get("title", "YOUR TURN!"), AM7(130 * s), ci, rnd) + 40 * s
+    qf = SC(46 * s)
+    for r in wrap(d, p["question"], qf, PW - 2 * M - 20):
+        tw = d.textlength(plain(r), font=qf)
+        rich(d, (PW - tw) / 2, y, r, qf, INK, DEEP[ci])
+        y += qf.size * 1.35
+    y += 40 * s
+    of = SC(40 * s)
+    for i, opt in enumerate(p.get("options", [])):
+        c = (ci + 1 + i) % 6
+        rows = wrap(d, opt, of, PW - 2 * M - 80)
+        h = len(rows) * of.size * 1.3
+        highlight(d, (M + 10, y - 8, PW - M - 10, y + h + 6), mix(PASTELS[c], 0.45), rnd)
+        for r in rows:
+            rich(d, M + 40, y, r, of, INK, DEEP[c])
+            y += of.size * 1.3
+        y += 34 * s
+    y += 30 * s
+    cf = AM7(76 * s)
+    cta = p.get("cta", "Write your answer in the comments!")
+    for r in wrap(d, cta, cf, PW - 2 * M - 60):
+        tw = d.textlength(r, font=cf)
+        zigzag_blob(d, (PW / 2 - tw / 2 - 30, y - 6, PW / 2 + tw / 2 + 30, y + cf.size + 10), mix(PASTELS[(ci + 3) % 6], 0.8))
+        d.text((PW / 2 - tw / 2, y), r, font=cf, fill=INK)
+        y += cf.size * 1.3
+    return y
+
 def render(p, idx, total, handle, out, seed):
     rnd = random.Random(seed)
     bg = wood(rnd).convert("RGBA")
@@ -330,6 +362,7 @@ def render(p, idx, total, handle, out, seed):
         elif t == "boxes": end = L_boxes(d, p, s, r2)
         elif t == "list": end = L_list(d, p, s, r2)
         elif t == "glossary": end = L_glossary(d, p, s, r2)
+        elif t == "question": end = L_question(d, p, s, r2)
         else: raise SystemExit(f"unknown page type {t}")
         if end <= PH - 70: break
         s *= 0.93

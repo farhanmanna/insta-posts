@@ -9,6 +9,10 @@ content.json:
             "examples": ["Never give up on your dreams.", "He gave up smoking last year."],
             "tip": ["Give up -> quit", "Don't give up -> keep going"]}]}
 In "tip" lines, "->" is drawn as a hand-drawn arrow.
+Question page (use as the LAST page):
+  {"type": "question", "title": "Your turn!", "question": "Which one is correct?",
+   "options": ["a) I *borrowed* him my pen.", "b) I *lent* him my pen."],
+   "cta": "Write your answer in the comments!"}
 """
 import sys, json, os, math, random
 from PIL import Image, ImageDraw, ImageFont
@@ -208,10 +212,26 @@ def page(p, idx, total, handle, out, seed):
         ln = compare_body(img, d, p, ln, rnd)
     elif t == "three":
         ln = three_body(d, p, ln, rnd)
+    elif t == "question":
+        ln = question_body(d, p, ln, rnd)
+        p = dict(p, tip=p.get("tip") or [p.get("cta", "Write your answer in the comments!")],
+                 tip_title=p.get("tip_title", "Comment below:"), tip_style=p.get("tip_style", "box"))
     else:
         ln = word_body(d, p, ln, rnd)
     tip_and_footer(img, d, p, ln, idx, total, handle, rnd)
     img.save(out, quality=92)
+
+def question_body(d, p, ln, rnd):
+    bf = K4(52)
+    circled_label(d, LEFT + 110, ln, "Question", rnd, 46)
+    doodle_star(d, LEFT + 290, TOP + (ln - 1) * LH + 10, rnd)
+    ln += 1
+    ln = text_block(d, LEFT, ln, p["question"], K7(52), BLUE, RIGHT - LEFT - 10, rnd, RED)
+    ln += 1
+    for opt in p.get("options", []):
+        arrow(d, LEFT - 30, TOP + ln * LH - 28, LEFT + 40, BLUE, rnd, width=3)
+        ln = text_block(d, LEFT + 60, ln, opt, bf, INK, RIGHT - LEFT - 80, rnd, RED)
+    return ln
 
 def word_body(d, p, ln, rnd):
     bf = K4(48)

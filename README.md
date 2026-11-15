@@ -12,3 +12,10 @@ Images for the automated daily Instagram carousel on @learnenglishsentences (sch
 {"theme": "Feelings & emotions",
  "slides": [{"hindi": "Mujhe tum par garv hai", "english": "I'm proud of you."}]}
 ```
+
+## Question slide (from 15 Nov 2026)
+Every new carousel ends with a 6th "Your turn!" question slide (see `question_slide` in `channels.json`).
+- `make_carousel.py`: add `"question": {"hindi": "...", "prompt": "How do you say this in English?"}`
+- `make_notebook.py` / `make_studynote.py`: append a page `{"type": "question", "title": "...", "question": "...", "options": [...], "cta": "..."}`
+
+Reels are switched off (see `reels` in `channels.json`).

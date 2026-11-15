@@ -88,5 +88,13 @@
     "artist": "Giulio Cercato"
    }
   ]
+ },
+ "question_slide": {
+  "enabled": true,
+  "note": "Every new carousel (noon and evening, all channels) ends with an extra 6th slide that asks followers a question. hinglish-sentences channels (learnenglishsentences, english_speaking44): add \"question\": {\"hindi\": \"<a new short everyday Hinglish sentence, not one of the 5 on the slides>\", \"prompt\": \"How do you say this in English?\"} to content.json; make_carousel.py renders it as the last slide. phrasalidiomatic: append a page {\"type\": \"question\", \"title\": \"Your turn!\", \"question\": \"...\", \"options\": [\"a) ...\", \"b) ...\"], \"cta\": \"Write a or b in the comments!\"} (or a 'fill the gap' / 'use it in a sentence' question about that post's expressions, no options needed). tip4ielts: append {\"type\": \"question\", \"title\": \"YOUR TURN!\", \"question\": \"...\", \"options\": [...], \"cta\": \"...\"} with an IELTS-style question about that post's content (e.g. which sentence gets a higher band, fill the gap, paraphrase this). Questions must be engaging, accurate, and ENGLISH ONLY for phrasalidiomatic and tip4ielts. Schedule all 6 slides (slide1.jpg..slide6.jpg) and end the caption question line with an invitation to answer slide 6. Existing 5-slide posts scheduled before 2026-11-15 stay as they are."
+ },
+ "reels": {
+  "enabled": false,
+  "note": "Reels are switched off from 2026-11-15 (owner's request): do NOT render or schedule new Reels; ignore the 17:00 slot. Reels already scheduled up to 2026-11-21 stay as they are."
  }
 }
