@@ -1,0 +1,185 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Weather and climate",
+ "pages": [
+  {
+   "type": "boxes",
+   "title": "CLIMATE WORDS",
+   "items": [
+    {
+     "word": "drought",
+     "meaning": "a long dry period",
+     "example": "A *drought* ruined the crops."
+    },
+    {
+     "word": "flood",
+     "meaning": "water covering land",
+     "example": "Heavy rain caused a *flood*."
+    },
+    {
+     "word": "heatwave",
+     "meaning": "a very hot period",
+     "example": "A *heatwave* hit the city."
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "WEATHER LANGUAGE",
+   "tag": "=",
+   "rows": [
+    [
+     "drizzle",
+     "light rain"
+    ],
+    [
+     "downpour",
+     "heavy rain"
+    ],
+    [
+     "humid",
+     "damp and hot"
+    ],
+    [
+     "chilly",
+     "fairly cold"
+    ],
+    [
+     "scorching",
+     "extremely hot"
+    ],
+    [
+     "breezy",
+     "slightly windy"
+    ],
+    [
+     "overcast",
+     "cloudy"
+    ],
+    [
+     "foggy",
+     "misty"
+    ],
+    [
+     "torrential",
+     "very heavy"
+    ],
+    [
+     "mild",
+     "not extreme"
+    ]
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "GLOBAL WARMING",
+     "bullets": [
+      "Earth's rising temperature.",
+      "One part of the problem."
+     ],
+     "examples": [
+      "*Global warming* melts glaciers."
+     ]
+    },
+    {
+     "heading": "CLIMATE CHANGE",
+     "bullets": [
+      "Long-term shifts in weather.",
+      "The wider issue."
+     ],
+     "examples": [
+      "*Climate change* affects farming."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "LIKE",
+     "bullets": [
+      "Say your favourite weather.",
+      "Give one reason."
+     ],
+     "example": "I love *winter* because it's calm."
+    },
+    {
+     "heading": "DISLIKE",
+     "bullets": [
+      "Mention one you avoid.",
+      "Explain briefly."
+     ],
+     "example": "I *can't stand* humid days."
+    },
+    {
+     "heading": "EFFECT",
+     "bullets": [
+      "Link weather to life.",
+      "Add an example."
+     ],
+     "example": "Rain *affects* my mood."
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "ADJECTIVE",
+   "right": "STRONGER",
+   "rows": [
+    [
+     "hot",
+     "scorching"
+    ],
+    [
+     "cold",
+     "freezing"
+    ],
+    [
+     "wet",
+     "soaking"
+    ],
+    [
+     "windy",
+     "gusty"
+    ],
+    [
+     "sunny",
+     "blazing"
+    ],
+    [
+     "bad",
+     "severe"
+    ],
+    [
+     "big",
+     "massive"
+    ],
+    [
+     "serious",
+     "grave"
+    ],
+    [
+     "sudden",
+     "abrupt"
+    ],
+    [
+     "dangerous",
+     "hazardous"
+    ]
+   ]
+  },
+  {
+   "type": "question",
+   "title": "YOUR TURN!",
+   "question": "Which word means 'extremely hot'?",
+   "options": [
+    "a) chilly",
+    "b) scorching"
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

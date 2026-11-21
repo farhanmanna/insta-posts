@@ -1,0 +1,32 @@
+{
+ "handle": "learnenglishsentences",
+ "website": "www.englishsentences.in",
+ "header": "Daily use English Sentences",
+ "theme": "Telling Time",
+ "slides": [
+  {
+   "hindi": "Abhi kitne baje hain",
+   "english": "What time is it now?"
+  },
+  {
+   "hindi": "Meeting teen baje hai",
+   "english": "The meeting is at three o'clock."
+  },
+  {
+   "hindi": "Mujhe der ho rahi hai",
+   "english": "I'm getting late."
+  },
+  {
+   "hindi": "Main dus minute mein pahunchta hoon",
+   "english": "I'll reach in ten minutes."
+  },
+  {
+   "hindi": "Samay par aa jana",
+   "english": "Be on time."
+  }
+ ],
+ "question": {
+  "hindi": "Meri ghadi band ho gayi",
+  "prompt": "How do you say this in English?"
+ }
+}

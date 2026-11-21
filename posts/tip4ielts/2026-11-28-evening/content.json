@@ -1,0 +1,185 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Animals and nature",
+ "pages": [
+  {
+   "type": "list",
+   "title": "NATURE WORDS",
+   "tag": "=",
+   "rows": [
+    [
+     "wildlife",
+     "wild animals"
+    ],
+    [
+     "habitat",
+     "natural home"
+    ],
+    [
+     "endangered",
+     "at risk"
+    ],
+    [
+     "extinct",
+     "no longer exists"
+    ],
+    [
+     "species",
+     "type of animal"
+    ],
+    [
+     "conserve",
+     "protect"
+    ],
+    [
+     "poaching",
+     "illegal hunting"
+    ],
+    [
+     "biodiversity",
+     "variety of life"
+    ],
+    [
+     "ecosystem",
+     "living community"
+    ],
+    [
+     "reserve",
+     "protected area"
+    ]
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "ENDANGERED",
+     "bullets": [
+      "Still alive but at risk.",
+      "Very few left."
+     ],
+     "examples": [
+      "The tiger is *endangered*."
+     ]
+    },
+    {
+     "heading": "EXTINCT",
+     "bullets": [
+      "No longer exists.",
+      "Gone forever."
+     ],
+     "examples": [
+      "The dodo is *extinct*."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "ANIMAL WORDS",
+   "items": [
+    {
+     "word": "captivity",
+     "meaning": "being kept in a cage",
+     "example": "Animals suffer in *captivity*."
+    },
+    {
+     "word": "predator",
+     "meaning": "an animal that hunts others",
+     "example": "A lion is a top *predator*."
+    },
+    {
+     "word": "migration",
+     "meaning": "seasonal movement",
+     "example": "Bird *migration* starts in autumn."
+    }
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "FOR ZOOS",
+     "bullets": [
+      "Protect rare species.",
+      "Educate visitors."
+     ],
+     "example": "Zoos *safeguard* endangered animals."
+    },
+    {
+     "heading": "AGAINST ZOOS",
+     "bullets": [
+      "Animals lose freedom.",
+      "Poor conditions."
+     ],
+     "example": "Cages *restrict* natural behaviour."
+    },
+    {
+     "heading": "MY VIEW",
+     "bullets": [
+      "Give a balanced opinion.",
+      "Be clear."
+     ],
+     "example": "Well-run zoos are *justified*."
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "SIMPLE",
+   "right": "PRECISE",
+   "rows": [
+    [
+     "lots of animals",
+     "abundant wildlife"
+    ],
+    [
+     "die out",
+     "become extinct"
+    ],
+    [
+     "protect",
+     "safeguard"
+    ],
+    [
+     "hurt",
+     "harm"
+    ],
+    [
+     "home",
+     "habitat"
+    ],
+    [
+     "trees cut down",
+     "deforestation"
+    ],
+    [
+     "people hunt",
+     "poaching"
+    ],
+    [
+     "small number",
+     "limited population"
+    ],
+    [
+     "save",
+     "preserve"
+    ],
+    [
+     "danger",
+     "threat"
+    ]
+   ]
+  },
+  {
+   "type": "question",
+   "title": "YOUR TURN!",
+   "question": "Fill the gap: 'The dodo is ___; no one has seen one for centuries.'",
+   "options": [
+    "a) extinct",
+    "b) endangered"
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

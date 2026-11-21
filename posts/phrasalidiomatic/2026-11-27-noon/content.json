@@ -1,0 +1,111 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Work on, Cry over spilled milk, Whose vs Who's",
+ "pages": [
+  {
+   "title": "Work on",
+   "meaning": "to put effort into improving",
+   "synonym": "improve",
+   "examples": [
+    "I'm *working on* my English.",
+    "She's *working on* a new song."
+   ],
+   "tip": [
+    "work on -> improve"
+   ]
+  },
+  {
+   "title": "Cry over spilled milk",
+   "meaning": "to be upset about what is already done",
+   "synonym": "regret the past",
+   "examples": [
+    "Don't *cry over spilled milk*.",
+    "It's done: no use *crying over spilled milk*."
+   ],
+   "tip": [
+    "Idiom: let it go"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "curve",
+   "title": "Whose vs Who's",
+   "intro": "One shows ownership, one is a short form.",
+   "left": {
+    "label": "Whose",
+    "examples": [
+     "*Whose* bag is this?",
+     "*Whose* turn?"
+    ],
+    "note": "Belongs to who"
+   },
+   "right": {
+    "label": "Who's",
+    "examples": [
+     "*Who's* at the door?",
+     "*Who's* coming?"
+    ],
+    "note": "Who is / who has"
+   },
+   "tip": [
+    "who's -> who is"
+   ]
+  },
+  {
+   "type": "three",
+   "title": "Journey / Trip / Travel",
+   "intro": "Three words, three jobs.",
+   "columns": [
+    {
+     "label": "Journey",
+     "examples": [
+      "a long *journey*",
+      "*journey* home"
+     ],
+     "note": "A to B"
+    },
+    {
+     "label": "Trip",
+     "examples": [
+      "a day *trip*",
+      "a school *trip*"
+     ],
+     "note": "Short visit"
+    },
+    {
+     "label": "Travel",
+     "examples": [
+      "I love to *travel*.",
+      "*travel* abroad"
+     ],
+     "note": "In general"
+    }
+   ],
+   "tip": [
+    "trip -> go and come back"
+   ]
+  },
+  {
+   "title": "Wrap up",
+   "meaning": "to finish; or to dress warmly",
+   "synonym": "conclude",
+   "examples": [
+    "Let's *wrap up* the meeting.",
+    "*Wrap up*, it's cold."
+   ],
+   "tip": [
+    "wrap up -> finish / dress warm"
+   ]
+  },
+  {
+   "type": "question",
+   "title": "Your turn!",
+   "question": "Which one is correct?",
+   "options": [
+    "a) *Whose* knocking at the door?",
+    "b) *Who's* knocking at the door?"
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

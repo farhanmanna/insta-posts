@@ -1,0 +1,32 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Housework",
+ "slides": [
+  {
+   "hindi": "Jhaadu laga do",
+   "english": "Please sweep the floor."
+  },
+  {
+   "hindi": "Bartan kaun dhoyega",
+   "english": "Who will wash the dishes?"
+  },
+  {
+   "hindi": "Kapde sukhne daal do",
+   "english": "Hang the clothes to dry."
+  },
+  {
+   "hindi": "Aaj ghar ki safai karni hai",
+   "english": "We have to clean the house today."
+  },
+  {
+   "hindi": "Kachra bahar phenk aao",
+   "english": "Go throw out the garbage."
+  }
+ ],
+ "question": {
+  "hindi": "Bistar theek kar do",
+  "prompt": "How do you say this in English?"
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Pull over, Used to vs Be used to, Hit the jackpot",
+ "pages": [
+  {
+   "title": "Pull over",
+   "meaning": "to stop at the side of the road",
+   "synonym": "park up",
+   "examples": [
+    "Please *pull over* here.",
+    "The driver *pulled over* to rest."
+   ],
+   "tip": [
+    "pull over -> stop the car"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "curve",
+   "title": "Used to vs Be used to",
+   "intro": "A past habit or a normal now?",
+   "left": {
+    "label": "Used to",
+    "examples": [
+     "I *used to* swim.",
+     "He *used to* smoke."
+    ],
+    "note": "Past habit"
+   },
+   "right": {
+    "label": "Be used to",
+    "examples": [
+     "I'm *used to* noise.",
+     "She's *used to* cold."
+    ],
+    "note": "Feels normal now"
+   },
+   "tip": [
+    "used to + verb",
+    "be used to + -ing"
+   ]
+  },
+  {
+   "title": "Hit the jackpot",
+   "meaning": "to win big or be very lucky",
+   "synonym": "strike gold",
+   "examples": [
+    "He *hit the jackpot* with that job.",
+    "She really *hit the jackpot*."
+   ],
+   "tip": [
+    "Idiom: big luck"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "divider",
+   "title": "Late vs Lately",
+   "intro": "One means 'not on time'.",
+   "left": {
+    "label": "Late",
+    "examples": [
+     "I'm *late*.",
+     "Don't be *late*."
+    ],
+    "note": "After the time"
+   },
+   "right": {
+    "label": "Lately",
+    "examples": [
+     "I'm tired *lately*.",
+     "It's cold *lately*."
+    ],
+    "note": "Recently"
+   },
+   "tip": [
+    "late -> not on time",
+    "lately -> recently"
+   ]
+  },
+  {
+   "title": "Hand in",
+   "meaning": "to give work to a teacher or boss",
+   "synonym": "submit",
+   "examples": [
+    "*Hand in* your essay on Friday.",
+    "I *handed in* my report."
+   ],
+   "tip": [
+    "hand in -> submit"
+   ]
+  },
+  {
+   "type": "question",
+   "title": "Your turn!",
+   "question": "Which one is correct?",
+   "options": [
+    "a) I *used to* waking up late.",
+    "b) I'm *used to* waking up late."
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Take over, Passed vs Past, Under the radar and more",
+ "pages": [
+  {
+   "title": "Take over",
+   "meaning": "to gain control of something",
+   "synonym": "assume control",
+   "examples": [
+    "She *took over* the company.",
+    "Who will *take over* from him?"
+   ],
+   "tip": [
+    "takeover (noun) -> buying a company"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "divider",
+   "title": "Passed vs Past",
+   "intro": "Passed is a verb. Past is not.",
+   "left": {
+    "label": "Passed",
+    "examples": [
+     "She *passed* the test.",
+     "Time *passed*."
+    ],
+    "note": "Verb: went by"
+   },
+   "right": {
+    "label": "Past",
+    "examples": [
+     "In the *past*.",
+     "Walk *past* the shop."
+    ],
+    "note": "Earlier time / beyond"
+   },
+   "tip": [
+    "passed -> verb",
+    "past -> time / place"
+   ]
+  },
+  {
+   "title": "Under the radar",
+   "meaning": "not noticed by many people",
+   "synonym": "unnoticed",
+   "examples": [
+    "The band stayed *under the radar*.",
+    "He flew *under the radar*."
+   ],
+   "tip": [
+    "Idiom: unnoticed"
+   ]
+  },
+  {
+   "title": "Pull yourself together",
+   "meaning": "to calm down and regain control",
+   "synonym": "stay calm",
+   "examples": [
+    "*Pull yourself together* and try again.",
+    "He tried to *pull himself together*."
+   ],
+   "tip": [
+    "Idiom: stay calm"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "steps",
+   "title": "Break vs Brake",
+   "intro": "Same sound, different jobs.",
+   "left": {
+    "label": "Brake",
+    "examples": [
+     "Press the *brake*.",
+     "A *brake* pedal."
+    ],
+    "note": "Stops a vehicle"
+   },
+   "right": {
+    "label": "Break",
+    "examples": [
+     "Take a *break*.",
+     "*Break* the glass."
+    ],
+    "note": "Rest / smash"
+   },
+   "tip": [
+    "brake -> stop a car",
+    "break -> rest / smash"
+   ]
+  },
+  {
+   "type": "question",
+   "title": "Your turn!",
+   "question": "Fill the gap: 'She ___ the exam with top marks.'",
+   "options": [
+    "a) passed",
+    "b) past"
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

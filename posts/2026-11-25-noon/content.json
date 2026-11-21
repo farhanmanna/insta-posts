@@ -1,0 +1,32 @@
+{
+ "handle": "learnenglishsentences",
+ "website": "www.englishsentences.in",
+ "header": "Daily use English Sentences",
+ "theme": "Bus Travel",
+ "slides": [
+  {
+   "hindi": "Agli bus kab aayegi",
+   "english": "When will the next bus come?"
+  },
+  {
+   "hindi": "Yeh bus Delhi jaayegi kya",
+   "english": "Does this bus go to Delhi?"
+  },
+  {
+   "hindi": "Mujhe khidki wali seat chahiye",
+   "english": "I want a window seat."
+  },
+  {
+   "hindi": "Conductor se ticket le lo",
+   "english": "Get a ticket from the conductor."
+  },
+  {
+   "hindi": "Mujhe agle stop par utarna hai",
+   "english": "I have to get off at the next stop."
+  }
+ ],
+ "question": {
+  "hindi": "Yeh bus bahut late hai",
+  "prompt": "How do you say this in English?"
+ }
+}

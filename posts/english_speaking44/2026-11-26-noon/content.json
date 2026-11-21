@@ -1,0 +1,32 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Garden & Plants",
+ "slides": [
+  {
+   "hindi": "Paudhon ko paani de do",
+   "english": "Water the plants."
+  },
+  {
+   "hindi": "Gulaab ka phool khil gaya hai",
+   "english": "The rose has bloomed."
+  },
+  {
+   "hindi": "Hum ek aam ka ped lagayenge",
+   "english": "We will plant a mango tree."
+  },
+  {
+   "hindi": "Bagiche mein bahut machhar hain",
+   "english": "There are many mosquitoes in the garden."
+  },
+  {
+   "hindi": "Yeh paudha dhoop mein rakho",
+   "english": "Keep this plant in the sun."
+  }
+ ],
+ "question": {
+  "hindi": "Mere ghar mein tulsi hai",
+  "prompt": "How do you say this in English?"
+ }
+}

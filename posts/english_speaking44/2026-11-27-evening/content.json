@@ -1,0 +1,32 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Home Repairs",
+ "slides": [
+  {
+   "hindi": "Nal se paani tapak raha hai",
+   "english": "The tap is leaking."
+  },
+  {
+   "hindi": "Bulb fuse ho gaya",
+   "english": "The bulb has fused."
+  },
+  {
+   "hindi": "Plumber ko bulao",
+   "english": "Call the plumber."
+  },
+  {
+   "hindi": "Mujhe deewar par paint karwana hai",
+   "english": "I want to get the wall painted."
+  },
+  {
+   "hindi": "Darwaza theek se band nahi hota",
+   "english": "The door doesn't close properly."
+  }
+ ],
+ "question": {
+  "hindi": "Mujhe ek hathoda chahiye",
+  "prompt": "How do you say this in English?"
+ }
+}

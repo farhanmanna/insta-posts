@@ -1,0 +1,185 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Clothes and fashion",
+ "pages": [
+  {
+   "type": "boxes",
+   "title": "FASHION WORDS",
+   "items": [
+    {
+     "word": "trend",
+     "meaning": "a current popular style",
+     "example": "Sustainable clothing is a growing *trend*."
+    },
+    {
+     "word": "outfit",
+     "meaning": "clothes worn together",
+     "example": "She chose a smart *outfit*."
+    },
+    {
+     "word": "uniform",
+     "meaning": "same clothes for a group",
+     "example": "Students wear a *uniform*."
+    }
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "WEAR",
+     "bullets": [
+      "State: having on.",
+      "Use for habits."
+     ],
+     "examples": [
+      "She *wears* glasses."
+     ]
+    },
+    {
+     "heading": "PUT ON",
+     "bullets": [
+      "Action: starting to wear.",
+      "Use for one moment."
+     ],
+     "examples": [
+      "He *put on* his coat."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "CLOTHES COLLOCATIONS",
+   "tag": "+",
+   "rows": [
+    [
+     "dress",
+     "formally"
+    ],
+    [
+     "follow",
+     "fashion"
+    ],
+    [
+     "set",
+     "a trend"
+    ],
+    [
+     "wear",
+     "a uniform"
+    ],
+    [
+     "fit",
+     "well"
+    ],
+    [
+     "go out of",
+     "fashion"
+    ],
+    [
+     "designer",
+     "brands"
+    ],
+    [
+     "second-hand",
+     "clothes"
+    ],
+    [
+     "casual",
+     "wear"
+    ],
+    [
+     "dress",
+     "code"
+    ]
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "SIMPLE",
+   "right": "BETTER",
+   "rows": [
+    [
+     "nice clothes",
+     "stylish outfits"
+    ],
+    [
+     "old-fashioned",
+     "outdated"
+    ],
+    [
+     "tight",
+     "figure-hugging"
+    ],
+    [
+     "loose",
+     "baggy"
+    ],
+    [
+     "cheap clothes",
+     "budget garments"
+    ],
+    [
+     "expensive",
+     "luxury"
+    ],
+    [
+     "buy a lot",
+     "overconsume"
+    ],
+    [
+     "famous brand",
+     "well-known label"
+    ],
+    [
+     "trendy",
+     "fashionable"
+    ],
+    [
+     "plain",
+     "understated"
+    ]
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "PRO",
+     "bullets": [
+      "Promotes equality.",
+      "Builds belonging."
+     ],
+     "example": "Uniforms *promote* equality."
+    },
+    {
+     "heading": "CON",
+     "bullets": [
+      "Limits self-expression.",
+      "Costs parents money."
+     ],
+     "example": "They *restrict* individuality."
+    },
+    {
+     "heading": "MY STANCE",
+     "bullets": [
+      "State your final view.",
+      "Use 'I would argue'."
+     ],
+     "example": "*I would argue* uniforms help focus."
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "title": "YOUR TURN!",
+   "question": "Which one is correct?",
+   "options": [
+    "a) She *puts on* glasses every day.",
+    "b) She *wears* glasses every day."
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

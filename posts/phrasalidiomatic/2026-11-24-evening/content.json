@@ -1,0 +1,104 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Barking up the wrong tree, Wake up vs Get up, Cheer up",
+ "pages": [
+  {
+   "title": "Bark up the wrong tree",
+   "meaning": "to blame or ask the wrong person",
+   "synonym": "be mistaken",
+   "examples": [
+    "You're *barking up the wrong tree*.",
+    "I think you're *barking up the wrong tree*."
+   ],
+   "tip": [
+    "Idiom: wrong target"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "circles",
+   "title": "Wake up vs Get up",
+   "intro": "Open your eyes, then leave the bed.",
+   "left": {
+    "label": "Wake up",
+    "examples": [
+     "I *woke up* at six.",
+     "*Wake* me *up*."
+    ],
+    "note": "Open your eyes"
+   },
+   "right": {
+    "label": "Get up",
+    "examples": [
+     "I *got up* at seven.",
+     "Time to *get up*!"
+    ],
+    "note": "Leave the bed"
+   },
+   "tip": [
+    "wake up -> eyes open",
+    "get up -> out of bed"
+   ]
+  },
+  {
+   "title": "Cheer up",
+   "meaning": "to become or make happier",
+   "synonym": "brighten",
+   "examples": [
+    "*Cheer up*, it's Friday!",
+    "A gift will *cheer* her *up*."
+   ],
+   "tip": [
+    "cheer up -> be happier"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "divider",
+   "title": "Rent vs Hire",
+   "intro": "Both mean paying to use something.",
+   "left": {
+    "label": "Rent",
+    "examples": [
+     "*Rent* a flat.",
+     "*Rent* a bike."
+    ],
+    "note": "Often long-term"
+   },
+   "right": {
+    "label": "Hire",
+    "examples": [
+     "*Hire* a driver.",
+     "*Hire* a taxi."
+    ],
+    "note": "Short-term, people"
+   },
+   "tip": [
+    "rent -> homes, long-term",
+    "hire -> people, short-term"
+   ]
+  },
+  {
+   "title": "Hang in there",
+   "meaning": "to keep going in a hard time",
+   "synonym": "persevere",
+   "examples": [
+    "*Hang in there*, it gets easier.",
+    "She told me to *hang in there*."
+   ],
+   "tip": [
+    "Idiom: encouragement"
+   ]
+  },
+  {
+   "type": "question",
+   "title": "Your turn!",
+   "question": "Which one is correct? 'You're ___ the wrong tree.'",
+   "options": [
+    "a) barking up",
+    "b) barking at"
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

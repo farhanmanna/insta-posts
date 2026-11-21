@@ -1,0 +1,32 @@
+{
+ "handle": "learnenglishsentences",
+ "website": "www.englishsentences.in",
+ "header": "Daily use English Sentences",
+ "theme": "College Life",
+ "slides": [
+  {
+   "hindi": "Meri kal pehli class hai",
+   "english": "I have my first class tomorrow."
+  },
+  {
+   "hindi": "Assignment kab jama karna hai",
+   "english": "When is the assignment due?"
+  },
+  {
+   "hindi": "Mujhe tumhare notes chahiye",
+   "english": "I need your notes."
+  },
+  {
+   "hindi": "Library mein bahut bheed hai",
+   "english": "The library is very crowded."
+  },
+  {
+   "hindi": "Exam ki taiyari kaisi chal rahi hai",
+   "english": "How is your exam preparation going?"
+  }
+ ],
+ "question": {
+  "hindi": "Main canteen ja raha hoon",
+  "prompt": "How do you say this in English?"
+ }
+}

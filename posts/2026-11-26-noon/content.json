@@ -1,0 +1,32 @@
+{
+ "handle": "learnenglishsentences",
+ "website": "www.englishsentences.in",
+ "header": "Daily use English Sentences",
+ "theme": "Pets",
+ "slides": [
+  {
+   "hindi": "Mera kutta bahut pyara hai",
+   "english": "My dog is very cute."
+  },
+  {
+   "hindi": "Billi saara doodh pi gayi",
+   "english": "The cat drank all the milk."
+  },
+  {
+   "hindi": "Mujhe use roz walk par le jaana padta hai",
+   "english": "I have to take him for a walk daily."
+  },
+  {
+   "hindi": "Kutta zor se bhauk raha hai",
+   "english": "The dog is barking loudly."
+  },
+  {
+   "hindi": "Tumhare paas koi pet hai kya",
+   "english": "Do you have a pet?"
+  }
+ ],
+ "question": {
+  "hindi": "Isko khaana de do",
+  "prompt": "How do you say this in English?"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Excuses",
+ "slides": [
+  {
+   "hindi": "Mera network kharab tha",
+   "english": "My network was down."
+  },
+  {
+   "hindi": "Mujhe bilkul yaad nahi raha",
+   "english": "I completely forgot."
+  },
+  {
+   "hindi": "Main raaste mein traffic mein fas gaya",
+   "english": "I got stuck in traffic."
+  },
+  {
+   "hindi": "Meri alarm subah nahi baji",
+   "english": "My alarm didn't ring this morning."
+  },
+  {
+   "hindi": "Mera phone band ho gaya tha",
+   "english": "My phone had switched off."
+  }
+ ],
+ "question": {
+  "hindi": "Maine galti se delete kar diya",
+  "prompt": "How do you say this in English?"
+ }
+}

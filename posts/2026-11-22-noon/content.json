@@ -1,0 +1,32 @@
+{
+ "handle": "learnenglishsentences",
+ "website": "www.englishsentences.in",
+ "header": "Daily use English Sentences",
+ "theme": "Festivals",
+ "slides": [
+  {
+   "hindi": "Aapko Diwali ki shubhkaamnayein",
+   "english": "Happy Diwali to you."
+  },
+  {
+   "hindi": "Hum ghar ko diyon se sajayenge",
+   "english": "We will decorate the house with lamps."
+  },
+  {
+   "hindi": "Mithai kitni swadisht hai",
+   "english": "How tasty the sweets are!"
+  },
+  {
+   "hindi": "Bachche patakhe phod rahe hain",
+   "english": "The kids are bursting firecrackers."
+  },
+  {
+   "hindi": "Is saal Holi kab hai",
+   "english": "When is Holi this year?"
+  }
+ ],
+ "question": {
+  "hindi": "Aap kal kya pehnoge",
+  "prompt": "How do you say this in English?"
+ }
+}

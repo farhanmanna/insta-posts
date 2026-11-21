@@ -1,0 +1,32 @@
+{
+ "handle": "learnenglishsentences",
+ "website": "www.englishsentences.in",
+ "header": "Daily use English Sentences",
+ "theme": "Traffic",
+ "slides": [
+  {
+   "hindi": "Aaj sadak par bahut jam hai",
+   "english": "There is heavy traffic on the road today."
+  },
+  {
+   "hindi": "Signal laal ho gaya",
+   "english": "The signal turned red."
+  },
+  {
+   "hindi": "Gaadi dheere chalao",
+   "english": "Drive the car slowly."
+  },
+  {
+   "hindi": "Mujhe parking nahi mil rahi",
+   "english": "I can't find parking."
+  },
+  {
+   "hindi": "Helmet pehenna mat bhoolna",
+   "english": "Don't forget to wear a helmet."
+  }
+ ],
+ "question": {
+  "hindi": "Yeh rasta band hai kya",
+  "prompt": "How do you say this in English?"
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Go ahead, Sometime vs Sometimes, Learn the ropes",
+ "pages": [
+  {
+   "title": "Go ahead",
+   "meaning": "to proceed; to give permission",
+   "synonym": "proceed",
+   "examples": [
+    "*Go ahead*, I'm listening.",
+    "He *went ahead* without us."
+   ],
+   "tip": [
+    "Go ahead! -> You may"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "divider",
+   "title": "Sometime vs Sometimes",
+   "intro": "One letter changes everything.",
+   "left": {
+    "label": "Sometime",
+    "examples": [
+     "Call me *sometime*.",
+     "*Sometime* next week."
+    ],
+    "note": "At an unknown time"
+   },
+   "right": {
+    "label": "Sometimes",
+    "examples": [
+     "I *sometimes* walk.",
+     "*Sometimes* it rains."
+    ],
+    "note": "Now and then"
+   },
+   "tip": [
+    "sometime -> one time",
+    "sometimes -> now and then"
+   ]
+  },
+  {
+   "title": "Learn the ropes",
+   "meaning": "to learn the basics of a job",
+   "synonym": "get trained",
+   "examples": [
+    "She's *learning the ropes*.",
+    "It takes a week to *learn the ropes*."
+   ],
+   "tip": [
+    "Idiom: new job basics"
+   ]
+  },
+  {
+   "title": "Blow up",
+   "meaning": "to explode; to inflate; to lose your temper",
+   "synonym": "explode",
+   "examples": [
+    "Don't *blow up* at me.",
+    "We *blew up* balloons."
+   ],
+   "tip": [
+    "blow up -> explode / inflate"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "curve",
+   "title": "Special vs Specially",
+   "intro": "Adjective or adverb?",
+   "left": {
+    "label": "Special",
+    "examples": [
+     "A *special* gift.",
+     "A *special* day."
+    ],
+    "note": "Adjective"
+   },
+   "right": {
+    "label": "Specially",
+    "examples": [
+     "Made *specially* for you.",
+     "*Specially* for her."
+    ],
+    "note": "Adverb: for a purpose"
+   },
+   "tip": [
+    "special -> describes a noun",
+    "specially -> for a purpose"
+   ]
+  },
+  {
+   "type": "question",
+   "title": "Your turn!",
+   "question": "Which one is correct?",
+   "options": [
+    "a) I *sometime* eat out.",
+    "b) I *sometimes* eat out."
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

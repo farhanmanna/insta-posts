@@ -1,0 +1,185 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Water and energy",
+ "pages": [
+  {
+   "type": "list",
+   "title": "ENERGY WORDS",
+   "tag": "=",
+   "rows": [
+    [
+     "renewable",
+     "reusable"
+    ],
+    [
+     "fossil fuels",
+     "coal, oil"
+    ],
+    [
+     "solar power",
+     "sun energy"
+    ],
+    [
+     "emissions",
+     "gases released"
+    ],
+    [
+     "generate",
+     "produce"
+    ],
+    [
+     "consume",
+     "use up"
+    ],
+    [
+     "conserve",
+     "save"
+    ],
+    [
+     "shortage",
+     "lack"
+    ],
+    [
+     "drought",
+     "dry spell"
+    ],
+    [
+     "supply",
+     "provision"
+    ]
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "SOURCE",
+     "bullets": [
+      "Where something comes from.",
+      "A place of origin."
+     ],
+     "examples": [
+      "Coal is a *source* of energy."
+     ]
+    },
+    {
+     "heading": "RESOURCE",
+     "bullets": [
+      "A useful supply.",
+      "Often limited."
+     ],
+     "examples": [
+      "Water is a precious *resource*."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "WATER WORDS",
+   "items": [
+    {
+     "word": "scarcity",
+     "meaning": "a serious shortage",
+     "example": "Water *scarcity* affects millions."
+    },
+    {
+     "word": "irrigation",
+     "meaning": "watering farmland",
+     "example": "*Irrigation* helps farmers in dry areas."
+    },
+    {
+     "word": "contamination",
+     "meaning": "making something dirty",
+     "example": "River *contamination* spreads disease."
+    }
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "GOVERNMENTS",
+     "bullets": [
+      "Invest in solar and wind.",
+      "Offer tax benefits."
+     ],
+     "example": "Governments *should subsidise* renewables."
+    },
+    {
+     "heading": "COMPANIES",
+     "bullets": [
+      "Reduce waste.",
+      "Use efficient machines."
+     ],
+     "example": "Firms *ought to cut* emissions."
+    },
+    {
+     "heading": "INDIVIDUALS",
+     "bullets": [
+      "Switch off unused devices.",
+      "Use public transport."
+     ],
+     "example": "Everyone can *conserve* energy."
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "CAUSE",
+   "right": "EFFECT",
+   "rows": [
+    [
+     "burning coal",
+     "air pollution"
+    ],
+    [
+     "deforestation",
+     "soil erosion"
+    ],
+    [
+     "overuse of water",
+     "shortages"
+    ],
+    [
+     "plastic waste",
+     "ocean damage"
+    ],
+    [
+     "car emissions",
+     "global warming"
+    ],
+    [
+     "industrial waste",
+     "river pollution"
+    ],
+    [
+     "poor planning",
+     "energy crisis"
+    ],
+    [
+     "rising demand",
+     "higher prices"
+    ],
+    [
+     "drought",
+     "crop failure"
+    ],
+    [
+     "melting ice",
+     "rising seas"
+    ]
+   ]
+  },
+  {
+   "type": "question",
+   "title": "YOUR TURN!",
+   "question": "Fill the gap: 'Coal is a major ___ of energy.'",
+   "options": [
+    "a) source",
+    "b) resource"
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

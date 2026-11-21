@@ -1,0 +1,32 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Auto Rickshaw",
+ "slides": [
+  {
+   "hindi": "Station tak kitna loge",
+   "english": "How much to the station?"
+  },
+  {
+   "hindi": "Meter se chalo",
+   "english": "Go by the meter."
+  },
+  {
+   "hindi": "Yahin rok do",
+   "english": "Stop right here."
+  },
+  {
+   "hindi": "Aap galat rasta le rahe ho",
+   "english": "You're taking the wrong route."
+  },
+  {
+   "hindi": "Mere paas khule paise nahi hain",
+   "english": "I don't have change."
+  }
+ ],
+ "question": {
+  "hindi": "Thoda jaldi chalo",
+  "prompt": "How do you say this in English?"
+ }
+}

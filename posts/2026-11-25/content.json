@@ -1,0 +1,32 @@
+{
+ "handle": "learnenglishsentences",
+ "website": "www.englishsentences.in",
+ "header": "Daily use English Sentences",
+ "theme": "Electricity & Bills",
+ "slides": [
+  {
+   "hindi": "Bijli kal se gayi hui hai",
+   "english": "The power has been out since yesterday."
+  },
+  {
+   "hindi": "Is mahine ka bill bahut zyada aaya",
+   "english": "This month's bill is very high."
+  },
+  {
+   "hindi": "Pankha band kar do",
+   "english": "Turn off the fan."
+  },
+  {
+   "hindi": "Inverter ki battery khatam ho gayi",
+   "english": "The inverter battery has run out."
+  },
+  {
+   "hindi": "Mujhe bill aaj hi bharna hai",
+   "english": "I have to pay the bill today."
+  }
+ ],
+ "question": {
+  "hindi": "Light kab aayegi",
+  "prompt": "How do you say this in English?"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "handle": "learnenglishsentences",
+ "website": "www.englishsentences.in",
+ "header": "Daily use English Sentences",
+ "theme": "Making Requests",
+ "slides": [
+  {
+   "hindi": "Kya main aapse ek baat puchh sakta hoon",
+   "english": "Can I ask you something?"
+  },
+  {
+   "hindi": "Zara paani dena",
+   "english": "Could you pass me some water?"
+  },
+  {
+   "hindi": "Meri ek madad kar do",
+   "english": "Please do me a favour."
+  },
+  {
+   "hindi": "Kripya thoda dheere bolo",
+   "english": "Please speak a little slower."
+  },
+  {
+   "hindi": "Kya aap yeh dobara samjha sakte hain",
+   "english": "Could you explain this again?"
+  }
+ ],
+ "question": {
+  "hindi": "Darwaza band kar do",
+  "prompt": "How do you say this in English?"
+ }
+}

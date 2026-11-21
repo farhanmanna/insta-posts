@@ -1,0 +1,185 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Sport topic",
+ "pages": [
+  {
+   "type": "list",
+   "title": "SPORT COLLOCATIONS",
+   "tag": "+",
+   "rows": [
+    [
+     "professional",
+     "athlete"
+    ],
+    [
+     "team",
+     "spirit"
+    ],
+    [
+     "physical",
+     "fitness"
+    ],
+    [
+     "sports",
+     "facilities"
+    ],
+    [
+     "compete",
+     "fiercely"
+    ],
+    [
+     "win",
+     "a medal"
+    ],
+    [
+     "train",
+     "regularly"
+    ],
+    [
+     "national",
+     "pride"
+    ],
+    [
+     "spectator",
+     "sport"
+    ],
+    [
+     "strict",
+     "training"
+    ]
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "COMPETITIVE",
+     "bullets": [
+      "Adjective: likes to win.",
+      "Also: strong, fierce."
+     ],
+     "examples": [
+      "He is very *competitive*."
+     ]
+    },
+    {
+     "heading": "COMPETITION",
+     "bullets": [
+      "Noun: a contest.",
+      "Also: rivalry."
+     ],
+     "examples": [
+      "She entered a *competition*."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "SPORTS VERBS",
+   "items": [
+    {
+     "word": "boost",
+     "meaning": "increase or improve",
+     "example": "Exercise can *boost* confidence."
+    },
+    {
+     "word": "engage in",
+     "meaning": "take part in",
+     "example": "Many teens *engage in* team sports."
+    },
+    {
+     "word": "promote",
+     "meaning": "encourage; support",
+     "example": "Sport *promotes* teamwork."
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "COMMON",
+   "right": "BETTER",
+   "rows": [
+    [
+     "good for health",
+     "beneficial"
+    ],
+    [
+     "stay fit",
+     "maintain fitness"
+    ],
+    [
+     "very famous",
+     "renowned"
+    ],
+    [
+     "hard work",
+     "dedication"
+    ],
+    [
+     "get stronger",
+     "build strength"
+    ],
+    [
+     "bad injury",
+     "serious injury"
+    ],
+    [
+     "watch",
+     "spectate"
+    ],
+    [
+     "many fans",
+     "huge following"
+    ],
+    [
+     "train hard",
+     "train intensively"
+    ],
+    [
+     "win",
+     "triumph"
+    ]
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "INTRO",
+     "bullets": [
+      "Say what the sport is.",
+      "Say who plays it."
+     ],
+     "example": "I'd like to talk about *cricket*."
+    },
+    {
+     "heading": "DETAILS",
+     "bullets": [
+      "Say where and when.",
+      "Add a feeling."
+     ],
+     "example": "I play it *every weekend* with friends."
+    },
+    {
+     "heading": "WHY",
+     "bullets": [
+      "Give a reason.",
+      "Link it to you."
+     ],
+     "example": "*That's why* it matters to me."
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "title": "YOUR TURN!",
+   "question": "Fill the gap: 'Sport can ___ teamwork among students.'",
+   "options": [
+    "a) promote",
+    "b) prohibit"
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

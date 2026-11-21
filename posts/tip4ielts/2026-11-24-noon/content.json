@@ -1,0 +1,185 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Arts and culture",
+ "pages": [
+  {
+   "type": "boxes",
+   "title": "ARTS WORDS",
+   "items": [
+    {
+     "word": "heritage",
+     "meaning": "traditions from the past",
+     "example": "We must protect our *heritage*."
+    },
+    {
+     "word": "exhibition",
+     "meaning": "a public show of art",
+     "example": "The *exhibition* attracted crowds."
+    },
+    {
+     "word": "masterpiece",
+     "meaning": "an excellent work of art",
+     "example": "The painting is a *masterpiece*."
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "CULTURE COLLOCATIONS",
+   "tag": "+",
+   "rows": [
+    [
+     "cultural",
+     "heritage"
+    ],
+    [
+     "traditional",
+     "customs"
+    ],
+    [
+     "perform",
+     "live"
+    ],
+    [
+     "attend",
+     "a concert"
+    ],
+    [
+     "preserve",
+     "traditions"
+    ],
+    [
+     "rich",
+     "history"
+    ],
+    [
+     "folk",
+     "music"
+    ],
+    [
+     "modern",
+     "art"
+    ],
+    [
+     "art",
+     "gallery"
+    ],
+    [
+     "local",
+     "festival"
+    ]
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "HISTORIC",
+     "bullets": [
+      "Important in history.",
+      "Famous event or place."
+     ],
+     "examples": [
+      "It was a *historic* moment for the country."
+     ]
+    },
+    {
+     "heading": "HISTORICAL",
+     "bullets": [
+      "Related to the past.",
+      "Facts or studies."
+     ],
+     "examples": [
+      "She reads *historical* novels."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "WHAT",
+     "bullets": [
+      "Name it.",
+      "Say the type."
+     ],
+     "example": "It's a *thriller* I saw last year."
+    },
+    {
+     "heading": "STORY",
+     "bullets": [
+      "Give the plot in one line.",
+      "Use present tense."
+     ],
+     "example": "A man *tries* to solve a mystery."
+    },
+    {
+     "heading": "OPINION",
+     "bullets": [
+      "Say why you liked it.",
+      "Use strong adjectives."
+     ],
+     "example": "It was *gripping* from start to end."
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "BASIC",
+   "right": "STRONGER",
+   "rows": [
+    [
+     "nice",
+     "delightful"
+    ],
+    [
+     "old",
+     "ancient"
+    ],
+    [
+     "famous",
+     "iconic"
+    ],
+    [
+     "beautiful",
+     "stunning"
+    ],
+    [
+     "boring",
+     "tedious"
+    ],
+    [
+     "different",
+     "diverse"
+    ],
+    [
+     "interesting",
+     "fascinating"
+    ],
+    [
+     "popular",
+     "widespread"
+    ],
+    [
+     "unusual",
+     "remarkable"
+    ],
+    [
+     "modern",
+     "contemporary"
+    ]
+   ]
+  },
+  {
+   "type": "question",
+   "title": "YOUR TURN!",
+   "question": "Fill the gap: 'We should ___ our cultural heritage for future generations.'",
+   "options": [
+    "a) preserve",
+    "b) prepare"
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

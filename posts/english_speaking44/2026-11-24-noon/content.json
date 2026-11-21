@@ -1,0 +1,32 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Planning a Picnic",
+ "slides": [
+  {
+   "hindi": "Is Sunday picnic par chalein",
+   "english": "Let's go on a picnic this Sunday."
+  },
+  {
+   "hindi": "Khaane ka saaman kaun layega",
+   "english": "Who will bring the food?"
+  },
+  {
+   "hindi": "Hum park mein cricket kheleinge",
+   "english": "We will play cricket in the park."
+  },
+  {
+   "hindi": "Mausam picnic ke liye perfect hai",
+   "english": "The weather is perfect for a picnic."
+  },
+  {
+   "hindi": "Chatai aur paani mat bhoolna",
+   "english": "Don't forget the mat and water."
+  }
+ ],
+ "question": {
+  "hindi": "Kitne log aa rahe hain",
+  "prompt": "How do you say this in English?"
+ }
+}

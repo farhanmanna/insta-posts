@@ -1,0 +1,185 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Language and communication",
+ "pages": [
+  {
+   "type": "boxes",
+   "title": "LANGUAGE WORDS",
+   "items": [
+    {
+     "word": "fluent",
+     "meaning": "speaking easily and well",
+     "example": "She is *fluent* in French."
+    },
+    {
+     "word": "bilingual",
+     "meaning": "using two languages",
+     "example": "Many children are *bilingual*."
+    },
+    {
+     "word": "dialect",
+     "meaning": "a local form of a language",
+     "example": "Each region has its own *dialect*."
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "LANGUAGE COLLOCATIONS",
+   "tag": "+",
+   "rows": [
+    [
+     "pick up",
+     "a language"
+    ],
+    [
+     "native",
+     "speaker"
+    ],
+    [
+     "mother",
+     "tongue"
+    ],
+    [
+     "foreign",
+     "language"
+    ],
+    [
+     "language",
+     "barrier"
+    ],
+    [
+     "body",
+     "language"
+    ],
+    [
+     "speak",
+     "fluently"
+    ],
+    [
+     "broaden",
+     "vocabulary"
+    ],
+    [
+     "improve",
+     "accuracy"
+    ],
+    [
+     "translate",
+     "into"
+    ]
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "LEARN",
+     "bullets": [
+      "Gain skill or knowledge.",
+      "Through practice."
+     ],
+     "examples": [
+      "I *learn* by speaking."
+     ]
+    },
+    {
+     "heading": "STUDY",
+     "bullets": [
+      "Give time to a subject.",
+      "Books and classes."
+     ],
+     "examples": [
+      "She *studies* law at night."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "WEAK",
+   "right": "STRONG",
+   "rows": [
+    [
+     "I like it.",
+     "I'm fond of it."
+    ],
+    [
+     "It's good.",
+     "It's worthwhile."
+    ],
+    [
+     "I don't know.",
+     "I've never considered it."
+    ],
+    [
+     "Yes, always.",
+     "Without a doubt."
+    ],
+    [
+     "Maybe.",
+     "It depends."
+    ],
+    [
+     "It's hard.",
+     "It's challenging."
+    ],
+    [
+     "I think so.",
+     "I'd say so."
+    ],
+    [
+     "very much",
+     "enormously"
+    ],
+    [
+     "no problem",
+     "not an issue"
+    ],
+    [
+     "a long time",
+     "for ages"
+    ]
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "BECAUSE",
+     "bullets": [
+      "Simple reason.",
+      "Fine for Part 1."
+     ],
+     "example": "I like it *because* it's relaxing."
+    },
+    {
+     "heading": "THE REASON IS",
+     "bullets": [
+      "More formal.",
+      "Good for Part 3."
+     ],
+     "example": "*The main reason is* cost."
+    },
+    {
+     "heading": "DUE TO",
+     "bullets": [
+      "Followed by a noun.",
+      "Sounds academic."
+     ],
+     "example": "*Due to* time, I walk."
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "title": "YOUR TURN!",
+   "question": "Fill the gap: 'She is ___ in three languages.'",
+   "options": [
+    "a) fluent",
+    "b) fluently"
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

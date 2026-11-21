@@ -1,0 +1,185 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Money and business",
+ "pages": [
+  {
+   "type": "glossary",
+   "left": "MONEY",
+   "right": "FORMAL",
+   "rows": [
+    [
+     "buy",
+     "purchase"
+    ],
+    [
+     "pay back",
+     "repay"
+    ],
+    [
+     "cheap",
+     "affordable"
+    ],
+    [
+     "rich",
+     "wealthy"
+    ],
+    [
+     "save",
+     "set aside"
+    ],
+    [
+     "spend",
+     "expend"
+    ],
+    [
+     "boss",
+     "employer"
+    ],
+    [
+     "earn",
+     "receive income"
+    ],
+    [
+     "cost",
+     "price"
+    ],
+    [
+     "money problems",
+     "financial hardship"
+    ]
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "MONEY WORDS",
+   "items": [
+    {
+     "word": "income",
+     "meaning": "money you earn",
+     "example": "Her monthly *income* is low."
+    },
+    {
+     "word": "budget",
+     "meaning": "a plan for spending",
+     "example": "We need a tight *budget*."
+    },
+    {
+     "word": "debt",
+     "meaning": "money you owe",
+     "example": "Many students fall into *debt*."
+    }
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "SALARY",
+     "bullets": [
+      "Fixed monthly pay.",
+      "Usually professional jobs."
+     ],
+     "examples": [
+      "She earns a good *salary*."
+     ]
+    },
+    {
+     "heading": "WAGE",
+     "bullets": [
+      "Pay by hour or week.",
+      "Often manual jobs."
+     ],
+     "examples": [
+      "He earns a low *wage*."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "MONEY COLLOCATIONS",
+   "tag": "+",
+   "rows": [
+    [
+     "earn",
+     "a living"
+    ],
+    [
+     "save",
+     "money"
+    ],
+    [
+     "run",
+     "a business"
+    ],
+    [
+     "make",
+     "a profit"
+    ],
+    [
+     "pay",
+     "taxes"
+    ],
+    [
+     "raise",
+     "funds"
+    ],
+    [
+     "go",
+     "bankrupt"
+    ],
+    [
+     "manage",
+     "a budget"
+    ],
+    [
+     "invest in",
+     "shares"
+    ],
+    [
+     "cut",
+     "costs"
+    ]
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "OPINION",
+     "bullets": [
+      "Start with your view.",
+      "Keep it short."
+     ],
+     "example": "In my view, saving is *essential*."
+    },
+    {
+     "heading": "REASON",
+     "bullets": [
+      "Say why.",
+      "Use 'because'."
+     ],
+     "example": "It protects us *because* prices rise."
+    },
+    {
+     "heading": "EXAMPLE",
+     "bullets": [
+      "Give a real example.",
+      "Use 'for instance'."
+     ],
+     "example": "*For instance*, my uncle saved for a house."
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "title": "YOUR TURN!",
+   "question": "Which collocation is correct?",
+   "options": [
+    "a) make a profit",
+    "b) do a profit"
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

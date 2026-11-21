@@ -1,0 +1,32 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Surprises",
+ "slides": [
+  {
+   "hindi": "Yeh toh badi surprise ki baat hai",
+   "english": "What a surprise!"
+  },
+  {
+   "hindi": "Maine socha bhi nahi tha",
+   "english": "I never even thought of it."
+  },
+  {
+   "hindi": "Tum yahan kaise aaye",
+   "english": "How did you get here?"
+  },
+  {
+   "hindi": "Mujhe yakeen nahi ho raha",
+   "english": "I can't believe it."
+  },
+  {
+   "hindi": "Yeh tumhare liye surprise hai",
+   "english": "This is a surprise for you."
+  }
+ ],
+ "question": {
+  "hindi": "Apni aankhein band karo",
+  "prompt": "How do you say this in English?"
+ }
+}

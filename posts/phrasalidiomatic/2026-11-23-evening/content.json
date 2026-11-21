@@ -1,0 +1,104 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Put on, Jump on the bandwagon, Whether vs Weather",
+ "pages": [
+  {
+   "title": "Put on",
+   "meaning": "to wear or switch on",
+   "synonym": "wear; switch on",
+   "examples": [
+    "*Put on* your jacket.",
+    "She *put on* some music."
+   ],
+   "tip": [
+    "put on weight -> gain weight"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "divider",
+   "title": "Whether vs Weather",
+   "intro": "Sound the same, spelt differently.",
+   "left": {
+    "label": "Weather",
+    "examples": [
+     "Sunny *weather*.",
+     "Nice *weather*."
+    ],
+    "note": "Rain, sun, wind"
+   },
+   "right": {
+    "label": "Whether",
+    "examples": [
+     "*Whether* or not.",
+     "Ask *whether* he's ready."
+    ],
+    "note": "If / either way"
+   },
+   "tip": [
+    "weather -> climate today",
+    "whether -> if"
+   ]
+  },
+  {
+   "title": "Jump on the bandwagon",
+   "meaning": "to follow a popular trend",
+   "synonym": "follow the trend",
+   "examples": [
+    "Everyone *jumped on the bandwagon*.",
+    "Don't just *jump on the bandwagon*."
+   ],
+   "tip": [
+    "Idiom: copy what's popular"
+   ]
+  },
+  {
+   "title": "Pass out",
+   "meaning": "to faint",
+   "synonym": "faint",
+   "examples": [
+    "She *passed out* from the heat.",
+    "Drink water or you'll *pass out*."
+   ],
+   "tip": [
+    "pass out (papers) -> give out"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "curve",
+   "title": "Fun vs Funny",
+   "intro": "Enjoyable or laugh-out-loud?",
+   "left": {
+    "label": "Fun",
+    "examples": [
+     "The party was *fun*.",
+     "Travel is *fun*."
+    ],
+    "note": "Enjoyable"
+   },
+   "right": {
+    "label": "Funny",
+    "examples": [
+     "A *funny* joke.",
+     "He is *funny*."
+    ],
+    "note": "Makes you laugh"
+   },
+   "tip": [
+    "fun -> enjoyable",
+    "funny -> makes you laugh"
+   ]
+  },
+  {
+   "type": "question",
+   "title": "Your turn!",
+   "question": "Fill the gap: 'I don't know ___ he will come.'",
+   "options": [
+    "a) weather",
+    "b) whether"
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Dhaba Food",
+ "slides": [
+  {
+   "hindi": "Ek plate dal fry dena",
+   "english": "Give me one plate of dal fry."
+  },
+  {
+   "hindi": "Garam garam roti laao",
+   "english": "Bring hot rotis."
+  },
+  {
+   "hindi": "Khaana bahut teekha hai",
+   "english": "The food is very spicy."
+  },
+  {
+   "hindi": "Chai mein cheeni kam daalna",
+   "english": "Put less sugar in the tea."
+  },
+  {
+   "hindi": "Bill kitna hua",
+   "english": "How much is the bill?"
+  }
+ ],
+ "question": {
+  "hindi": "Paani ki bottle de do",
+  "prompt": "How do you say this in English?"
+ }
+}

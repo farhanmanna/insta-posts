@@ -1,0 +1,104 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Log in, Wait vs Expect, Out of the blue and more",
+ "pages": [
+  {
+   "title": "Log in",
+   "meaning": "to enter an account",
+   "synonym": "sign in",
+   "examples": [
+    "*Log in* with your password.",
+    "I can't *log in* to my account."
+   ],
+   "tip": [
+    "log out -> leave account"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "circles",
+   "title": "Wait vs Expect",
+   "intro": "Stay, or think it will happen?",
+   "left": {
+    "label": "Wait",
+    "examples": [
+     "*Wait* for me.",
+     "*Wait* a minute."
+    ],
+    "note": "Stay until it happens"
+   },
+   "right": {
+    "label": "Expect",
+    "examples": [
+     "I *expect* rain.",
+     "*Expect* a call."
+    ],
+    "note": "Think it will happen"
+   },
+   "tip": [
+    "wait -> stay and hope",
+    "expect -> predict"
+   ]
+  },
+  {
+   "title": "Out of the blue",
+   "meaning": "suddenly and unexpectedly",
+   "synonym": "all of a sudden",
+   "examples": [
+    "She called me *out of the blue*.",
+    "It came *out of the blue*."
+   ],
+   "tip": [
+    "Idiom: surprise"
+   ]
+  },
+  {
+   "title": "Show off",
+   "meaning": "to boast or display proudly",
+   "synonym": "boast",
+   "examples": [
+    "He loves to *show off*.",
+    "Stop *showing off* your new phone."
+   ],
+   "tip": [
+    "show-off (noun) -> boaster"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "divider",
+   "title": "Stay vs Live",
+   "intro": "Short time or long time?",
+   "left": {
+    "label": "Stay",
+    "examples": [
+     "I'm *staying* at a hotel.",
+     "*Stay* here."
+    ],
+    "note": "Short time"
+   },
+   "right": {
+    "label": "Live",
+    "examples": [
+     "I *live* in Pune.",
+     "They *live* nearby."
+    ],
+    "note": "Long time"
+   },
+   "tip": [
+    "stay -> temporary",
+    "live -> permanent"
+   ]
+  },
+  {
+   "type": "question",
+   "title": "Your turn!",
+   "question": "Which one is correct?",
+   "options": [
+    "a) I *wait* rain today.",
+    "b) I *expect* rain today."
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Transport topic",
+ "pages": [
+  {
+   "type": "list",
+   "title": "TRANSPORT COLLOCATIONS",
+   "tag": "+",
+   "rows": [
+    [
+     "public",
+     "transport"
+    ],
+    [
+     "traffic",
+     "congestion"
+    ],
+    [
+     "rush",
+     "hour"
+    ],
+    [
+     "commute",
+     "to work"
+    ],
+    [
+     "catch",
+     "a bus"
+    ],
+    [
+     "miss",
+     "a train"
+    ],
+    [
+     "road",
+     "safety"
+    ],
+    [
+     "ride",
+     "a bike"
+    ],
+    [
+     "pay",
+     "a fare"
+    ],
+    [
+     "heavy",
+     "traffic"
+    ]
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "FARE",
+     "bullets": [
+      "Cost of a journey.",
+      "Bus, train, taxi."
+     ],
+     "examples": [
+      "The bus *fare* has gone up."
+     ]
+    },
+    {
+     "heading": "FEE",
+     "bullets": [
+      "Payment for a service.",
+      "Entry, school, licence."
+     ],
+     "examples": [
+      "The museum charges an entry *fee*."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "TRAFFIC WORDS",
+   "items": [
+    {
+     "word": "congestion",
+     "meaning": "too much traffic",
+     "example": "*Congestion* wastes time and fuel."
+    },
+    {
+     "word": "emissions",
+     "meaning": "harmful gases released",
+     "example": "Cars cause harmful *emissions*."
+    },
+    {
+     "word": "pedestrian",
+     "meaning": "a person on foot",
+     "example": "*Pedestrians* need safe crossings."
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "PROBLEM",
+   "right": "SOLUTION",
+   "rows": [
+    [
+     "traffic jams",
+     "build metro lines"
+    ],
+    [
+     "pollution",
+     "promote electric cars"
+    ],
+    [
+     "accidents",
+     "enforce speed limits"
+    ],
+    [
+     "parking shortage",
+     "multi-storey car parks"
+    ],
+    [
+     "crowded buses",
+     "increase frequency"
+    ],
+    [
+     "noise",
+     "ban horns"
+    ],
+    [
+     "fuel cost",
+     "carpooling"
+    ],
+    [
+     "road damage",
+     "regular repairs"
+    ],
+    [
+     "delays",
+     "better planning"
+    ],
+    [
+     "unsafe crossings",
+     "add footbridges"
+    ]
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "ONE SOLUTION",
+     "bullets": [
+      "Introduce the fix.",
+      "Keep it direct."
+     ],
+     "example": "*One solution* is to improve buses."
+    },
+    {
+     "heading": "ANOTHER",
+     "bullets": [
+      "Add a second fix.",
+      "Link with 'Another'."
+     ],
+     "example": "*Another measure* is to tax cars."
+    },
+    {
+     "heading": "RESULT",
+     "bullets": [
+      "Say the outcome.",
+      "Use 'This would'."
+     ],
+     "example": "*This would* cut congestion."
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "title": "YOUR TURN!",
+   "question": "Which sentence is correct?",
+   "options": [
+    "a) The bus *fee* is low.",
+    "b) The bus *fare* is low."
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

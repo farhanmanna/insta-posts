@@ -1,0 +1,32 @@
+{
+ "handle": "learnenglishsentences",
+ "website": "www.englishsentences.in",
+ "header": "Daily use English Sentences",
+ "theme": "Relationships",
+ "slides": [
+  {
+   "hindi": "Hum do saal se saath hain",
+   "english": "We have been together for two years."
+  },
+  {
+   "hindi": "Mujhe tumhari bahut yaad aati hai",
+   "english": "I miss you a lot."
+  },
+  {
+   "hindi": "Mujhse jhoot mat bolo",
+   "english": "Don't lie to me."
+  },
+  {
+   "hindi": "Humein ek doosre par bharosa hai",
+   "english": "We trust each other."
+  },
+  {
+   "hindi": "Tum meri zindagi ka hissa ho",
+   "english": "You are a part of my life."
+  }
+ ],
+ "question": {
+  "hindi": "Mujhe thoda waqt chahiye",
+  "prompt": "How do you say this in English?"
+ }
+}

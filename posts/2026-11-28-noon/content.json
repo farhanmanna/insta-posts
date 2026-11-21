@@ -1,0 +1,32 @@
+{
+ "handle": "learnenglishsentences",
+ "website": "www.englishsentences.in",
+ "header": "Daily use English Sentences",
+ "theme": "Birthday Party",
+ "slides": [
+  {
+   "hindi": "Janamdin mubarak ho",
+   "english": "Happy birthday!"
+  },
+  {
+   "hindi": "Kal meri party hai, zaroor aana",
+   "english": "I'm having a party tomorrow, do come."
+  },
+  {
+   "hindi": "Kek kaun kaatega",
+   "english": "Who will cut the cake?"
+  },
+  {
+   "hindi": "Main tumhare liye tohfa laya hoon",
+   "english": "I have brought a gift for you."
+  },
+  {
+   "hindi": "Mombatti bujhao aur wish maango",
+   "english": "Blow out the candles and make a wish."
+  }
+ ],
+ "question": {
+  "hindi": "Zara photo kheench do",
+  "prompt": "How do you say this in English?"
+ }
+}

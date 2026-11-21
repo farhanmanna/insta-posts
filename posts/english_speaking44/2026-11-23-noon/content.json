@@ -1,0 +1,32 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Asking for Help",
+ "slides": [
+  {
+   "hindi": "Kya aap meri madad kar sakte hain",
+   "english": "Can you help me?"
+  },
+  {
+   "hindi": "Mujhe yeh samajh nahi aaya",
+   "english": "I didn't understand this."
+  },
+  {
+   "hindi": "Yeh bhaari saaman uthane mein madad karo",
+   "english": "Help me lift this heavy stuff."
+  },
+  {
+   "hindi": "Mujhe rasta bata do",
+   "english": "Please show me the way."
+  },
+  {
+   "hindi": "Mujhe aapki salaah chahiye",
+   "english": "I need your advice."
+  }
+ ],
+ "question": {
+  "hindi": "Main yeh akela nahi kar sakta",
+  "prompt": "How do you say this in English?"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "handle": "learnenglishsentences",
+ "website": "www.englishsentences.in",
+ "header": "Daily use English Sentences",
+ "theme": "Rain & Monsoon",
+ "slides": [
+  {
+   "hindi": "Bahar tez baarish ho rahi hai",
+   "english": "It's raining heavily outside."
+  },
+  {
+   "hindi": "Chhata saath le jana",
+   "english": "Carry an umbrella with you."
+  },
+  {
+   "hindi": "Meri chappal geeli ho gayi",
+   "english": "My sandals got wet."
+  },
+  {
+   "hindi": "Sadak par paani bhar gaya hai",
+   "english": "The road is flooded with water."
+  },
+  {
+   "hindi": "Hawa bahut thandi chal rahi hai",
+   "english": "A cool breeze is blowing."
+  }
+ ],
+ "question": {
+  "hindi": "Baarish kab rukegi",
+  "prompt": "How do you say this in English?"
+ }
+}

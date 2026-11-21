@@ -1,0 +1,185 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Advertising and shopping",
+ "pages": [
+  {
+   "type": "boxes",
+   "title": "ADVERTISING WORDS",
+   "items": [
+    {
+     "word": "consumer",
+     "meaning": "a person who buys goods",
+     "example": "*Consumers* want lower prices."
+    },
+    {
+     "word": "persuade",
+     "meaning": "convince someone to act",
+     "example": "Ads *persuade* us to buy."
+    },
+    {
+     "word": "brand loyalty",
+     "meaning": "preferring one brand",
+     "example": "Ads build *brand loyalty*."
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "SHOPPING",
+   "right": "IELTS STYLE",
+   "rows": [
+    [
+     "shop",
+     "retailer"
+    ],
+    [
+     "buy online",
+     "e-commerce"
+    ],
+    [
+     "shopping",
+     "consumerism"
+    ],
+    [
+     "sale",
+     "discount"
+    ],
+    [
+     "customer",
+     "consumer"
+    ],
+    [
+     "advert",
+     "advertisement"
+    ],
+    [
+     "a lot of choice",
+     "wide variety"
+    ],
+    [
+     "cheap",
+     "low-cost"
+    ],
+    [
+     "brand",
+     "label"
+    ],
+    [
+     "spend too much",
+     "overspend"
+    ]
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "EFFECTIVE",
+     "bullets": [
+      "Gets the result wanted.",
+      "Works well."
+     ],
+     "examples": [
+      "Ads are *effective* on TV."
+     ]
+    },
+    {
+     "heading": "EFFICIENT",
+     "bullets": [
+      "Uses little time or effort.",
+      "No waste."
+     ],
+     "examples": [
+      "Online banking is *efficient*."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "ADVERT COLLOCATIONS",
+   "tag": "+",
+   "rows": [
+    [
+     "launch",
+     "a campaign"
+    ],
+    [
+     "target",
+     "young people"
+    ],
+    [
+     "catch",
+     "attention"
+    ],
+    [
+     "boost",
+     "sales"
+    ],
+    [
+     "television",
+     "commercial"
+    ],
+    [
+     "social",
+     "media"
+    ],
+    [
+     "celebrity",
+     "endorsement"
+    ],
+    [
+     "misleading",
+     "claims"
+    ],
+    [
+     "influence",
+     "choices"
+    ],
+    [
+     "impulse",
+     "buying"
+    ]
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "FOR",
+     "bullets": [
+      "Give a benefit.",
+      "Use 'one advantage'."
+     ],
+     "example": "*One advantage* is wider choice."
+    },
+    {
+     "heading": "AGAINST",
+     "bullets": [
+      "Give a drawback.",
+      "Use 'however'."
+     ],
+     "example": "*However*, ads can mislead children."
+    },
+    {
+     "heading": "MY VIEW",
+     "bullets": [
+      "Balance both sides.",
+      "Close clearly."
+     ],
+     "example": "*On balance*, ads help business."
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "title": "YOUR TURN!",
+   "question": "Which sentence gets a higher band?",
+   "options": [
+    "a) Ads make people buy lots of things.",
+    "b) Advertising *influences* consumer *choices*."
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

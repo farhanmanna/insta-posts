@@ -1,0 +1,32 @@
+{
+ "handle": "learnenglishsentences",
+ "website": "www.englishsentences.in",
+ "header": "Daily use English Sentences",
+ "theme": "Lost & Found",
+ "slides": [
+  {
+   "hindi": "Mera wallet kho gaya hai",
+   "english": "I have lost my wallet."
+  },
+  {
+   "hindi": "Meri chaabi kahan hai",
+   "english": "Where is my key?"
+  },
+  {
+   "hindi": "Kya aapne mera bag dekha",
+   "english": "Have you seen my bag?"
+  },
+  {
+   "hindi": "Mujhe yeh sadak par mila",
+   "english": "I found this on the road."
+  },
+  {
+   "hindi": "Lost and found office kahan hai",
+   "english": "Where is the lost and found office?"
+  }
+ ],
+ "question": {
+  "hindi": "Main apna phone dhoondh raha hoon",
+  "prompt": "How do you say this in English?"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Grandparents' House",
+ "slides": [
+  {
+   "hindi": "Dadi ji ke haath ka khaana mazedaar hai",
+   "english": "Grandma's cooking is delicious."
+  },
+  {
+   "hindi": "Hum gaon jaa rahe hain",
+   "english": "We are going to the village."
+  },
+  {
+   "hindi": "Dada ji humein kahaniyan sunate hain",
+   "english": "Grandpa tells us stories."
+  },
+  {
+   "hindi": "Mujhe naani ka ghar bahut yaad aata hai",
+   "english": "I miss my grandmother's house."
+  },
+  {
+   "hindi": "Chhutti mein hum wahin rukte hain",
+   "english": "We stay there during holidays."
+  }
+ ],
+ "question": {
+  "hindi": "Dadi ji ko phone lagao",
+  "prompt": "How do you say this in English?"
+ }
+}

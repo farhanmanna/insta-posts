@@ -1,0 +1,104 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Think outside the box, Turn off, Fast vs Quickly and more",
+ "pages": [
+  {
+   "title": "Think outside the box",
+   "meaning": "to think creatively",
+   "synonym": "be creative",
+   "examples": [
+    "We need to *think outside the box*.",
+    "She always *thinks outside the box*."
+   ],
+   "tip": [
+    "Idiom: be creative"
+   ]
+  },
+  {
+   "title": "Turn off",
+   "meaning": "to stop a machine or light",
+   "synonym": "switch off",
+   "examples": [
+    "*Turn off* the lights.",
+    "*Turn off* your phone."
+   ],
+   "tip": [
+    "turn on -> start"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "circles",
+   "title": "Fast vs Quickly",
+   "intro": "Both mean 'not slow'.",
+   "left": {
+    "label": "Fast",
+    "examples": [
+     "A *fast* car.",
+     "He runs *fast*."
+    ],
+    "note": "Adjective or adverb"
+   },
+   "right": {
+    "label": "Quickly",
+    "examples": [
+     "Reply *quickly*.",
+     "Eat *quickly*."
+    ],
+    "note": "Adverb only"
+   },
+   "tip": [
+    "fast -> adj + adv",
+    "quickly -> adverb"
+   ]
+  },
+  {
+   "title": "Get out of hand",
+   "meaning": "to become uncontrolled",
+   "synonym": "go out of control",
+   "examples": [
+    "The party *got out of hand*.",
+    "Don't let it *get out of hand*."
+   ],
+   "tip": [
+    "Idiom: out of control"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "divider",
+   "title": "Emigrate vs Immigrate",
+   "intro": "Leaving or arriving?",
+   "left": {
+    "label": "Emigrate",
+    "examples": [
+     "He *emigrated* from Italy.",
+     "*Emigrate* abroad."
+    ],
+    "note": "Leave your country"
+   },
+   "right": {
+    "label": "Immigrate",
+    "examples": [
+     "She *immigrated* to Canada.",
+     "*Immigrate* here."
+    ],
+    "note": "Enter a new country"
+   },
+   "tip": [
+    "e -> exit",
+    "i -> in"
+   ]
+  },
+  {
+   "type": "question",
+   "title": "Your turn!",
+   "question": "Which one is correct?",
+   "options": [
+    "a) *Turn off* the TV when you leave.",
+    "b) *Turn out* the TV when you leave."
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

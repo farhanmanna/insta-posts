@@ -1,0 +1,112 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Look out, Who vs Whom, Kill two birds with one stone",
+ "pages": [
+  {
+   "title": "Look out",
+   "meaning": "to be careful",
+   "synonym": "watch out",
+   "examples": [
+    "*Look out!* A car is coming.",
+    "*Look out* for pickpockets."
+   ],
+   "tip": [
+    "Look out! -> a warning"
+   ]
+  },
+  {
+   "title": "Kill two birds with one stone",
+   "meaning": "to solve two problems at once",
+   "synonym": "double benefit",
+   "examples": [
+    "Cycling to work *kills two birds with one stone*.",
+    "That trip *killed two birds with one stone*."
+   ],
+   "tip": [
+    "Idiom: two jobs, one action"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "curve",
+   "title": "Who vs Whom",
+   "intro": "Who = subject, whom = object.",
+   "left": {
+    "label": "Who",
+    "examples": [
+     "*Who* called you?",
+     "*Who* is she?"
+    ],
+    "note": "Does the action"
+   },
+   "right": {
+    "label": "Whom",
+    "examples": [
+     "*Whom* did you call?",
+     "To *whom*?"
+    ],
+    "note": "Receives the action"
+   },
+   "tip": [
+    "who -> he / she",
+    "whom -> him / her [check]"
+   ]
+  },
+  {
+   "title": "Check in",
+   "meaning": "to register on arrival",
+   "synonym": "register",
+   "examples": [
+    "We *checked in* at noon.",
+    "*Check in* online first."
+   ],
+   "tip": [
+    "check in -> arrive; check out -> leave"
+   ]
+  },
+  {
+   "type": "three",
+   "title": "This / That / These",
+   "intro": "Near or far? One or many?",
+   "columns": [
+    {
+     "label": "This",
+     "examples": [
+      "*This* book",
+      "*This* one"
+     ],
+     "note": "Near, one"
+    },
+    {
+     "label": "That",
+     "examples": [
+      "*That* bird",
+      "*That* one"
+     ],
+     "note": "Far, one"
+    },
+    {
+     "label": "These",
+     "examples": [
+      "*These* shoes",
+      "*These* days"
+     ],
+     "note": "Near, many"
+    }
+   ],
+   "tip": [
+    "those -> far, many"
+   ]
+  },
+  {
+   "type": "question",
+   "title": "Your turn!",
+   "question": "What does 'Look out!' mean?",
+   "options": [
+    "a) Be careful!",
+    "b) Look outside!"
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

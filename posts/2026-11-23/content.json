@@ -1,0 +1,32 @@
+{
+ "handle": "learnenglishsentences",
+ "website": "www.englishsentences.in",
+ "header": "Daily use English Sentences",
+ "theme": "Health & Fitness",
+ "slides": [
+  {
+   "hindi": "Main roz subah daudta hoon",
+   "english": "I run every morning."
+  },
+  {
+   "hindi": "Mujhe apna pet kam karna hai",
+   "english": "I want to reduce my belly fat."
+  },
+  {
+   "hindi": "Zyada paani piya karo",
+   "english": "Drink more water."
+  },
+  {
+   "hindi": "Mere pair mein dard ho raha hai",
+   "english": "My leg is hurting."
+  },
+  {
+   "hindi": "Aaj main gym nahi gaya",
+   "english": "I didn't go to the gym today."
+  }
+ ],
+ "question": {
+  "hindi": "Yoga se mujhe aaram milta hai",
+  "prompt": "How do you say this in English?"
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Keep your fingers crossed, Dress up, Alone vs Lonely",
+ "pages": [
+  {
+   "title": "Keep your fingers crossed",
+   "meaning": "to hope for good luck",
+   "synonym": "hope",
+   "examples": [
+    "I'm *keeping my fingers crossed*.",
+    "*Keep your fingers crossed* for me!"
+   ],
+   "tip": [
+    "Idiom: wish luck"
+   ]
+  },
+  {
+   "title": "Dress up",
+   "meaning": "to wear fancy clothes",
+   "synonym": "wear smart clothes",
+   "examples": [
+    "Kids love to *dress up*.",
+    "We *dressed up* for the wedding."
+   ],
+   "tip": [
+    "dress up -> wear fancy clothes"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "circles",
+   "title": "Alone vs Lonely",
+   "intro": "A fact or a feeling?",
+   "left": {
+    "label": "Alone",
+    "examples": [
+     "I live *alone*.",
+     "She was *alone*."
+    ],
+    "note": "No one else"
+   },
+   "right": {
+    "label": "Lonely",
+    "examples": [
+     "I feel *lonely*.",
+     "A *lonely* night."
+    ],
+    "note": "Sad without company"
+   },
+   "tip": [
+    "alone -> a fact",
+    "lonely -> a feeling"
+   ]
+  },
+  {
+   "title": "Get the hang of it",
+   "meaning": "to learn how to do something",
+   "synonym": "master",
+   "examples": [
+    "I'm getting *the hang of it*.",
+    "You'll *get the hang of it* soon."
+   ],
+   "tip": [
+    "Idiom: learn by practice"
+   ]
+  },
+  {
+   "type": "three",
+   "title": "Win / Beat / Lose",
+   "intro": "Know who gets what.",
+   "columns": [
+    {
+     "label": "Win",
+     "examples": [
+      "*win* a prize",
+      "*win* the game"
+     ],
+     "note": "Get a prize"
+    },
+    {
+     "label": "Beat",
+     "examples": [
+      "*beat* our rivals",
+      "*beat* him"
+     ],
+     "note": "Defeat"
+    },
+    {
+     "label": "Lose",
+     "examples": [
+      "*lose* a match",
+      "*lose* keys"
+     ],
+     "note": "Not win"
+    }
+   ],
+   "tip": [
+    "win + prize; beat + person"
+   ]
+  },
+  {
+   "type": "question",
+   "title": "Your turn!",
+   "question": "Which one is correct?",
+   "options": [
+    "a) We *won* the other team.",
+    "b) We *beat* the other team."
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

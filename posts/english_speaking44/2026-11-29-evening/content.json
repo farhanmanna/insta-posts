@@ -1,0 +1,32 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Saying Thank You",
+ "slides": [
+  {
+   "hindi": "Bahut bahut shukriya",
+   "english": "Thank you very much."
+  },
+  {
+   "hindi": "Aapki madad ke liye dhanyavaad",
+   "english": "Thanks for your help."
+  },
+  {
+   "hindi": "Isme dhanyavaad ki baat nahi hai",
+   "english": "There's no need to thank me."
+  },
+  {
+   "hindi": "Main aapka ehsaan nahi bhoolunga",
+   "english": "I will never forget your kindness."
+  },
+  {
+   "hindi": "Aapne meri bahut madad ki",
+   "english": "You helped me a lot."
+  }
+ ],
+ "question": {
+  "hindi": "Chinta mat karo, main hoon na",
+  "prompt": "How do you say this in English?"
+ }
+}

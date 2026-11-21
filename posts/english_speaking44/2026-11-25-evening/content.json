@@ -1,0 +1,32 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Doing Laundry",
+ "slides": [
+  {
+   "hindi": "Kapde washing machine mein daal do",
+   "english": "Put the clothes in the washing machine."
+  },
+  {
+   "hindi": "Is shirt ka daag nahi ja raha",
+   "english": "The stain on this shirt won't go."
+  },
+  {
+   "hindi": "Kapde press kar do",
+   "english": "Iron the clothes."
+  },
+  {
+   "hindi": "Safed kapde alag dhona",
+   "english": "Wash the white clothes separately."
+  },
+  {
+   "hindi": "Dhoop mein kapde sukha lo",
+   "english": "Dry the clothes in the sun."
+  }
+ ],
+ "question": {
+  "hindi": "Meri jeans abhi tak geeli hai",
+  "prompt": "How do you say this in English?"
+ }
+}

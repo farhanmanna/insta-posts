@@ -1,0 +1,185 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Science and space",
+ "pages": [
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "DISCOVER",
+     "bullets": [
+      "Find what already existed.",
+      "Not made by people."
+     ],
+     "examples": [
+      "Scientists *discovered* a new planet."
+     ]
+    },
+    {
+     "heading": "INVENT",
+     "bullets": [
+      "Create something new.",
+      "A first-time creation."
+     ],
+     "examples": [
+      "Bell *invented* the telephone."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "SCIENCE WORDS",
+   "tag": "=",
+   "rows": [
+    [
+     "breakthrough",
+     "major discovery"
+    ],
+    [
+     "research",
+     "study"
+    ],
+    [
+     "experiment",
+     "test"
+    ],
+    [
+     "innovation",
+     "new idea"
+    ],
+    [
+     "theory",
+     "explanation"
+    ],
+    [
+     "evidence",
+     "proof"
+    ],
+    [
+     "laboratory",
+     "science room"
+    ],
+    [
+     "advance",
+     "progress"
+    ],
+    [
+     "findings",
+     "results"
+    ],
+    [
+     "cutting-edge",
+     "very modern"
+    ]
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "SPACE WORDS",
+   "items": [
+    {
+     "word": "orbit",
+     "meaning": "path around a planet",
+     "example": "The Moon *orbits* the Earth."
+    },
+    {
+     "word": "satellite",
+     "meaning": "object circling a planet",
+     "example": "*Satellites* improve weather forecasts."
+    },
+    {
+     "word": "exploration",
+     "meaning": "travelling to learn more",
+     "example": "Space *exploration* is costly."
+    }
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "I BELIEVE",
+     "bullets": [
+      "Strong but simple.",
+      "Good for Speaking."
+     ],
+     "example": "*I believe* science improves life."
+    },
+    {
+     "heading": "IT SEEMS TO ME",
+     "bullets": [
+      "A softer opinion.",
+      "Sounds natural."
+     ],
+     "example": "*It seems to me* funding is too low."
+    },
+    {
+     "heading": "AS I SEE IT",
+     "bullets": [
+      "A personal view.",
+      "Use at the start."
+     ],
+     "example": "*As I see it*, space is vital."
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "SCIENCE VERBS",
+   "tag": "→",
+   "rows": [
+    [
+     "investigate",
+     "look into"
+    ],
+    [
+     "conduct",
+     "carry out"
+    ],
+    [
+     "analyse",
+     "examine"
+    ],
+    [
+     "predict",
+     "forecast"
+    ],
+    [
+     "demonstrate",
+     "show"
+    ],
+    [
+     "confirm",
+     "prove"
+    ],
+    [
+     "reveal",
+     "uncover"
+    ],
+    [
+     "observe",
+     "watch"
+    ],
+    [
+     "measure",
+     "calculate"
+    ],
+    [
+     "test",
+     "trial"
+    ]
+   ]
+  },
+  {
+   "type": "question",
+   "title": "YOUR TURN!",
+   "question": "Which one is correct?",
+   "options": [
+    "a) Bell *discovered* the telephone.",
+    "b) Bell *invented* the telephone."
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

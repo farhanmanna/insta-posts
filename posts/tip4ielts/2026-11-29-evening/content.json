@@ -1,0 +1,185 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Speaking tips and grammar",
+ "pages": [
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "ANSWER",
+     "bullets": [
+      "Reply directly first.",
+      "Then add detail."
+     ],
+     "example": "Yes, I *quite enjoy* cooking."
+    },
+    {
+     "heading": "EXTEND",
+     "bullets": [
+      "Add one reason.",
+      "Add one example."
+     ],
+     "example": "It's *relaxing*, and I try new dishes."
+    },
+    {
+     "heading": "STOP",
+     "bullets": [
+      "Don't talk too long.",
+      "Two or three sentences."
+     ],
+     "example": "Then I *wait* for the next question."
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "WORD PARTNERS",
+   "tag": "+",
+   "rows": [
+    [
+     "heavy",
+     "rain"
+    ],
+    [
+     "strong",
+     "coffee"
+    ],
+    [
+     "deep",
+     "sleep"
+    ],
+    [
+     "make",
+     "progress"
+    ],
+    [
+     "fast",
+     "food"
+    ],
+    [
+     "high",
+     "hopes"
+    ],
+    [
+     "raise",
+     "awareness"
+    ],
+    [
+     "gain",
+     "experience"
+    ],
+    [
+     "reach",
+     "a decision"
+    ],
+    [
+     "pay",
+     "attention"
+    ]
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "SO",
+     "bullets": [
+      "Use before an adjective.",
+      "so + adjective"
+     ],
+     "examples": [
+      "The test was *so* hard."
+     ]
+    },
+    {
+     "heading": "SUCH",
+     "bullets": [
+      "Use before a noun.",
+      "such + a + noun"
+     ],
+     "examples": [
+      "It was *such* a hard test."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "BAND 7 PHRASES",
+   "items": [
+    {
+     "word": "a great deal of",
+     "meaning": "a large amount of",
+     "example": "It needs *a great deal of* effort."
+    },
+    {
+     "word": "tend to",
+     "meaning": "usually do",
+     "example": "Teenagers *tend to* sleep late."
+    },
+    {
+     "word": "in terms of",
+     "meaning": "regarding",
+     "example": "*In terms of* cost, it is cheap."
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "MISTAKE",
+   "right": "FIX",
+   "rows": [
+    [
+     "he don't",
+     "he doesn't"
+    ],
+    [
+     "more better",
+     "better"
+    ],
+    [
+     "I am agree",
+     "I agree"
+    ],
+    [
+     "informations",
+     "information"
+    ],
+    [
+     "many peoples",
+     "many people"
+    ],
+    [
+     "discuss about",
+     "discuss"
+    ],
+    [
+     "life are",
+     "life is"
+    ],
+    [
+     "he go",
+     "he goes"
+    ],
+    [
+     "in other hand",
+     "on the other hand"
+    ],
+    [
+     "a advice",
+     "a piece of advice"
+    ]
+   ]
+  },
+  {
+   "type": "question",
+   "title": "YOUR TURN!",
+   "question": "Which sentence is correct?",
+   "options": [
+    "a) I *agree* with you.",
+    "b) I am *agree* with you."
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

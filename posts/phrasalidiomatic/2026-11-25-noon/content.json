@@ -1,0 +1,112 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Take care of, Easier said than done, Learn vs Teach",
+ "pages": [
+  {
+   "title": "Take care of",
+   "meaning": "to look after or handle",
+   "synonym": "look after; handle",
+   "examples": [
+    "I'll *take care of* the dog.",
+    "*Take care of* yourself."
+   ],
+   "tip": [
+    "Take care! -> goodbye"
+   ]
+  },
+  {
+   "title": "Easier said than done",
+   "meaning": "harder in practice than in theory",
+   "synonym": "not so simple",
+   "examples": [
+    "Quitting sugar is *easier said than done*.",
+    "Saving money is *easier said than done*."
+   ],
+   "tip": [
+    "Idiom: sounds simple, isn't"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "divider",
+   "title": "Learn vs Teach",
+   "intro": "Get knowledge or give it?",
+   "left": {
+    "label": "Learn",
+    "examples": [
+     "I *learn* English.",
+     "Kids *learn* fast."
+    ],
+    "note": "Receive knowledge"
+   },
+   "right": {
+    "label": "Teach",
+    "examples": [
+     "She *teaches* maths.",
+     "Please *teach* me."
+    ],
+    "note": "Give knowledge"
+   },
+   "tip": [
+    "learn -> get",
+    "teach -> give"
+   ]
+  },
+  {
+   "type": "three",
+   "title": "Too / Very / Enough",
+   "intro": "Three ways to measure.",
+   "columns": [
+    {
+     "label": "Too",
+     "examples": [
+      "*too* hot",
+      "*too* late"
+     ],
+     "note": "More than needed"
+    },
+    {
+     "label": "Very",
+     "examples": [
+      "*very* hot",
+      "*very* good"
+     ],
+     "note": "A lot"
+    },
+    {
+     "label": "Enough",
+     "examples": [
+      "*enough* time",
+      "good *enough*"
+     ],
+     "note": "As much as needed"
+    }
+   ],
+   "tip": [
+    "too -> a problem"
+   ]
+  },
+  {
+   "title": "Slow down",
+   "meaning": "to go less fast",
+   "synonym": "ease off",
+   "examples": [
+    "Please *slow down*, I'm lost.",
+    "He told me to *slow down*."
+   ],
+   "tip": [
+    "slow down -> reduce speed"
+   ]
+  },
+  {
+   "type": "question",
+   "title": "Your turn!",
+   "question": "Fill the gap: 'I can't buy it. It's ___ expensive.'",
+   "options": [
+    "a) too",
+    "b) enough"
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

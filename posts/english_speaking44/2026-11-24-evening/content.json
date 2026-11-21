@@ -1,0 +1,32 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Complaints",
+ "slides": [
+  {
+   "hindi": "Yeh khaana thanda hai",
+   "english": "This food is cold."
+  },
+  {
+   "hindi": "Aapne mera order galat diya",
+   "english": "You gave me the wrong order."
+  },
+  {
+   "hindi": "Pichle hafte se paani nahi aa raha",
+   "english": "There has been no water since last week."
+  },
+  {
+   "hindi": "Main manager se baat karna chahta hoon",
+   "english": "I want to talk to the manager."
+  },
+  {
+   "hindi": "Mujhe mere paise wapas chahiye",
+   "english": "I want my money back."
+  }
+ ],
+ "question": {
+  "hindi": "Yeh kaam abhi tak nahi hua",
+  "prompt": "How do you say this in English?"
+ }
+}

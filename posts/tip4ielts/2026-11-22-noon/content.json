@@ -1,0 +1,185 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Writing Task 2: cause and effect",
+ "pages": [
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "AS A RESULT",
+     "bullets": [
+      "Shows a result.",
+      "Use after a full stop."
+     ],
+     "example": "Prices rose. *As a result*, sales fell."
+    },
+    {
+     "heading": "THEREFORE",
+     "bullets": [
+      "More formal.",
+      "Use a comma after it."
+     ],
+     "example": "Costs are high; *therefore*, fewer people buy."
+    },
+    {
+     "heading": "CONSEQUENTLY",
+     "bullets": [
+      "Formal result linker.",
+      "Follow with a comma."
+     ],
+     "example": "Pollution grew. *Consequently*, health worsened."
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "CAUSE AND EFFECT VERBS",
+   "tag": "=",
+   "rows": [
+    [
+     "lead to",
+     "cause"
+    ],
+    [
+     "result in",
+     "bring about"
+    ],
+    [
+     "contribute to",
+     "help cause"
+    ],
+    [
+     "stem from",
+     "come from"
+    ],
+    [
+     "give rise to",
+     "produce"
+    ],
+    [
+     "trigger",
+     "set off"
+    ],
+    [
+     "result from",
+     "be caused by"
+    ],
+    [
+     "account for",
+     "explain"
+    ],
+    [
+     "arise from",
+     "come from"
+    ],
+    [
+     "generate",
+     "create"
+    ]
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "TASK 2 OPENERS",
+   "items": [
+    {
+     "word": "Nowadays",
+     "meaning": "at the present time",
+     "example": "*Nowadays*, many people work online."
+    },
+    {
+     "word": "It is widely believed",
+     "meaning": "most people think",
+     "example": "*It is widely believed* that exams are stressful."
+    },
+    {
+     "word": "In recent years",
+     "meaning": "during the last few years",
+     "example": "*In recent years*, rents have risen."
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "SIMPLE",
+   "right": "UPGRADE",
+   "rows": [
+    [
+     "a big problem",
+     "a major issue"
+    ],
+    [
+     "a lot of",
+     "a great deal of"
+    ],
+    [
+     "more and more",
+     "an increasing number"
+    ],
+    [
+     "good for",
+     "beneficial to"
+    ],
+    [
+     "bad for",
+     "harmful to"
+    ],
+    [
+     "show",
+     "illustrate"
+    ],
+    [
+     "help",
+     "assist"
+    ],
+    [
+     "important",
+     "crucial"
+    ],
+    [
+     "get better",
+     "improve"
+    ],
+    [
+     "think",
+     "argue"
+    ]
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "TOPIC SENTENCE",
+     "bullets": [
+      "Starts each body paragraph.",
+      "States one main idea."
+     ],
+     "examples": [
+      "*Firstly*, exercise improves mental health."
+     ]
+    },
+    {
+     "heading": "SUPPORT",
+     "bullets": [
+      "Explain with reasons.",
+      "Add one example."
+     ],
+     "examples": [
+      "*For instance*, running reduces stress."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "title": "YOUR TURN!",
+   "question": "Which sentence gets a higher band?",
+   "options": [
+    "a) Many people use phones. Phones are bad.",
+    "b) *Excessive* phone use can *negatively affect* concentration."
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

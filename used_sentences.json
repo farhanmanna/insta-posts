@@ -908,6 +908,902 @@
     "MOREOVER / IN ADDITION / AS WELL AS",
     "INFORMAL / FORMAL (a lot of)"
    ]
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-22",
+   "slot": "evening",
+   "theme": "Housework",
+   "english": [
+    "Please sweep the floor.",
+    "Who will wash the dishes?",
+    "Hang the clothes to dry.",
+    "We have to clean the house today.",
+    "Go throw out the garbage."
+   ],
+   "question": "Bistar theek kar do"
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-22",
+   "slot": "noon",
+   "theme": "Excuses",
+   "english": [
+    "My network was down.",
+    "I completely forgot.",
+    "I got stuck in traffic.",
+    "My alarm didn't ring this morning.",
+    "My phone had switched off."
+   ],
+   "question": "Maine galti se delete kar diya"
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-23",
+   "slot": "evening",
+   "theme": "Sleep",
+   "english": [
+    "I'm feeling very sleepy.",
+    "Sleep early at night.",
+    "I'll wake up late tomorrow.",
+    "I didn't sleep a wink last night.",
+    "Turn off the light and sleep."
+   ],
+   "question": "Mujhe achha sapna aaya"
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-23",
+   "slot": "noon",
+   "theme": "Asking for Help",
+   "english": [
+    "Can you help me?",
+    "I didn't understand this.",
+    "Help me lift this heavy stuff.",
+    "Please show me the way.",
+    "I need your advice."
+   ],
+   "question": "Main yeh akela nahi kar sakta"
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-24",
+   "slot": "evening",
+   "theme": "Complaints",
+   "english": [
+    "This food is cold.",
+    "You gave me the wrong order.",
+    "There has been no water since last week.",
+    "I want to talk to the manager.",
+    "I want my money back."
+   ],
+   "question": "Yeh kaam abhi tak nahi hua"
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-24",
+   "slot": "noon",
+   "theme": "Planning a Picnic",
+   "english": [
+    "Let's go on a picnic this Sunday.",
+    "Who will bring the food?",
+    "We will play cricket in the park.",
+    "The weather is perfect for a picnic.",
+    "Don't forget the mat and water."
+   ],
+   "question": "Kitne log aa rahe hain"
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-25",
+   "slot": "evening",
+   "theme": "Doing Laundry",
+   "english": [
+    "Put the clothes in the washing machine.",
+    "The stain on this shirt won't go.",
+    "Iron the clothes.",
+    "Wash the white clothes separately.",
+    "Dry the clothes in the sun."
+   ],
+   "question": "Meri jeans abhi tak geeli hai"
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-25",
+   "slot": "noon",
+   "theme": "Auto Rickshaw",
+   "english": [
+    "How much to the station?",
+    "Go by the meter.",
+    "Stop right here.",
+    "You're taking the wrong route.",
+    "I don't have change."
+   ],
+   "question": "Thoda jaldi chalo"
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-26",
+   "slot": "evening",
+   "theme": "Surprises",
+   "english": [
+    "What a surprise!",
+    "I never even thought of it.",
+    "How did you get here?",
+    "I can't believe it.",
+    "This is a surprise for you."
+   ],
+   "question": "Apni aankhein band karo"
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-26",
+   "slot": "noon",
+   "theme": "Garden & Plants",
+   "english": [
+    "Water the plants.",
+    "The rose has bloomed.",
+    "We will plant a mango tree.",
+    "There are many mosquitoes in the garden.",
+    "Keep this plant in the sun."
+   ],
+   "question": "Mere ghar mein tulsi hai"
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-27",
+   "slot": "evening",
+   "theme": "Home Repairs",
+   "english": [
+    "The tap is leaking.",
+    "The bulb has fused.",
+    "Call the plumber.",
+    "I want to get the wall painted.",
+    "The door doesn't close properly."
+   ],
+   "question": "Mujhe ek hathoda chahiye"
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-27",
+   "slot": "noon",
+   "theme": "Dhaba Food",
+   "english": [
+    "Give me one plate of dal fry.",
+    "Bring hot rotis.",
+    "The food is very spicy.",
+    "Put less sugar in the tea.",
+    "How much is the bill?"
+   ],
+   "question": "Paani ki bottle de do"
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-28",
+   "slot": "evening",
+   "theme": "Late Night Study",
+   "english": [
+    "I have to study all night.",
+    "Make me a cup of tea.",
+    "I have a test tomorrow.",
+    "I can't memorise this chapter.",
+    "Let's take a short break."
+   ],
+   "question": "Mujhe ek sawaal poochna hai"
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-28",
+   "slot": "noon",
+   "theme": "Grandparents' House",
+   "english": [
+    "Grandma's cooking is delicious.",
+    "We are going to the village.",
+    "Grandpa tells us stories.",
+    "I miss my grandmother's house.",
+    "We stay there during holidays."
+   ],
+   "question": "Dadi ji ko phone lagao"
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-29",
+   "slot": "evening",
+   "theme": "Saying Thank You",
+   "english": [
+    "Thank you very much.",
+    "Thanks for your help.",
+    "There's no need to thank me.",
+    "I will never forget your kindness.",
+    "You helped me a lot."
+   ],
+   "question": "Chinta mat karo, main hoon na"
+  },
+  {
+   "channel": "english_speaking44",
+   "date": "2026-11-29",
+   "slot": "noon",
+   "theme": "Hobbies",
+   "english": [
+    "I love singing.",
+    "I read books in my free time.",
+    "What is your hobby?",
+    "I like taking photos.",
+    "I paint on weekends."
+   ],
+   "question": "Kya tumhe cricket pasand hai"
+  },
+  {
+   "channel": "learnenglishsentences",
+   "date": "2026-11-22",
+   "slot": "evening",
+   "theme": "Making Requests",
+   "english": [
+    "Can I ask you something?",
+    "Could you pass me some water?",
+    "Please do me a favour.",
+    "Please speak a little slower.",
+    "Could you explain this again?"
+   ],
+   "question": "Darwaza band kar do"
+  },
+  {
+   "channel": "learnenglishsentences",
+   "date": "2026-11-22",
+   "slot": "noon",
+   "theme": "Festivals",
+   "english": [
+    "Happy Diwali to you.",
+    "We will decorate the house with lamps.",
+    "How tasty the sweets are!",
+    "The kids are bursting firecrackers.",
+    "When is Holi this year?"
+   ],
+   "question": "Aap kal kya pehnoge"
+  },
+  {
+   "channel": "learnenglishsentences",
+   "date": "2026-11-23",
+   "slot": "evening",
+   "theme": "Health & Fitness",
+   "english": [
+    "I run every morning.",
+    "I want to reduce my belly fat.",
+    "Drink more water.",
+    "My leg is hurting.",
+    "I didn't go to the gym today."
+   ],
+   "question": "Yoga se mujhe aaram milta hai"
+  },
+  {
+   "channel": "learnenglishsentences",
+   "date": "2026-11-23",
+   "slot": "noon",
+   "theme": "College Life",
+   "english": [
+    "I have my first class tomorrow.",
+    "When is the assignment due?",
+    "I need your notes.",
+    "The library is very crowded.",
+    "How is your exam preparation going?"
+   ],
+   "question": "Main canteen ja raha hoon"
+  },
+  {
+   "channel": "learnenglishsentences",
+   "date": "2026-11-24",
+   "slot": "evening",
+   "theme": "Relationships",
+   "english": [
+    "We have been together for two years.",
+    "I miss you a lot.",
+    "Don't lie to me.",
+    "We trust each other.",
+    "You are a part of my life."
+   ],
+   "question": "Mujhe thoda waqt chahiye"
+  },
+  {
+   "channel": "learnenglishsentences",
+   "date": "2026-11-24",
+   "slot": "noon",
+   "theme": "Rain & Monsoon",
+   "english": [
+    "It's raining heavily outside.",
+    "Carry an umbrella with you.",
+    "My sandals got wet.",
+    "The road is flooded with water.",
+    "A cool breeze is blowing."
+   ],
+   "question": "Baarish kab rukegi"
+  },
+  {
+   "channel": "learnenglishsentences",
+   "date": "2026-11-25",
+   "slot": "evening",
+   "theme": "Electricity & Bills",
+   "english": [
+    "The power has been out since yesterday.",
+    "This month's bill is very high.",
+    "Turn off the fan.",
+    "The inverter battery has run out.",
+    "I have to pay the bill today."
+   ],
+   "question": "Light kab aayegi"
+  },
+  {
+   "channel": "learnenglishsentences",
+   "date": "2026-11-25",
+   "slot": "noon",
+   "theme": "Bus Travel",
+   "english": [
+    "When will the next bus come?",
+    "Does this bus go to Delhi?",
+    "I want a window seat.",
+    "Get a ticket from the conductor.",
+    "I have to get off at the next stop."
+   ],
+   "question": "Yeh bus bahut late hai"
+  },
+  {
+   "channel": "learnenglishsentences",
+   "date": "2026-11-26",
+   "slot": "evening",
+   "theme": "Mobile Phone Problems",
+   "english": [
+    "My phone is hanging.",
+    "The battery drains quickly.",
+    "The phone screen is broken.",
+    "There is no network on my phone.",
+    "Please charge my phone."
+   ],
+   "question": "Mera data khatam ho gaya"
+  },
+  {
+   "channel": "learnenglishsentences",
+   "date": "2026-11-26",
+   "slot": "noon",
+   "theme": "Pets",
+   "english": [
+    "My dog is very cute.",
+    "The cat drank all the milk.",
+    "I have to take him for a walk daily.",
+    "The dog is barking loudly.",
+    "Do you have a pet?"
+   ],
+   "question": "Isko khaana de do"
+  },
+  {
+   "channel": "learnenglishsentences",
+   "date": "2026-11-27",
+   "slot": "evening",
+   "theme": "Traffic",
+   "english": [
+    "There is heavy traffic on the road today.",
+    "The signal turned red.",
+    "Drive the car slowly.",
+    "I can't find parking.",
+    "Don't forget to wear a helmet."
+   ],
+   "question": "Yeh rasta band hai kya"
+  },
+  {
+   "channel": "learnenglishsentences",
+   "date": "2026-11-27",
+   "slot": "noon",
+   "theme": "Giving Advice",
+   "english": [
+    "You should see a doctor.",
+    "Don't get angry so quickly.",
+    "If you listen to me, wait.",
+    "Be patient, everything will be fine.",
+    "Think first, then speak."
+   ],
+   "question": "Mujhe kya karna chahiye"
+  },
+  {
+   "channel": "learnenglishsentences",
+   "date": "2026-11-28",
+   "slot": "evening",
+   "theme": "Lost & Found",
+   "english": [
+    "I have lost my wallet.",
+    "Where is my key?",
+    "Have you seen my bag?",
+    "I found this on the road.",
+    "Where is the lost and found office?"
+   ],
+   "question": "Main apna phone dhoondh raha hoon"
+  },
+  {
+   "channel": "learnenglishsentences",
+   "date": "2026-11-28",
+   "slot": "noon",
+   "theme": "Birthday Party",
+   "english": [
+    "Happy birthday!",
+    "I'm having a party tomorrow, do come.",
+    "Who will cut the cake?",
+    "I have brought a gift for you.",
+    "Blow out the candles and make a wish."
+   ],
+   "question": "Zara photo kheench do"
+  },
+  {
+   "channel": "learnenglishsentences",
+   "date": "2026-11-29",
+   "slot": "evening",
+   "theme": "Telling Time",
+   "english": [
+    "What time is it now?",
+    "The meeting is at three o'clock.",
+    "I'm getting late.",
+    "I'll reach in ten minutes.",
+    "Be on time."
+   ],
+   "question": "Meri ghadi band ho gayi"
+  },
+  {
+   "channel": "learnenglishsentences",
+   "date": "2026-11-29",
+   "slot": "noon",
+   "theme": "Packing for a Trip",
+   "english": [
+    "Pack your luggage.",
+    "Keep your ticket and ID with you.",
+    "Don't forget to pack the charger.",
+    "My suitcase is very heavy.",
+    "We will leave tomorrow morning."
+   ],
+   "question": "Tumhe kitne din ke liye jaana hai"
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-22",
+   "slot": "noon",
+   "theme": "Take off, May vs Might, Hit the road and more",
+   "english": [
+    "Take off",
+    "May vs Might",
+    "Hit the road",
+    "Their / There / They're",
+    "Run into"
+   ],
+   "question": "Which one is correct? a) The plane *took off* at noon. b) The plane *took out* at noon."
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-22",
+   "slot": "evening",
+   "theme": "Turn up, Hope vs Wish, Cut to the chase and more",
+   "english": [
+    "Turn up",
+    "Hope vs Wish",
+    "Cut to the chase",
+    "Hold on",
+    "Quiet vs Quite"
+   ],
+   "question": "Fill the gap: 'The library is very ___.' a) quiet b) quite"
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-23",
+   "slot": "noon",
+   "theme": "Look out, Who vs Whom, Kill two birds with one stone",
+   "english": [
+    "Look out",
+    "Kill two birds with one stone",
+    "Who vs Whom",
+    "Check in",
+    "This / That / These"
+   ],
+   "question": "What does 'Look out!' mean? a) Be careful! b) Look outside!"
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-23",
+   "slot": "evening",
+   "theme": "Put on, Jump on the bandwagon, Whether vs Weather",
+   "english": [
+    "Put on",
+    "Whether vs Weather",
+    "Jump on the bandwagon",
+    "Pass out",
+    "Fun vs Funny"
+   ],
+   "question": "Fill the gap: 'I don't know ___ he will come.' a) weather b) whether"
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-24",
+   "slot": "noon",
+   "theme": "Come up with, Other vs Another, Back to square one",
+   "english": [
+    "Come up with",
+    "Other vs Another",
+    "Back to square one",
+    "In / On / At (time)",
+    "Sleep on it"
+   ],
+   "question": "Which one is correct? a) The meeting is *at* Monday. b) The meeting is *on* Monday."
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-24",
+   "slot": "evening",
+   "theme": "Barking up the wrong tree, Wake up vs Get up, Cheer up",
+   "english": [
+    "Bark up the wrong tree",
+    "Wake up vs Get up",
+    "Cheer up",
+    "Rent vs Hire",
+    "Hang in there"
+   ],
+   "question": "Which one is correct? 'You're ___ the wrong tree.' a) barking up b) barking at"
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-25",
+   "slot": "noon",
+   "theme": "Take care of, Easier said than done, Learn vs Teach",
+   "english": [
+    "Take care of",
+    "Easier said than done",
+    "Learn vs Teach",
+    "Too / Very / Enough",
+    "Slow down"
+   ],
+   "question": "Fill the gap: 'I can't buy it. It's ___ expensive.' a) too b) enough"
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-25",
+   "slot": "evening",
+   "theme": "Pull over, Used to vs Be used to, Hit the jackpot",
+   "english": [
+    "Pull over",
+    "Used to vs Be used to",
+    "Hit the jackpot",
+    "Late vs Lately",
+    "Hand in"
+   ],
+   "question": "Which one is correct? a) I *used to* waking up late. b) I'm *used to* waking up late."
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-26",
+   "slot": "noon",
+   "theme": "Fill up, Hard vs Hardly, Bite off more than you can chew",
+   "english": [
+    "Fill up",
+    "Hard vs Hardly",
+    "Bite off more than you can chew",
+    "To / Too / Two",
+    "Zoom in"
+   ],
+   "question": "Fill the gap: 'I can ___ hear you. Speak louder!' a) hard b) hardly"
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-26",
+   "slot": "evening",
+   "theme": "Log in, Wait vs Expect, Out of the blue and more",
+   "english": [
+    "Log in",
+    "Wait vs Expect",
+    "Out of the blue",
+    "Show off",
+    "Stay vs Live"
+   ],
+   "question": "Which one is correct? a) I *wait* rain today. b) I *expect* rain today."
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-27",
+   "slot": "noon",
+   "theme": "Work on, Cry over spilled milk, Whose vs Who's",
+   "english": [
+    "Work on",
+    "Cry over spilled milk",
+    "Whose vs Who's",
+    "Journey / Trip / Travel",
+    "Wrap up"
+   ],
+   "question": "Which one is correct? a) *Whose* knocking at the door? b) *Who's* knocking at the door?"
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-27",
+   "slot": "evening",
+   "theme": "Take over, Passed vs Past, Under the radar and more",
+   "english": [
+    "Take over",
+    "Passed vs Past",
+    "Under the radar",
+    "Pull yourself together",
+    "Break vs Brake"
+   ],
+   "question": "Fill the gap: 'She ___ the exam with top marks.' a) passed b) past"
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-28",
+   "slot": "noon",
+   "theme": "Keep your fingers crossed, Dress up, Alone vs Lonely",
+   "english": [
+    "Keep your fingers crossed",
+    "Dress up",
+    "Alone vs Lonely",
+    "Get the hang of it",
+    "Win / Beat / Lose"
+   ],
+   "question": "Which one is correct? a) We *won* the other team. b) We *beat* the other team."
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-28",
+   "slot": "evening",
+   "theme": "Go ahead, Sometime vs Sometimes, Learn the ropes",
+   "english": [
+    "Go ahead",
+    "Sometime vs Sometimes",
+    "Learn the ropes",
+    "Blow up",
+    "Special vs Specially"
+   ],
+   "question": "Which one is correct? a) I *sometime* eat out. b) I *sometimes* eat out."
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-29",
+   "slot": "noon",
+   "theme": "Point out, Play it by ear, Little vs A little and more",
+   "english": [
+    "Point out",
+    "Play it by ear",
+    "Little vs A little",
+    "Where / Were / We're",
+    "Stand out"
+   ],
+   "question": "Fill the gap: 'There's ___ milk left, so buy more.' a) little b) a little"
+  },
+  {
+   "channel": "phrasalidiomatic",
+   "date": "2026-11-29",
+   "slot": "evening",
+   "theme": "Think outside the box, Turn off, Fast vs Quickly and more",
+   "english": [
+    "Think outside the box",
+    "Turn off",
+    "Fast vs Quickly",
+    "Get out of hand",
+    "Emigrate vs Immigrate"
+   ],
+   "question": "Which one is correct? a) *Turn off* the TV when you leave. b) *Turn out* the TV when you leave."
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-22",
+   "slot": "noon",
+   "theme": "Writing Task 2: cause and effect",
+   "english": [
+    "AS A RESULT / THEREFORE / CONSEQUENTLY",
+    "CAUSE AND EFFECT VERBS",
+    "TASK 2 OPENERS",
+    "SIMPLE / UPGRADE",
+    "TOPIC SENTENCE / SUPPORT"
+   ],
+   "question": "Which sentence gets a higher band? a) Many people use phones. Phones are bad. b) *Excessive* phone use can *negatively affect* concentration."
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-22",
+   "slot": "evening",
+   "theme": "Sport topic",
+   "english": [
+    "SPORT COLLOCATIONS",
+    "COMPETITIVE / COMPETITION",
+    "SPORTS VERBS",
+    "COMMON / BETTER",
+    "INTRO / DETAILS / WHY"
+   ],
+   "question": "Fill the gap: 'Sport can ___ teamwork among students.' a) promote b) prohibit"
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-23",
+   "slot": "noon",
+   "theme": "Money and business",
+   "english": [
+    "MONEY / FORMAL",
+    "MONEY WORDS",
+    "SALARY / WAGE",
+    "MONEY COLLOCATIONS",
+    "OPINION / REASON / EXAMPLE"
+   ],
+   "question": "Which collocation is correct? a) make a profit b) do a profit"
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-23",
+   "slot": "evening",
+   "theme": "Housing and buildings",
+   "english": [
+    "HOME WORDS",
+    "HOUSE / HOME",
+    "LOCATION / SIZE / FEELING",
+    "POOR / STRONG",
+    "URBAN WORDS"
+   ],
+   "question": "Which sentence gets a higher band? a) The flat is very big. b) The flat is *spacious*."
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-24",
+   "slot": "noon",
+   "theme": "Arts and culture",
+   "english": [
+    "ARTS WORDS",
+    "CULTURE COLLOCATIONS",
+    "HISTORIC / HISTORICAL",
+    "WHAT / STORY / OPINION",
+    "BASIC / STRONGER"
+   ],
+   "question": "Fill the gap: 'We should ___ our cultural heritage for future generations.' a) preserve b) prepare"
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-24",
+   "slot": "evening",
+   "theme": "Science and space",
+   "english": [
+    "DISCOVER / INVENT",
+    "SCIENCE WORDS",
+    "SPACE WORDS",
+    "I BELIEVE / IT SEEMS TO ME / AS I SEE IT",
+    "SCIENCE VERBS"
+   ],
+   "question": "Which one is correct? a) Bell *discovered* the telephone. b) Bell *invented* the telephone."
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-25",
+   "slot": "noon",
+   "theme": "Transport topic",
+   "english": [
+    "TRANSPORT COLLOCATIONS",
+    "FARE / FEE",
+    "TRAFFIC WORDS",
+    "PROBLEM / SOLUTION",
+    "ONE SOLUTION / ANOTHER / RESULT"
+   ],
+   "question": "Which sentence is correct? a) The bus *fee* is low. b) The bus *fare* is low."
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-25",
+   "slot": "evening",
+   "theme": "Advertising and shopping",
+   "english": [
+    "ADVERTISING WORDS",
+    "SHOPPING / IELTS STYLE",
+    "EFFECTIVE / EFFICIENT",
+    "ADVERT COLLOCATIONS",
+    "FOR / AGAINST / MY VIEW"
+   ],
+   "question": "Which sentence gets a higher band? a) Ads make people buy lots of things. b) Advertising *influences* consumer *choices*."
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-26",
+   "slot": "noon",
+   "theme": "Friendship and relationships",
+   "english": [
+    "RELATIONSHIP PHRASES",
+    "FRIEND WORDS",
+    "RELATIONSHIP / RELATION",
+    "WHO / WHAT / WHY",
+    "PERSONALITY / BAND 7+"
+   ],
+   "question": "Which sentence gets a higher band? a) She is kind and helps me. b) She is *compassionate* and *supportive*."
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-26",
+   "slot": "evening",
+   "theme": "Clothes and fashion",
+   "english": [
+    "FASHION WORDS",
+    "WEAR / PUT ON",
+    "CLOTHES COLLOCATIONS",
+    "SIMPLE / BETTER",
+    "PRO / CON / MY STANCE"
+   ],
+   "question": "Which one is correct? a) She *puts on* glasses every day. b) She *wears* glasses every day."
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-27",
+   "slot": "noon",
+   "theme": "Language and communication",
+   "english": [
+    "LANGUAGE WORDS",
+    "LANGUAGE COLLOCATIONS",
+    "LEARN / STUDY",
+    "WEAK / STRONG",
+    "BECAUSE / THE REASON IS / DUE TO"
+   ],
+   "question": "Fill the gap: 'She is ___ in three languages.' a) fluent b) fluently"
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-27",
+   "slot": "evening",
+   "theme": "Water and energy",
+   "english": [
+    "ENERGY WORDS",
+    "SOURCE / RESOURCE",
+    "WATER WORDS",
+    "GOVERNMENTS / COMPANIES / INDIVIDUALS",
+    "CAUSE / EFFECT"
+   ],
+   "question": "Fill the gap: 'Coal is a major ___ of energy.' a) source b) resource"
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-28",
+   "slot": "noon",
+   "theme": "History and storytelling",
+   "english": [
+    "PAST SIMPLE / PRESENT PERFECT",
+    "STORY WORDS",
+    "WHAT & WHEN / WHO & WHERE / HOW I FELT",
+    "PRESENT / PAST",
+    "STORY LINKERS"
+   ],
+   "question": "Which one is correct? a) I *have visited* Agra in 2019. b) I *visited* Agra in 2019."
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-28",
+   "slot": "evening",
+   "theme": "Animals and nature",
+   "english": [
+    "NATURE WORDS",
+    "ENDANGERED / EXTINCT",
+    "ANIMAL WORDS",
+    "FOR ZOOS / AGAINST ZOOS / MY VIEW",
+    "SIMPLE / PRECISE"
+   ],
+   "question": "Fill the gap: 'The dodo is ___; no one has seen one for centuries.' a) extinct b) endangered"
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-29",
+   "slot": "noon",
+   "theme": "Weather and climate",
+   "english": [
+    "CLIMATE WORDS",
+    "WEATHER LANGUAGE",
+    "GLOBAL WARMING / CLIMATE CHANGE",
+    "LIKE / DISLIKE / EFFECT",
+    "ADJECTIVE / STRONGER"
+   ],
+   "question": "Which word means 'extremely hot'? a) chilly b) scorching"
+  },
+  {
+   "channel": "tip4ielts",
+   "date": "2026-11-29",
+   "slot": "evening",
+   "theme": "Speaking tips and grammar",
+   "english": [
+    "ANSWER / EXTEND / STOP",
+    "WORD PARTNERS",
+    "SO / SUCH",
+    "BAND 7 PHRASES",
+    "MISTAKE / FIX"
+   ],
+   "question": "Which sentence is correct? a) I *agree* with you. b) I am *agree* with you."
   }
  ]
 }

@@ -1,0 +1,32 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Late Night Study",
+ "slides": [
+  {
+   "hindi": "Mujhe raat bhar padhna hai",
+   "english": "I have to study all night."
+  },
+  {
+   "hindi": "Ek cup chai bana do",
+   "english": "Make me a cup of tea."
+  },
+  {
+   "hindi": "Kal mera test hai",
+   "english": "I have a test tomorrow."
+  },
+  {
+   "hindi": "Mujhse yeh chapter yaad nahi ho raha",
+   "english": "I can't memorise this chapter."
+  },
+  {
+   "hindi": "Thoda break lete hain",
+   "english": "Let's take a short break."
+  }
+ ],
+ "question": {
+  "hindi": "Mujhe ek sawaal poochna hai",
+  "prompt": "How do you say this in English?"
+ }
+}

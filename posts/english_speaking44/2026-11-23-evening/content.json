@@ -1,0 +1,32 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Sleep",
+ "slides": [
+  {
+   "hindi": "Mujhe bahut neend aa rahi hai",
+   "english": "I'm feeling very sleepy."
+  },
+  {
+   "hindi": "Raat ko jaldi so jao",
+   "english": "Sleep early at night."
+  },
+  {
+   "hindi": "Main kal der se uthunga",
+   "english": "I'll wake up late tomorrow."
+  },
+  {
+   "hindi": "Raat bhar mujhe neend nahi aayi",
+   "english": "I didn't sleep a wink last night."
+  },
+  {
+   "hindi": "Light band karke so jao",
+   "english": "Turn off the light and sleep."
+  }
+ ],
+ "question": {
+  "hindi": "Mujhe achha sapna aaya",
+  "prompt": "How do you say this in English?"
+ }
+}

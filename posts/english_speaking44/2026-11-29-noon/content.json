@@ -1,0 +1,32 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Hobbies",
+ "slides": [
+  {
+   "hindi": "Mujhe gaana gaane ka shauk hai",
+   "english": "I love singing."
+  },
+  {
+   "hindi": "Main khaali waqt mein kitaabein padhta hoon",
+   "english": "I read books in my free time."
+  },
+  {
+   "hindi": "Tumhari hobby kya hai",
+   "english": "What is your hobby?"
+  },
+  {
+   "hindi": "Mujhe photo kheenchna pasand hai",
+   "english": "I like taking photos."
+  },
+  {
+   "hindi": "Main weekend par painting karta hoon",
+   "english": "I paint on weekends."
+  }
+ ],
+ "question": {
+  "hindi": "Kya tumhe cricket pasand hai",
+  "prompt": "How do you say this in English?"
+ }
+}

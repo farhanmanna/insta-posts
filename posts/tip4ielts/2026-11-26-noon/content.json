@@ -1,0 +1,185 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Friendship and relationships",
+ "pages": [
+  {
+   "type": "list",
+   "title": "RELATIONSHIP PHRASES",
+   "tag": "=",
+   "rows": [
+    [
+     "get on with",
+     "be friendly"
+    ],
+    [
+     "fall out",
+     "argue"
+    ],
+    [
+     "lose touch",
+     "stop contact"
+    ],
+    [
+     "bond with",
+     "connect with"
+    ],
+    [
+     "rely on",
+     "depend on"
+    ],
+    [
+     "look up to",
+     "admire"
+    ],
+    [
+     "drift apart",
+     "grow distant"
+    ],
+    [
+     "make up",
+     "reconcile"
+    ],
+    [
+     "break up",
+     "end romance"
+    ],
+    [
+     "team up",
+     "work together"
+    ]
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "FRIEND WORDS",
+   "items": [
+    {
+     "word": "acquaintance",
+     "meaning": "someone you know slightly",
+     "example": "He's an *acquaintance*, not a friend."
+    },
+    {
+     "word": "companion",
+     "meaning": "a person you spend time with",
+     "example": "A dog is a loyal *companion*."
+    },
+    {
+     "word": "peer",
+     "meaning": "someone of your age or level",
+     "example": "*Peer* pressure affects teenagers."
+    }
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "RELATIONSHIP",
+     "bullets": [
+      "Connection between people.",
+      "Often about feelings."
+     ],
+     "examples": [
+      "They have a close *relationship*."
+     ]
+    },
+    {
+     "heading": "RELATION",
+     "bullets": [
+      "Link between things.",
+      "Or a family member."
+     ],
+     "examples": [
+      "There is a *relation* between sleep and health."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "WHO",
+     "bullets": [
+      "Name and how you met.",
+      "Be specific."
+     ],
+     "example": "*I met* Riya in college."
+    },
+    {
+     "heading": "WHAT",
+     "bullets": [
+      "Describe personality.",
+      "Use two adjectives."
+     ],
+     "example": "She is *generous* and *funny*."
+    },
+    {
+     "heading": "WHY",
+     "bullets": [
+      "Explain why important.",
+      "Give an example."
+     ],
+     "example": "She *supported* me during exams."
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "PERSONALITY",
+   "right": "BAND 7+",
+   "rows": [
+    [
+     "kind",
+     "compassionate"
+    ],
+    [
+     "shy",
+     "reserved"
+    ],
+    [
+     "friendly",
+     "approachable"
+    ],
+    [
+     "lazy",
+     "idle"
+    ],
+    [
+     "honest",
+     "sincere"
+    ],
+    [
+     "clever",
+     "intelligent"
+    ],
+    [
+     "angry",
+     "furious"
+    ],
+    [
+     "funny",
+     "witty"
+    ],
+    [
+     "helpful",
+     "supportive"
+    ],
+    [
+     "serious",
+     "earnest"
+    ]
+   ]
+  },
+  {
+   "type": "question",
+   "title": "YOUR TURN!",
+   "question": "Which sentence gets a higher band?",
+   "options": [
+    "a) She is kind and helps me.",
+    "b) She is *compassionate* and *supportive*."
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

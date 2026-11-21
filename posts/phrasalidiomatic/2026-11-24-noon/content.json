@@ -1,0 +1,112 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Come up with, Other vs Another, Back to square one",
+ "pages": [
+  {
+   "title": "Come up with",
+   "meaning": "to think of an idea",
+   "synonym": "think of; invent",
+   "examples": [
+    "She *came up with* a plan.",
+    "Can you *come up with* a name?"
+   ],
+   "tip": [
+    "come up with -> invent"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "steps",
+   "title": "Other vs Another",
+   "intro": "Another = one more.",
+   "left": {
+    "label": "Another",
+    "examples": [
+     "Have *another* cup.",
+     "*Another* day."
+    ],
+    "note": "One more (singular)"
+   },
+   "right": {
+    "label": "Other",
+    "examples": [
+     "The *other* book.",
+     "*Other* people."
+    ],
+    "note": "The rest / different"
+   },
+   "tip": [
+    "another = an + other",
+    "other + plural noun"
+   ]
+  },
+  {
+   "title": "Back to square one",
+   "meaning": "to start again from the beginning",
+   "synonym": "start over",
+   "examples": [
+    "The plan failed: *back to square one*.",
+    "Now we're *back to square one*."
+   ],
+   "tip": [
+    "Idiom: all progress lost"
+   ]
+  },
+  {
+   "type": "three",
+   "title": "In / On / At (time)",
+   "intro": "Pick the right small word.",
+   "columns": [
+    {
+     "label": "In",
+     "examples": [
+      "*in* May",
+      "*in* 2026"
+     ],
+     "note": "Months, years"
+    },
+    {
+     "label": "On",
+     "examples": [
+      "*on* Monday",
+      "*on* my birthday"
+     ],
+     "note": "Days, dates"
+    },
+    {
+     "label": "At",
+     "examples": [
+      "*at* 5 pm",
+      "*at* night"
+     ],
+     "note": "Clock time"
+    }
+   ],
+   "tip": [
+    "in -> long, on -> day, at -> exact"
+   ]
+  },
+  {
+   "title": "Sleep on it",
+   "meaning": "to wait overnight before deciding",
+   "synonym": "think it over",
+   "examples": [
+    "Let me *sleep on it*.",
+    "I'll *sleep on it* tonight."
+   ],
+   "tip": [
+    "Idiom: decide tomorrow"
+   ]
+  },
+  {
+   "type": "question",
+   "title": "Your turn!",
+   "question": "Which one is correct?",
+   "options": [
+    "a) The meeting is *at* Monday.",
+    "b) The meeting is *on* Monday."
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

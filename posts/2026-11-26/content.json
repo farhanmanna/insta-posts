@@ -1,0 +1,32 @@
+{
+ "handle": "learnenglishsentences",
+ "website": "www.englishsentences.in",
+ "header": "Daily use English Sentences",
+ "theme": "Mobile Phone Problems",
+ "slides": [
+  {
+   "hindi": "Mera phone hang ho raha hai",
+   "english": "My phone is hanging."
+  },
+  {
+   "hindi": "Battery jaldi khatam ho jaati hai",
+   "english": "The battery drains quickly."
+  },
+  {
+   "hindi": "Phone ki screen toot gayi",
+   "english": "The phone screen is broken."
+  },
+  {
+   "hindi": "Mere phone mein network nahi hai",
+   "english": "There is no network on my phone."
+  },
+  {
+   "hindi": "Mera phone charge kar do",
+   "english": "Please charge my phone."
+  }
+ ],
+ "question": {
+  "hindi": "Mera data khatam ho gaya",
+  "prompt": "How do you say this in English?"
+ }
+}

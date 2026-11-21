@@ -1,0 +1,112 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Take off, May vs Might, Hit the road and more",
+ "pages": [
+  {
+   "title": "Take off",
+   "meaning": "to leave the ground, or to remove clothes",
+   "synonym": "depart; remove",
+   "examples": [
+    "The plane *took off* on time.",
+    "*Take off* your shoes, please."
+   ],
+   "tip": [
+    "take off -> remove / leave the ground"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "divider",
+   "title": "May vs Might",
+   "intro": "Both show possibility.",
+   "left": {
+    "label": "May",
+    "examples": [
+     "It *may* rain today.",
+     "She *may* come."
+    ],
+    "note": "Quite possible"
+   },
+   "right": {
+    "label": "Might",
+    "examples": [
+     "It *might* rain.",
+     "I *might* be late."
+    ],
+    "note": "Less sure"
+   },
+   "tip": [
+    "may -> more likely",
+    "might -> less likely"
+   ]
+  },
+  {
+   "title": "Hit the road",
+   "meaning": "to start a journey",
+   "synonym": "set off",
+   "examples": [
+    "Let's *hit the road* by six.",
+    "We *hit the road* at dawn."
+   ],
+   "tip": [
+    "Idiom: informal"
+   ]
+  },
+  {
+   "type": "three",
+   "title": "Their / There / They're",
+   "intro": "Same sound, three jobs.",
+   "columns": [
+    {
+     "label": "Their",
+     "examples": [
+      "*Their* car",
+      "*Their* house"
+     ],
+     "note": "Belongs to them"
+    },
+    {
+     "label": "There",
+     "examples": [
+      "*There* is a bus",
+      "Over *there*"
+     ],
+     "note": "A place / exists"
+    },
+    {
+     "label": "They're",
+     "examples": [
+      "*They're* late",
+      "*They're* here"
+     ],
+     "note": "They are"
+    }
+   ],
+   "tip": [
+    "they're -> they are"
+   ]
+  },
+  {
+   "title": "Run into",
+   "meaning": "to meet by chance",
+   "synonym": "bump into",
+   "examples": [
+    "I *ran into* my teacher.",
+    "We *ran into* each other."
+   ],
+   "tip": [
+    "run into -> meet by chance"
+   ]
+  },
+  {
+   "type": "question",
+   "title": "Your turn!",
+   "question": "Which one is correct?",
+   "options": [
+    "a) The plane *took off* at noon.",
+    "b) The plane *took out* at noon."
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

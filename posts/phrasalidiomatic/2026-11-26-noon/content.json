@@ -1,0 +1,112 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Fill up, Hard vs Hardly, Bite off more than you can chew",
+ "pages": [
+  {
+   "title": "Fill up",
+   "meaning": "to make something full",
+   "synonym": "top up",
+   "examples": [
+    "*Fill up* the water bottle.",
+    "We *filled up* at the petrol pump."
+   ],
+   "tip": [
+    "fill up -> make full; fill in -> write"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "steps",
+   "title": "Hard vs Hardly",
+   "intro": "Careful: hardly is NOT 'very hard'.",
+   "left": {
+    "label": "Hard",
+    "examples": [
+     "I work *hard*.",
+     "It's *hard* work."
+    ],
+    "note": "With effort"
+   },
+   "right": {
+    "label": "Hardly",
+    "examples": [
+     "I *hardly* know him.",
+     "*Hardly* ever."
+    ],
+    "note": "Almost not"
+   },
+   "tip": [
+    "hard -> with effort",
+    "hardly -> almost not"
+   ]
+  },
+  {
+   "title": "Bite off more than you can chew",
+   "meaning": "to take on too much",
+   "synonym": "overcommit",
+   "examples": [
+    "Don't *bite off more than you can chew*.",
+    "He *bit off more than he could chew*."
+   ],
+   "tip": [
+    "Idiom: too much work"
+   ]
+  },
+  {
+   "type": "three",
+   "title": "To / Too / Two",
+   "intro": "Same sound, three meanings.",
+   "columns": [
+    {
+     "label": "To",
+     "examples": [
+      "go *to* school",
+      "*to* eat"
+     ],
+     "note": "Direction, verb"
+    },
+    {
+     "label": "Too",
+     "examples": [
+      "*too* big",
+      "Me *too*"
+     ],
+     "note": "Also, excessive"
+    },
+    {
+     "label": "Two",
+     "examples": [
+      "*two* tea cups",
+      "*two* days"
+     ],
+     "note": "The number 2"
+    }
+   ],
+   "tip": [
+    "too -> also / too much"
+   ]
+  },
+  {
+   "title": "Zoom in",
+   "meaning": "to focus closer on something",
+   "synonym": "magnify",
+   "examples": [
+    "*Zoom in* on the map.",
+    "*Zoom in* to see the text."
+   ],
+   "tip": [
+    "zoom out -> see more"
+   ]
+  },
+  {
+   "type": "question",
+   "title": "Your turn!",
+   "question": "Fill the gap: 'I can ___ hear you. Speak louder!'",
+   "options": [
+    "a) hard",
+    "b) hardly"
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

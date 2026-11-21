@@ -1,0 +1,104 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Turn up, Hope vs Wish, Cut to the chase and more",
+ "pages": [
+  {
+   "title": "Turn up",
+   "meaning": "to arrive, often unexpectedly",
+   "synonym": "show up; appear",
+   "examples": [
+    "He *turned up* an hour late.",
+    "Guests *turned up* unannounced."
+   ],
+   "tip": [
+    "turn up (volume) -> increase"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "circles",
+   "title": "Hope vs Wish",
+   "intro": "Real chance or just a dream?",
+   "left": {
+    "label": "Hope",
+    "examples": [
+     "I *hope* it works.",
+     "I *hope* you win."
+    ],
+    "note": "Possible"
+   },
+   "right": {
+    "label": "Wish",
+    "examples": [
+     "I *wish* I could fly.",
+     "I *wish* I were taller."
+    ],
+    "note": "Unreal or unlikely"
+   },
+   "tip": [
+    "hope -> real chance",
+    "wish -> imaginary"
+   ]
+  },
+  {
+   "title": "Cut to the chase",
+   "meaning": "to get to the main point",
+   "synonym": "get to the point",
+   "examples": [
+    "Let's *cut to the chase*.",
+    "*Cut to the chase*, please."
+   ],
+   "tip": [
+    "Idiom: skip the small talk"
+   ]
+  },
+  {
+   "title": "Hold on",
+   "meaning": "to wait a moment",
+   "synonym": "wait",
+   "examples": [
+    "*Hold on*, I'm coming.",
+    "*Hold on* to the rope."
+   ],
+   "tip": [
+    "hold on to -> grip"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "steps",
+   "title": "Quiet vs Quite",
+   "intro": "Two letters swap, the meaning changes.",
+   "left": {
+    "label": "Quiet",
+    "examples": [
+     "A *quiet* room.",
+     "Please be *quiet*."
+    ],
+    "note": "Silent"
+   },
+   "right": {
+    "label": "Quite",
+    "examples": [
+     "It's *quite* good.",
+     "*Quite* a lot."
+    ],
+    "note": "Fairly / very"
+   },
+   "tip": [
+    "quiet -> silent",
+    "quite -> fairly"
+   ]
+  },
+  {
+   "type": "question",
+   "title": "Your turn!",
+   "question": "Fill the gap: 'The library is very ___.'",
+   "options": [
+    "a) quiet",
+    "b) quite"
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

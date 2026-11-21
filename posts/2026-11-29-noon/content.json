@@ -1,0 +1,32 @@
+{
+ "handle": "learnenglishsentences",
+ "website": "www.englishsentences.in",
+ "header": "Daily use English Sentences",
+ "theme": "Packing for a Trip",
+ "slides": [
+  {
+   "hindi": "Apna saaman pack kar lo",
+   "english": "Pack your luggage."
+  },
+  {
+   "hindi": "Ticket aur ID saath rakhna",
+   "english": "Keep your ticket and ID with you."
+  },
+  {
+   "hindi": "Charger rakhna mat bhoolna",
+   "english": "Don't forget to pack the charger."
+  },
+  {
+   "hindi": "Mera suitcase bahut bhaari hai",
+   "english": "My suitcase is very heavy."
+  },
+  {
+   "hindi": "Hum kal subah nikalenge",
+   "english": "We will leave tomorrow morning."
+  }
+ ],
+ "question": {
+  "hindi": "Tumhe kitne din ke liye jaana hai",
+  "prompt": "How do you say this in English?"
+ }
+}

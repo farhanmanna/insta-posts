@@ -1,0 +1,185 @@
+{
+ "handle": "tip4ielts",
+ "theme": "History and storytelling",
+ "pages": [
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "PAST SIMPLE",
+     "bullets": [
+      "Finished time in the past.",
+      "Use with yesterday, ago."
+     ],
+     "examples": [
+      "I *visited* Agra in 2019."
+     ]
+    },
+    {
+     "heading": "PRESENT PERFECT",
+     "bullets": [
+      "Past linked to now.",
+      "Use with ever, never, yet."
+     ],
+     "examples": [
+      "I *have visited* Agra twice."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "STORY WORDS",
+   "items": [
+    {
+     "word": "memorable",
+     "meaning": "worth remembering",
+     "example": "It was a *memorable* trip."
+    },
+    {
+     "word": "unforgettable",
+     "meaning": "impossible to forget",
+     "example": "The view was *unforgettable*."
+    },
+    {
+     "word": "overwhelmed",
+     "meaning": "feeling too much emotion",
+     "example": "I felt *overwhelmed* with joy."
+    }
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "WHAT & WHEN",
+     "bullets": [
+      "Say what happened.",
+      "Say when."
+     ],
+     "example": "It happened *two years ago*."
+    },
+    {
+     "heading": "WHO & WHERE",
+     "bullets": [
+      "Mention people.",
+      "Mention the place."
+     ],
+     "example": "I was in Goa *with my cousins*."
+    },
+    {
+     "heading": "HOW I FELT",
+     "bullets": [
+      "End with feelings.",
+      "Say why it mattered."
+     ],
+     "example": "I felt proud *because* I tried hard."
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "PRESENT",
+   "right": "PAST",
+   "rows": [
+    [
+     "begin",
+     "began"
+    ],
+    [
+     "choose",
+     "chose"
+    ],
+    [
+     "forget",
+     "forgot"
+    ],
+    [
+     "hide",
+     "hid"
+    ],
+    [
+     "steal",
+     "stole"
+    ],
+    [
+     "wake",
+     "woke"
+    ],
+    [
+     "bite",
+     "bit"
+    ],
+    [
+     "shake",
+     "shook"
+    ],
+    [
+     "swim",
+     "swam"
+    ],
+    [
+     "throw",
+     "threw"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "title": "STORY LINKERS",
+   "tag": "+",
+   "rows": [
+    [
+     "a few years",
+     "ago"
+    ],
+    [
+     "at the",
+     "time"
+    ],
+    [
+     "in the",
+     "end"
+    ],
+    [
+     "all of a",
+     "sudden"
+    ],
+    [
+     "from then",
+     "on"
+    ],
+    [
+     "at that",
+     "moment"
+    ],
+    [
+     "the next",
+     "day"
+    ],
+    [
+     "not long",
+     "after"
+    ],
+    [
+     "in the",
+     "beginning"
+    ],
+    [
+     "by the",
+     "time"
+    ]
+   ]
+  },
+  {
+   "type": "question",
+   "title": "YOUR TURN!",
+   "question": "Which one is correct?",
+   "options": [
+    "a) I *have visited* Agra in 2019.",
+    "b) I *visited* Agra in 2019."
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

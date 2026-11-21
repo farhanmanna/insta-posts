@@ -1,0 +1,32 @@
+{
+ "handle": "learnenglishsentences",
+ "website": "www.englishsentences.in",
+ "header": "Daily use English Sentences",
+ "theme": "Giving Advice",
+ "slides": [
+  {
+   "hindi": "Tumhe doctor ko dikhana chahiye",
+   "english": "You should see a doctor."
+  },
+  {
+   "hindi": "Itni jaldi gussa mat karo",
+   "english": "Don't get angry so quickly."
+  },
+  {
+   "hindi": "Meri maano toh ruk jao",
+   "english": "If you listen to me, wait."
+  },
+  {
+   "hindi": "Sabr rakho, sab theek hoga",
+   "english": "Be patient, everything will be fine."
+  },
+  {
+   "hindi": "Pehle soch lo, phir bolo",
+   "english": "Think first, then speak."
+  }
+ ],
+ "question": {
+  "hindi": "Mujhe kya karna chahiye",
+  "prompt": "How do you say this in English?"
+ }
+}

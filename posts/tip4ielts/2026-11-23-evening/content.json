@@ -1,0 +1,185 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Housing and buildings",
+ "pages": [
+  {
+   "type": "list",
+   "title": "HOME WORDS",
+   "tag": "=",
+   "rows": [
+    [
+     "flat",
+     "apartment"
+    ],
+    [
+     "landlord",
+     "owner"
+    ],
+    [
+     "tenant",
+     "renter"
+    ],
+    [
+     "suburb",
+     "outer area"
+    ],
+    [
+     "mortgage",
+     "home loan"
+    ],
+    [
+     "skyscraper",
+     "tall tower"
+    ],
+    [
+     "slum",
+     "poor housing"
+    ],
+    [
+     "detached",
+     "stand-alone"
+    ],
+    [
+     "cramped",
+     "too small"
+    ],
+    [
+     "spacious",
+     "very roomy"
+    ]
+   ]
+  },
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "HOUSE",
+     "bullets": [
+      "The building itself.",
+      "A physical place."
+     ],
+     "examples": [
+      "They bought a big *house*."
+     ]
+    },
+    {
+     "heading": "HOME",
+     "bullets": [
+      "Where you belong.",
+      "Feelings included."
+     ],
+     "examples": [
+      "*Home* is where family lives."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "LOCATION",
+     "bullets": [
+      "Say where it is.",
+      "Use prepositions."
+     ],
+     "example": "It's *located* near the sea."
+    },
+    {
+     "heading": "SIZE",
+     "bullets": [
+      "Say how big.",
+      "Use adjectives."
+     ],
+     "example": "It's a *spacious* flat."
+    },
+    {
+     "heading": "FEELING",
+     "bullets": [
+      "Share the mood.",
+      "Add a detail."
+     ],
+     "example": "It feels *cosy* and warm."
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "POOR",
+   "right": "STRONG",
+   "rows": [
+    [
+     "nice area",
+     "pleasant neighbourhood"
+    ],
+    [
+     "very small",
+     "compact"
+    ],
+    [
+     "very big",
+     "spacious"
+    ],
+    [
+     "old building",
+     "historic building"
+    ],
+    [
+     "dirty",
+     "run-down"
+    ],
+    [
+     "near",
+     "within walking distance"
+    ],
+    [
+     "noisy",
+     "bustling"
+    ],
+    [
+     "quiet",
+     "peaceful"
+    ],
+    [
+     "many people",
+     "densely populated"
+    ],
+    [
+     "good view",
+     "scenic view"
+    ]
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "URBAN WORDS",
+   "items": [
+    {
+     "word": "urbanisation",
+     "meaning": "growth of cities",
+     "example": "*Urbanisation* has increased pollution."
+    },
+    {
+     "word": "overcrowding",
+     "meaning": "too many people in one place",
+     "example": "*Overcrowding* strains public services."
+    },
+    {
+     "word": "infrastructure",
+     "meaning": "roads, power, water systems",
+     "example": "Poor *infrastructure* slows growth."
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "title": "YOUR TURN!",
+   "question": "Which sentence gets a higher band?",
+   "options": [
+    "a) The flat is very big.",
+    "b) The flat is *spacious*."
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Point out, Play it by ear, Little vs A little and more",
+ "pages": [
+  {
+   "title": "Point out",
+   "meaning": "to mention or show something",
+   "synonym": "highlight",
+   "examples": [
+    "She *pointed out* my mistake.",
+    "Let me *point out* one thing."
+   ],
+   "tip": [
+    "point out -> draw attention"
+   ]
+  },
+  {
+   "title": "Play it by ear",
+   "meaning": "to decide as things happen",
+   "synonym": "improvise",
+   "examples": [
+    "We'll *play it by ear*.",
+    "Don't plan; just *play it by ear*."
+   ],
+   "tip": [
+    "Idiom: no fixed plan"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "steps",
+   "title": "Little vs A little",
+   "intro": "One small 'a' changes the mood.",
+   "left": {
+    "label": "Little",
+    "examples": [
+     "I have *little* time.",
+     "*Little* hope."
+    ],
+    "note": "Almost none"
+   },
+   "right": {
+    "label": "A little",
+    "examples": [
+     "I have *a little* time.",
+     "*A little* sugar."
+    ],
+    "note": "Some, enough"
+   },
+   "tip": [
+    "little -> negative",
+    "a little -> positive"
+   ]
+  },
+  {
+   "type": "three",
+   "title": "Where / Were / We're",
+   "intro": "Spot the difference.",
+   "columns": [
+    {
+     "label": "Where",
+     "examples": [
+      "*Where* are you?",
+      "*where* we met"
+     ],
+     "note": "A place"
+    },
+    {
+     "label": "Were",
+     "examples": [
+      "We *were* late.",
+      "They *were* here"
+     ],
+     "note": "Past of 'are'"
+    },
+    {
+     "label": "We're",
+     "examples": [
+      "*We're* happy.",
+      "*We're* leaving."
+     ],
+     "note": "We are"
+    }
+   ],
+   "tip": [
+    "we're -> we are"
+   ]
+  },
+  {
+   "title": "Stand out",
+   "meaning": "to be easily noticed",
+   "synonym": "be noticeable",
+   "examples": [
+    "Her red dress *stood out*.",
+    "Make your CV *stand out*."
+   ],
+   "tip": [
+    "stand out -> be noticed"
+   ]
+  },
+  {
+   "type": "question",
+   "title": "Your turn!",
+   "question": "Fill the gap: 'There's ___ milk left, so buy more.'",
+   "options": [
+    "a) little",
+    "b) a little"
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}
