@@ -1,0 +1,114 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Hit the sack, Hold your horses, Accept vs Except and more",
+ "pages": [
+  {
+   "title": "Hit the sack",
+   "meaning": "to go to bed",
+   "synonym": "hit the hay, turn in",
+   "examples": [
+    "I'm exhausted, I'm going to hit the sack.",
+    "Let's hit the sack early tonight."
+   ],
+   "tip": [
+    "Idiom: informal, about bedtime"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "circles",
+   "title": "Accept vs Except",
+   "intro": "Sound similar, different meanings.",
+   "left": {
+    "label": "Accept",
+    "examples": [
+     "I accept your apology.",
+     "She accepted the job."
+    ],
+    "note": "Say yes or receive"
+   },
+   "right": {
+    "label": "Except",
+    "examples": [
+     "Everyone came except Ravi.",
+     "All days except Sunday."
+    ],
+    "note": "Leaves something out"
+   },
+   "tip": [
+    "accept -> say yes",
+    "except -> leaves out"
+   ]
+  },
+  {
+   "title": "Hold your horses",
+   "meaning": "wait, be patient",
+   "synonym": "hang on, slow down",
+   "examples": [
+    "Hold your horses, I'm almost ready!",
+    "Hold your horses and let me finish."
+   ],
+   "tip": [
+    "Idiom: said when someone rushes"
+   ]
+  },
+  {
+   "type": "three",
+   "title": "Make / Do / Take",
+   "intro": "Three verbs, three common jobs.",
+   "columns": [
+    {
+     "label": "Make",
+     "examples": [
+      "make a mistake",
+      "make a plan"
+     ],
+     "note": "Create or cause"
+    },
+    {
+     "label": "Do",
+     "examples": [
+      "do homework",
+      "do the dishes"
+     ],
+     "note": "Tasks and work"
+    },
+    {
+     "label": "Take",
+     "examples": [
+      "take a break",
+      "take a photo"
+     ],
+     "note": "Action or time"
+    }
+   ],
+   "tip": [
+    "Make -> create something",
+    "Do -> activities",
+    "Take -> quick action"
+   ]
+  },
+  {
+   "title": "Under the weather",
+   "meaning": "feeling slightly ill",
+   "synonym": "off colour, unwell",
+   "examples": [
+    "I feel under the weather today.",
+    "She's been under the weather all week."
+   ],
+   "tip": [
+    "Idiom: mild illness, not serious"
+   ]
+  },
+  {
+   "type": "question",
+   "title": "Your turn!",
+   "question": "Which sentence is correct?",
+   "options": [
+    "a) Everyone came accept Ravi.",
+    "b) Everyone came except Ravi."
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

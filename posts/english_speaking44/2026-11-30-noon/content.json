@@ -1,0 +1,32 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "At the Salon",
+ "slides": [
+  {
+   "hindi": "Thoda sa trim kar do",
+   "english": "Just give me a little trim."
+  },
+  {
+   "hindi": "Baal bahut lambe ho gaye hain",
+   "english": "My hair has grown really long."
+  },
+  {
+   "hindi": "Mujhe layers wala cut chahiye",
+   "english": "I want a layered haircut."
+  },
+  {
+   "hindi": "Shampoo ke baad conditioner lagao",
+   "english": "Apply conditioner after the shampoo."
+  },
+  {
+   "hindi": "Dadhi bhi bana do",
+   "english": "Trim my beard as well."
+  }
+ ],
+ "question": {
+  "hindi": "Hair colour karwana hai",
+  "prompt": "How do you say this in English?"
+ }
+}

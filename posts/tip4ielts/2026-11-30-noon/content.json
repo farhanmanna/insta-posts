@@ -1,0 +1,179 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Technology and the internet",
+ "pages": [
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "ADDICTED",
+     "bullets": [
+      "*Addicted to* is informal and strong.",
+      "*Dependent on* is the formal version."
+     ],
+     "examples": [
+      "Many teens are *addicted to* their phones.",
+      "Farmers are *dependent on* good rain."
+     ]
+    },
+    {
+     "heading": "CONNECT / LINK",
+     "bullets": [
+      "*Connect* means join devices or people.",
+      "*Link* means a clear connection."
+     ],
+     "examples": [
+      "Please *connect* your laptop to Wi-Fi.",
+      "Smoking is *linked to* lung disease."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "TECH WORDS",
+   "items": [
+    {
+     "word": "Innovation",
+     "meaning": "a new idea or invention",
+     "example": "Electric cars are a major *innovation*."
+    },
+    {
+     "word": "Gadget",
+     "meaning": "a small useful device",
+     "example": "Smartwatches are popular *gadgets* today."
+    },
+    {
+     "word": "Virtual",
+     "meaning": "online, not physically present",
+     "example": "Many students attended *virtual* classes."
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "Tech upgrades",
+   "tag": "UPGRADE",
+   "rows": [
+    [
+     "fast internet",
+     "high-speed broadband"
+    ],
+    [
+     "new app",
+     "innovative application"
+    ],
+    [
+     "useful tool",
+     "valuable resource"
+    ],
+    [
+     "rely a lot on",
+     "depend heavily on"
+    ],
+    [
+     "newest model",
+     "latest model"
+    ],
+    [
+     "spend time on",
+     "devote time to"
+    ],
+    [
+     "cheap phone",
+     "affordable device"
+    ],
+    [
+     "keep in touch",
+     "stay connected"
+    ],
+    [
+     "very popular",
+     "widely used"
+    ],
+    [
+     "bad signal",
+     "poor connectivity"
+    ]
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "MOREOVER",
+     "bullets": [
+      "Adds another point.",
+      "Use a comma after it."
+     ],
+     "example": "Smartphones are useful. *Moreover*, they save time."
+    },
+    {
+     "heading": "ON THE OTHER HAND",
+     "bullets": [
+      "Contrasts two views.",
+      "Starts a new sentence."
+     ],
+     "example": "Games can waste time. *On the other hand*, they build teamwork."
+    },
+    {
+     "heading": "IN ADDITION",
+     "bullets": [
+      "Similar to 'moreover'.",
+      "Useful in Writing Task 2."
+     ],
+     "example": "*In addition*, online shopping saves time."
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "CASUAL",
+   "right": "FORMAL",
+   "rows": [
+    [
+     "stuff",
+     "items"
+    ],
+    [
+     "a lot of",
+     "numerous"
+    ],
+    [
+     "cool",
+     "impressive"
+    ],
+    [
+     "big",
+     "substantial"
+    ],
+    [
+     "try out",
+     "evaluate"
+    ],
+    [
+     "check",
+     "verify"
+    ],
+    [
+     "kids",
+     "children"
+    ],
+    [
+     "show",
+     "demonstrate"
+    ]
+   ]
+  },
+  {
+   "type": "question",
+   "title": "YOUR TURN!",
+   "question": "Which sentence would get a higher band score?",
+   "options": [
+    "a) Phones are good for people.",
+    "b) Smartphones give people quick access to information."
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

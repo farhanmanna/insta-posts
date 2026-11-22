@@ -1,0 +1,32 @@
+{
+ "handle": "learnenglishsentences",
+ "website": "www.englishsentences.in",
+ "header": "Daily use English Sentences",
+ "theme": "Hotel Stay",
+ "slides": [
+  {
+   "hindi": "Mera room number kya hai",
+   "english": "What is my room number?"
+  },
+  {
+   "hindi": "Kya subah breakfast milega",
+   "english": "Will breakfast be served in the morning?"
+  },
+  {
+   "hindi": "Mujhe ek extra towel chahiye",
+   "english": "I need an extra towel."
+  },
+  {
+   "hindi": "Checkout ka time kya hai",
+   "english": "What time is the checkout?"
+  },
+  {
+   "hindi": "Hotel ka wifi password kya hai",
+   "english": "What is the hotel's Wi-Fi password?"
+  }
+ ],
+ "question": {
+  "hindi": "Kamra saaf karwa do",
+  "prompt": "How do you say this in English?"
+ }
+}

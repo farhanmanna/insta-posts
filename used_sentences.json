@@ -1804,6 +1804,118 @@
     "MISTAKE / FIX"
    ],
    "question": "Which sentence is correct? a) I *agree* with you. b) I am *agree* with you."
+  },
+  {
+    "channel": "learnenglishsentences",
+    "date": "2026-11-30",
+    "slot": "noon",
+    "theme": "Cooking at Home",
+    "english": [
+      "Let's make khichdi today.",
+      "Soak the rice first.",
+      "There is too much salt in the dal.",
+      "Cutting onions is making my eyes water.",
+      "Eat the food while it's hot."
+    ],
+    "question": "Gas band kar do"
+  },
+  {
+    "channel": "learnenglishsentences",
+    "date": "2026-11-30",
+    "slot": "evening",
+    "theme": "Hotel Stay",
+    "english": [
+      "What is my room number?",
+      "Will breakfast be served in the morning?",
+      "I need an extra towel.",
+      "What time is the checkout?",
+      "What is the hotel's Wi-Fi password?"
+    ],
+    "question": "Kamra saaf karwa do"
+  },
+  {
+    "channel": "english_speaking44",
+    "date": "2026-11-30",
+    "slot": "noon",
+    "theme": "At the Salon",
+    "english": [
+      "Just give me a little trim.",
+      "My hair has grown really long.",
+      "I want a layered haircut.",
+      "Apply conditioner after the shampoo.",
+      "Trim my beard as well."
+    ],
+    "question": "Hair colour karwana hai"
+  },
+  {
+    "channel": "english_speaking44",
+    "date": "2026-11-30",
+    "slot": "evening",
+    "theme": "Online Shopping",
+    "english": [
+      "When will this order arrive?",
+      "How much is the delivery charge?",
+      "I received the wrong size.",
+      "How can I return this?",
+      "Can I pay by card?"
+    ],
+    "question": "Refund kab milega"
+  },
+  {
+    "channel": "phrasalidiomatic",
+    "date": "2026-11-30",
+    "slot": "noon",
+    "theme": "Call it a day, Raise vs Rise, Much / Many / A lot of and more",
+    "english": [
+      "Call it a day",
+      "Raise vs Rise",
+      "Much / Many / A lot of",
+      "Spill the beans",
+      "Fewer vs Less"
+    ],
+    "question": "Which one is correct? There isn't ___ time left."
+  },
+  {
+    "channel": "phrasalidiomatic",
+    "date": "2026-11-30",
+    "slot": "evening",
+    "theme": "Hit the sack, Hold your horses, Accept vs Except and more",
+    "english": [
+      "Hit the sack",
+      "Accept vs Except",
+      "Hold your horses",
+      "Make / Do / Take",
+      "Under the weather"
+    ],
+    "question": "Which sentence is correct?"
+  },
+  {
+    "channel": "tip4ielts",
+    "date": "2026-11-30",
+    "slot": "noon",
+    "theme": "Technology and the internet",
+    "english": [
+      "ADDICTED & CONNECT / LINK",
+      "Tech words",
+      "Tech upgrades",
+      "Moreover / On the other hand / In addition",
+      "Casual vs formal tech words"
+    ],
+    "question": "Which sentence would get a higher band score?"
+  },
+  {
+    "channel": "tip4ielts",
+    "date": "2026-11-30",
+    "slot": "evening",
+    "theme": "Health and lifestyle",
+    "english": [
+      "Stress / Pressure & Fit / Healthy",
+      "Health words",
+      "Casual vs formal health words",
+      "Health collocations",
+      "It is essential / advisable / beneficial to"
+    ],
+    "question": "Which one sounds more formal?"
   }
- ]
+]
 }

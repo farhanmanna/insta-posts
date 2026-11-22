@@ -1,0 +1,128 @@
+{
+ "handle": "phrasalidiomatic",
+ "theme": "Call it a day, Raise vs Rise, Much / Many / A lot of and more",
+ "pages": [
+  {
+   "title": "Call it a day",
+   "meaning": "to stop working for the day",
+   "synonym": "knock off, finish up",
+   "examples": [
+    "We've done enough, let's call it a day.",
+    "It's late, so I'll call it a day."
+   ],
+   "tip": [
+    "Idiom: used at the end of work",
+    "call it a day -> stop for now"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "circles",
+   "title": "Raise vs Rise",
+   "intro": "Both mean something goes up.",
+   "left": {
+    "label": "Raise",
+    "examples": [
+     "Raise your hand.",
+     "She raised her voice."
+    ],
+    "note": "Needs an object"
+   },
+   "right": {
+    "label": "Rise",
+    "examples": [
+     "Prices rose again.",
+     "The sun rises early."
+    ],
+    "note": "No object"
+   },
+   "tip": [
+    "raise + object -> raise the price",
+    "rise -> no object"
+   ]
+  },
+  {
+   "type": "three",
+   "title": "Much / Many / A lot of",
+   "intro": "All mean a large amount.",
+   "columns": [
+    {
+     "label": "Much",
+     "examples": [
+      "much time",
+      "much water"
+     ],
+     "note": "Uncountable"
+    },
+    {
+     "label": "Many",
+     "examples": [
+      "many books",
+      "many friends"
+     ],
+     "note": "Countable"
+    },
+    {
+     "label": "A lot of",
+     "examples": [
+      "a lot of fun",
+      "a lot of people"
+     ],
+     "note": "Either one"
+    }
+   ],
+   "tip": [
+    "Much / many -> mostly questions & negatives",
+    "A lot of -> any sentence"
+   ]
+  },
+  {
+   "title": "Spill the beans",
+   "meaning": "to reveal a secret",
+   "synonym": "let the cat out of the bag",
+   "examples": [
+    "Who spilled the beans about the party?",
+    "Don't spill the beans yet!"
+   ],
+   "tip": [
+    "Idiom: a secret told too early"
+   ]
+  },
+  {
+   "type": "compare",
+   "layout": "steps",
+   "title": "Fewer vs Less",
+   "intro": "Both mean a smaller amount.",
+   "left": {
+    "label": "Less",
+    "examples": [
+     "less sugar",
+     "less time"
+    ],
+    "note": "Uncountable nouns"
+   },
+   "right": {
+    "label": "Fewer",
+    "examples": [
+     "fewer mistakes",
+     "fewer calories"
+    ],
+    "note": "Countable nouns"
+   },
+   "tip": [
+    "less -> water, money",
+    "fewer -> books, people"
+   ]
+  },
+  {
+   "type": "question",
+   "title": "Your turn!",
+   "question": "Which one is correct? There isn't ___ time left.",
+   "options": [
+    "a) many",
+    "b) much"
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

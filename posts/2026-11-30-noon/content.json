@@ -1,0 +1,32 @@
+{
+ "handle": "learnenglishsentences",
+ "website": "www.englishsentences.in",
+ "header": "Daily use English Sentences",
+ "theme": "Cooking at Home",
+ "slides": [
+  {
+   "hindi": "Aaj khichdi banate hain",
+   "english": "Let's make khichdi today."
+  },
+  {
+   "hindi": "Chawal pehle bheego do",
+   "english": "Soak the rice first."
+  },
+  {
+   "hindi": "Dal mein namak zyada ho gaya",
+   "english": "There is too much salt in the dal."
+  },
+  {
+   "hindi": "Pyaaz kaatte waqt aansu aa rahe hain",
+   "english": "Cutting onions is making my eyes water."
+  },
+  {
+   "hindi": "Khana garam garam khaa lo",
+   "english": "Eat the food while it's hot."
+  }
+ ],
+ "question": {
+  "hindi": "Gas band kar do",
+  "prompt": "How do you say this in English?"
+ }
+}

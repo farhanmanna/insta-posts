@@ -1,0 +1,187 @@
+{
+ "handle": "tip4ielts",
+ "theme": "Health and lifestyle",
+ "pages": [
+  {
+   "type": "sections",
+   "sections": [
+    {
+     "heading": "STRESS / PRESSURE",
+     "bullets": [
+      "*Stress* is a feeling of mental strain.",
+      "*Pressure* often comes from work or others."
+     ],
+     "examples": [
+      "Long hours cause a lot of *stress*.",
+      "Exam *pressure* can feel overwhelming."
+     ]
+    },
+    {
+     "heading": "FIT / HEALTHY",
+     "bullets": [
+      "*Fit* means physically strong.",
+      "*Healthy* means good for your body."
+     ],
+     "examples": [
+      "He stays *fit* by running daily.",
+      "Vegetables are a *healthy* choice."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "boxes",
+   "title": "HEALTH WORDS",
+   "items": [
+    {
+     "word": "Diet",
+     "meaning": "the food you usually eat",
+     "example": "A balanced *diet* keeps you strong."
+    },
+    {
+     "word": "Fitness",
+     "meaning": "physical health and strength",
+     "example": "Yoga improves your *fitness* and flexibility."
+    },
+    {
+     "word": "Immunity",
+     "meaning": "the body's ability to fight illness",
+     "example": "Good sleep boosts your *immunity*."
+    }
+   ]
+  },
+  {
+   "type": "glossary",
+   "left": "CASUAL",
+   "right": "FORMAL",
+   "rows": [
+    [
+     "tired",
+     "fatigued"
+    ],
+    [
+     "sick",
+     "unwell"
+    ],
+    [
+     "cut down on",
+     "reduce"
+    ],
+    [
+     "get better",
+     "recover"
+    ],
+    [
+     "kind of",
+     "somewhat"
+    ],
+    [
+     "get rid of",
+     "eliminate"
+    ],
+    [
+     "hard",
+     "demanding"
+    ],
+    [
+     "look after",
+     "maintain"
+    ],
+    [
+     "put on weight",
+     "gain weight"
+    ],
+    [
+     "check out",
+     "examine"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "title": "Health collocations",
+   "tag": "HEALTH",
+   "rows": [
+    [
+     "do exercise",
+     "work out"
+    ],
+    [
+     "healthy food",
+     "nutritious meals"
+    ],
+    [
+     "lose weight",
+     "shed pounds"
+    ],
+    [
+     "feel stressed",
+     "feel anxious"
+    ],
+    [
+     "stay fit",
+     "keep in shape"
+    ],
+    [
+     "sleep badly",
+     "suffer insomnia"
+    ],
+    [
+     "get sick",
+     "fall ill"
+    ],
+    [
+     "quit smoking",
+     "give up smoking"
+    ],
+    [
+     "see a doctor",
+     "consult a physician"
+    ],
+    [
+     "eat well",
+     "maintain a diet"
+    ]
+   ]
+  },
+  {
+   "type": "pens",
+   "sections": [
+    {
+     "heading": "IT IS ESSENTIAL TO",
+     "bullets": [
+      "Use with a verb.",
+      "Strong for Task 2 arguments."
+     ],
+     "example": "*It is essential to* sleep well."
+    },
+    {
+     "heading": "IT IS ADVISABLE TO",
+     "bullets": [
+      "Gives soft advice.",
+      "Use with a to-infinitive."
+     ],
+     "example": "*It is advisable to* drink enough water."
+    },
+    {
+     "heading": "IT IS BENEFICIAL TO",
+     "bullets": [
+      "Shows a positive effect.",
+      "Common in Writing Task 2."
+     ],
+     "example": "*It is beneficial to* exercise daily."
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "title": "YOUR TURN!",
+   "question": "Which one sounds more formal?",
+   "options": [
+    "a) Cut down on sugar.",
+    "b) Reduce your sugar intake."
+   ],
+   "cta": "Write a or b in the comments!"
+  }
+ ]
+}

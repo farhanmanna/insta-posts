@@ -1,0 +1,32 @@
+{
+ "handle": "english_speaking44",
+ "website": "",
+ "header": "Daily use English Sentences",
+ "theme": "Online Shopping",
+ "slides": [
+  {
+   "hindi": "Yeh order kab tak aayega",
+   "english": "When will this order arrive?"
+  },
+  {
+   "hindi": "Delivery charge kitna hai",
+   "english": "How much is the delivery charge?"
+  },
+  {
+   "hindi": "Galat size aa gaya hai",
+   "english": "I received the wrong size."
+  },
+  {
+   "hindi": "Return kaise karun",
+   "english": "How can I return this?"
+  },
+  {
+   "hindi": "Card se payment ho jayega kya",
+   "english": "Can I pay by card?"
+  }
+ ],
+ "question": {
+  "hindi": "Refund kab milega",
+  "prompt": "How do you say this in English?"
+ }
+}
